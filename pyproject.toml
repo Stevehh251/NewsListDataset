@@ -9,6 +9,7 @@ packages = [{include = "my_dataset"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 beautifulsoup4 = "^4.12.3"
+tqdm = "^4.66.2"
 
 
 [build-system]

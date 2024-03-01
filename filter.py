@@ -1,6 +1,7 @@
 import re
 import sys
 
+from tqdm import tqdm
 from glob import glob
 from collections import defaultdict
 from filter_intersection import filter_intersection
@@ -43,7 +44,7 @@ if __name__ == "__main__":
     before = 0
     after = 0
     to_filter = good_filenames.copy()
-    for filename in to_filter:
+    for filename in tqdm(to_filter):
         before += 1
         after += 1
         if not bs_checker(filename) :
