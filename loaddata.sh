@@ -1,1 +1,1 @@
-git merge data
+git merge -s ours data
