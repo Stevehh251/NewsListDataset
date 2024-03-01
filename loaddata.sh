@@ -1,1 +1,1 @@
-git merge -s their data -m "Load data"
+git merge -m "Load data"
