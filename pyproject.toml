@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "my-dataset"
+version = "0.1.0"
+description = ""
+authors = ["Alexander Kustenkov <kustaa@ispras.ru>"]
+readme = "README.md"
+packages = [{include = "my_dataset"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+bs4 = "^0.0.2"
+BeautifulSoup = "^3.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
