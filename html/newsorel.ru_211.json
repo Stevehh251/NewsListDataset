@@ -1,0 +1,508 @@
+{
+    "url": "https://newsorel.ru/cat_incidients.html",
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n   <head>\n      <meta charset=\"UTF-8\">\n      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n      <meta http-equiv=\"Cache-Control\" content=\"max-age=604800, public\" />\n      \n    <base href=\"https://newsorel.ru/\">\n        <title>Происшествия  -  Орловские новости. Новости Орла и Орловской области, сегодня и сейчас</title>\n        <meta name=\"Keywords\" content=\"  Орловские новости\">\n        <meta name=\"Description\" content=\"  Последние новости Орла: происшествия, ДТП, события, политика, ЖКХ, экономика, бизнес, финансы, культура, спорт, афиша мероприятий. Свежие и актуальные репортажи, интервью, мнения экспертов, аналитика. Сетевое издание.\">\n        <meta property=\"og:image\" content=\"https://newsorel.ru/images/logo-sm.png\">\n\n        \t<meta name=\"twitter:card\" content=\"summary\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<link rel=\"canonical\" href=\"https://newsorel.ru/cat_incidients.html\"/>\n\t<meta property=\"og:url\" content=https://newsorel.ru/cat_incidients.html />\n\t<meta property=\"og:title\" content=\"Происшествия\" />\n\t<meta property=\"og:description\" content=\"\" />\n\t\n\n\n        <link rel=\"preconnect\" href=\"https://region.center\">\n        <link rel=\"dns-prefetch\" href=\"https://region.center\">\n\n \n\n        <link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"favicon/apple-icon-57x57.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"favicon/apple-icon-60x60.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"favicon/apple-icon-72x72.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"favicon/apple-icon-76x76.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"favicon/apple-icon-114x114.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"favicon/apple-icon-120x120.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"favicon/apple-icon-144x144.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"favicon/apple-icon-152x152.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon/apple-icon-180x180.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"favicon/android-icon-192x192.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon/favicon-32x32.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"favicon/favicon-96x96.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"favicon/favicon-16x16.png\">\n\n        <meta name=\"msapplication-TileImage\" content=\"favicon/ms-icon-144x144.png\">\n\n \n\n\n      <link rel=\"stylesheet\" href=\"css2/style.css?_v=20221216155958\">\n\n\n      <style>\n         embed, iframe, object, video {\n             max-width: 100%;\n         }\n         body {\n         background:#fff;\n         } \n .detale-news-block__text a {\n         color:#27598b !important;\n         font-size:16px !important;\n\n\n        }\n         .detale-news-block__text img {\nheight:100% !important;\n       width:100%;\n        }\n        \n  </style>\n\n\n\n   <!-- Yandex.RTB -->\n   <script>window.yaContextCb=window.yaContextCb||[]</script>\n   <script src=\"https://yandex.ru/ads/system/context.js\" async></script>\n\n\n   </head>\n\n   <body>\n   <div align=\"center\">\n    <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: перетяжка-->\n<!--Расположение: верх страницы-->\n<div id=\"adfox_169752384578981333\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752384578981333',\n            params: {\n                pp: 'g',\n                ps: 'fusg',\n                p2: 'hryr'\n            }\n        })\n    })\n</script>\n         </div>\n\n      <div class=\"wrapper\" id=\"app\" :class=\"{isMobile, isTablet}\">\n       </div>\n      <div class=\"content\">\n\n        \n      <aside class=\"left-block\">\n         <div class=\"left-container sticky_block\">\n            <a href=\".\" class=\"logo-block\">\n               <picture>\n                  <img class=\"logo-block__image\" src=\"img/icon.png\" style=\"width:70px !important;\">\n               </picture>\n               <div class=\"logo-block__name\">\n                  <span>Орловские новости</span>\n               </div>\n            </a>\n            <div class=\"menu-list-glavnaya\">\n               <ul class=\"menu-list\">\n                  <li class=\"menu-list__item\"><a href=\"cat_analytics.html\">Аналитика</a></li><li class=\"menu-list__item\"><a href=\"cat_society.html\">Общество</a></li><li class=\"menu-list__item\"><a href=\"cat_svo.html\">СВО</a></li><li class=\"menu-list__item\"><a href=\"cat_top100_vliyatelnyh_lyudey2023.html\">ТОП-100 влиятельных людей-2023</a></li><li class=\"menu-list__item\"><a href=\"cat_job.html\">Вакансии</a></li><li class=\"menu-list__item\"><a href=\"cat_sport.html\">Спорт</a></li><li class=\"menu-list__item\"><a href=\"cat_culture.html\">Культура</a></li><li class=\"menu-list__item\"><a href=\"cat_ecology.html\">Экология</a></li><li class=\"menu-list__item\"><a href=\"cat_agro.html\">Агро</a></li><li class=\"menu-list__item\"><a href=\"cat_incidients.html\">Происшествия</a></li><li class=\"menu-list__item\"><a href=\"cat_delobudagova.html\">Дело Будагова</a></li><li class=\"menu-list__item\"><a href=\"cat_koronavirus.html\">Здоровье</a></li><li class=\"menu-list__item\"><a href=\"cat_business.html\">Бизнес</a></li><li class=\"menu-list__item\"><a href=\"cat_economy.html\">Экономика</a></li><li class=\"menu-list__item\"><a href=\"cat_delo_dobrohvalova.html\">Дело Доброхвалова</a></li><li class=\"menu-list__item\"><a href=\"cat_podcast.html\">Подкасты</a></li><li class=\"menu-list__item\"><a href=\"cat_primjalibemurzalevskim.html\">Прямая линия с Музалевским</a></li><li class=\"menu-list__item\"><a href=\"cat_history.html\">Истории</a></li><li class=\"menu-list__item\"><a href=\"cat_company.html\">Новости компаний</a></li><li class=\"menu-list__item\"><a href=\"cat_afisha.html\">Афиша</a></li><li class=\"menu-list__item\"><a href=\"cat_jkh.html\">ЖКХ</a></li><li class=\"menu-list__item\"><a href=\"cat_necrolog.html\">Память</a></li><li class=\"menu-list__item\"><a href=\"cat_investigation.html\">Расследования </a></li><li class=\"menu-list__item\"><a href=\"cat_interview.html\">Интервью</a></li><li class=\"menu-list__item\"><a href=\"cat_politics.html\">Политика</a></li>                   <li class=\"menu-list__item\"><a target=\"_blank\"  href=\"http://top100region.ru/orel\">100 самых влиятельных людей</a></li>\n                  <li class=\"menu-list__item menu-list__item-more\"></li>\n               </ul>\n            </div>\n            <form class=\"search\">\n \n\n<div class=\"ya-site-form ya-site-form_inited_no\" data-bem=\"{&quot;action&quot;:&quot;https://newsorel.ru/search.html&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по newsorel.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2523564,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#3f687b&quot;}\"><form action=\"https://yandex.ru/search/site/\" method=\"get\" target=\"_self\" accept-charset=\"utf-8\"><input type=\"hidden\" name=\"searchid\" value=\"2523564\"/><input type=\"hidden\" name=\"l10n\" value=\"ru\"/><input type=\"hidden\" name=\"reqenc\" value=\"\"/><input type=\"search\" name=\"text\" value=\"\"/><input type=\"submit\" value=\"Найти\"/></form></div><style type=\"text/css\">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type=\"text/javascript\">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>\n \n\n\n            </form>\n             \n             \n\n            \n\n\n            <div class=\"news-aside-block\">\n\n   <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: низ страницы-->\n<div id=\"adfox_169752394294317962\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752394294317962',\n            params: {\n                pp: 'i',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n\n\n\n               <a href=\"cat_company.html\" class=\"news-aside-block__title\">Новости компаний</a>\n                \n                        <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <picture>\n                                <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/1_1.%5B1%5D.jpg\" alt=\"image\">\n                            </picture>\n                        </a><div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">28/12</a></span><span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">15:01</a></span>\n                            <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <p>С заботой о самом главном: сеть медицинских центров «САКАРА» отмечает юбилей</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425602.html\">28/12</a></span><span><a href=\"fn_1425602.html\">10:34</a></span>\n                            <a href=\"fn_1425602.html\">\n                            <p>Прайс-лист на создание и размещение агитационных материалов 2024</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">25/12</a></span><span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">17:00</a></span>\n                            <a href=\"fn_1424328.html?erid=LjN8K96Zx\">\n                            <p>«Мираторг»  организовал практику для орловской молодёжи</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">25/12</a></span><span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">15:16</a></span>\n                            <a href=\"fn_1424232.html?erid=LjN8KBSLA\">\n                            <p>ВТБ: в 2023 году рынок рублевых сбережений вырастет на 21%</p>\n                            </a>\n                        </div>\n            </div>\n\n\n         \n            <div class=\"news-aside-block\">\n               <a href=\"cat_business.html\" class=\"news-aside-block__title\">Бизнес</a>\n                \n                    <a href=\"fn_1425125.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/4z0a3750.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425125.html\">28/12</a></span><span><a href=\"fn_1425125.html\">20:00</a></span>\n                        <a href=\"fn_1425125.html\">\n                           <p>Михаил Вдовин рассказал на премии «Орловский бизнес», зачем нужно награждать предпринимателей</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425384.html\">28/12</a></span><span><a href=\"fn_1425384.html\">10:20</a></span>\n                        <a href=\"fn_1425384.html\">\n                           <p>«Для нас это очередная победа»: директор «МРТ-Эксперт Орел» о победе в премии «Орловский бизнес-2023»</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1424552.html\">27/12</a></span><span><a href=\"fn_1424552.html\">21:00</a></span>\n                        <a href=\"fn_1424552.html\">\n                           <p>«Быть на месте лауреата – это торжественно и почетно»: депутат объяснил важность премии «Орловский бизнес» для лауреатов</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425279.html\">27/12</a></span><span><a href=\"fn_1425279.html\">16:30</a></span>\n                        <a href=\"fn_1425279.html\">\n                           <p>«Это очень приятно»: руководитель коллегии адвокатов «Alpha Level»» о победе в премии «Орловский бизнес»</p>\n                        </a>\n                     </div>\n           \n            </div>\n\n\n            <div class=\"news-aside-block\">\n               <a target=\"_blank\" href=\"https://brandrussia.online\" class=\"news-aside-block__title\">Бренды России</a>\n                \n                    <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1408855.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Tul%20Brendi/3_2023/1_1.%5B227%5D.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1408855.html\">03/12</a></span><span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1408855.html\">12:42</a></span>\n                        <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1408855.html\">\n                           <p>Храмосоздательница Елизавета Хрипкова</p>\n                        </a>\n                     </div>\n \n            </div>\n\n\n\n            \n         </div>\n         <div class=\"helper_for_sticky\"></div>\n      </aside> \n\t<main class=\"content-block\">\n\t<div class=\"content-container\">\n\t\t<div class=\"button-top__wrapper\">\n\t<div class=\"button-top\" style=\"--top_position:30px;\">\n\t</div>\n\t</div>\n\t\t<div class=\"bread-crumbs\">\n\t<ul>\n\t\t<li> <a href=\".\"> Главная</a> <span> > </span></li>\n\t\t<li><a href=\"cat_incidients.html\">Происшествия </a></li>\n\t</ul>\n\t</div>\n\t<div class=\"title-extreme-news\">\n\t<div class=\"title-extreme-news__in\">\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<h2>Последние новости</h2>\n\t\t</div>\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<div>Категория</div>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<a href=\"cat_incidients.html\">Происшествия </a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n\t</div>\n\t<div class=\"main-news-list\">\n   <div class=\"big-news-list-block extreme-news-list\"><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425800.html\"> 28/12/2023 21:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425800.html\" >УК придется расплатиться перед орловцем из-за залитой квартиры </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425908.html\"> 28/12/2023 18:10</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425908.html\" >Фотофакт: на Болховском шоссе в Орле авария спровоцировала пробку </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425578.html\"> 28/12/2023 10:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425578.html\" >В Залегощенском районе в канун Нового года пламя испепелило жилой дом </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425469.html\"> 28/12/2023 00:58</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425469.html\" >В аварии на трассе «Орёл-Калуга» пострадал человек </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425360.html\"> 27/12/2023 23:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425360.html\" >Орловец угнал “Жигули” в соседнем районе города, а затем спрятал в укромном месте </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425373.html\"> 27/12/2023 18:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425373.html\" >Трое подростков из Купчино напали на курьера, когда тот решил передохнуть </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425305.html\"> 27/12/2023 17:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425305.html\" >Житель Мценска признался в четырех преступлениях, совершенных за один вечер </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425259.html\"> 27/12/2023 14:34</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425259.html\" >В Становом произошло жесткое столкновение двух КАМАЗов. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/vCgywVClDsSg?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425079.html\"> 27/12/2023 11:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1425079.html\" >Два человека доставлены в областную больницу после ДТП на зимней орловской дороге </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424941.html\"> 27/12/2023 00:55</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424941.html\" >В Болховском районе водитель «вылетел» в кювет </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424516.html\"> 26/12/2023 10:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424516.html\" >Под Орлом пожилой водитель допустил съезд в обочину и скрылся с места ДТП </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424537.html\"> 26/12/2023 10:10</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424537.html\" >На даче в Орловской области едва не взорвались газовые баллоны </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424341.html\"> 25/12/2023 23:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424341.html\" >Орловец потратил более восьми тыс. рублей с чужого счета на такси и покупки </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424335.html\"> 25/12/2023 17:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424335.html\"  style=\"color:red;\" >Проститутка из Орловской области стала жертвой маньяка из Москвы </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424263.html\"> 25/12/2023 15:22</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424263.html\"  style=\"color:red;\" >В Орле бывшие полицейские, не ходившие к студентам на пары, отделались штрафами </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424236.html\"> 25/12/2023 14:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424236.html\" >С наступлением оттепели орловцы все чаще ломают лодыжки и голени </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424024.html\"> 25/12/2023 09:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1424024.html\" >В Залегощенском районе загорелся дом с двумя многодетными семьями </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423955.html\"> 25/12/2023 00:50</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423955.html\" >В Залегощенском районе загорелся жилой дом </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423940.html\"> 24/12/2023 21:20</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423940.html\" >Заключенный Мценской колонии оштрафован за татуировку с «черным солнцем» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423851.html\"> 24/12/2023 14:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423851.html\" >В Орле снежная стихия повредила автобусную остановку </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423830.html\"> 24/12/2023 13:35</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423830.html\" >Орловец признался в краже телевизора у задремавшего знакомого </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423788.html\"> 24/12/2023 11:10</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423788.html\" >В Колпне два человека пострадали после столкновения с КАМАЗом </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423718.html\"> 24/12/2023 00:47</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423718.html\" >В Колпнянском районе в ДТП пострадали люди </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423697.html\"> 23/12/2023 21:35</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423697.html\" >Во Мценске произошло ДТП с потерпевшими </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423669.html\"> 23/12/2023 18:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423669.html\"  style=\"color:red;\" >Орловец, спасавший  собаку, провалился под лед </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423617.html\"> 23/12/2023 15:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423617.html\" >В Урицком районе водитель вылетел с трассы </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423214.html\"> 22/12/2023 23:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423214.html\" >Орловец забрался ночью в магазин обоев и похитил деньги </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423153.html\"> 22/12/2023 17:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423153.html\" >Выпившая жительница Орловской области решила ножом выразить неприязнь к знакомому </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423129.html\"> 22/12/2023 11:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1423129.html\"  style=\"color:red;\" >Несовершеннолетняя орловчанка попала под колеса иномарки </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422981.html\"> 22/12/2023 04:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422981.html\" >В Орле попало на видео массовое ДТП с участием пяти автомобилей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422888.html\"> 21/12/2023 22:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422888.html\" >Орловчанка распивала спиртное с новым знакомым, а потом заметила пропажу денег </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422835.html\"> 21/12/2023 18:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422835.html\" >Орловец, жестоко убивший жену, проведет долгие годы за решеткой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422668.html\"> 21/12/2023 13:05</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422668.html\"  style=\"color:red;\" >Под Орлом осудили парней, у которых нашли взрывчатку </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422564.html\"> 21/12/2023 11:05</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422564.html\" >В Орле 80-летняя женщина попала под колеса иномарки </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422535.html\"> 21/12/2023 11:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422535.html\" >В Орле госпитализирована пара, врезавшаяся в дерево </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422405.html\"> 21/12/2023 02:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422405.html\" >В Орле выгорел торговый павильон </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422200.html\"> 20/12/2023 23:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422200.html\" >Орловец под надуманным предлогом вымогал 200 тыс. рублей у своего знакомого </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422236.html\"> 20/12/2023 22:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422236.html\" >За сутки мошенники обманули жителей Северного района Орла на 4 млн рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422176.html\"> 20/12/2023 14:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422176.html\" >Эксперт рассказал, как не стать жертвой телефонных мошенников </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422044.html\"> 20/12/2023 11:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1422044.html\"  style=\"color:red;\" >Мэр Орла призвал УК всерьез заняться крышами </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421984.html\"> 20/12/2023 10:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421984.html\" >Ночью на Машиностроительной загорелся грузовик </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421970.html\"> 20/12/2023 09:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421970.html\" >В Орле госпитализирована женщина, сбитая иномаркой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421950.html\"> 20/12/2023 09:20</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421950.html\" >В Орле пострадал 27-летний мужчина, находившийся в горящем «Ларгусе» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421583.html\"> 19/12/2023 22:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421583.html\" >В Орловской области в ходе конфликта мужчина поднял руку на пенсионера и украл у него два телефона </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421711.html\"> 19/12/2023 20:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421711.html\" >Амчанин на почве ревности избил до смерти местного жителя в Ливнах </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421207.html\"> 19/12/2023 09:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421207.html\" >Пьяный житель Орловской области угрожал полицейским с ружьем в руках </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421192.html\"> 18/12/2023 20:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421192.html\" >Житель Болхова скончался в больнице после конфликта со своим знакомым </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421008.html\"> 18/12/2023 13:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1421008.html\"  style=\"color:red;\" >Избиение директором ФК «Орёл» детского тренера попало на видео. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/vXP_x1OaD0x8?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420900.html\"> 18/12/2023 12:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420900.html\" >В Орле столкнулись два автобуса, пострадала пожилая пассажирка </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420785.html\"> 18/12/2023 01:26</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420785.html\" >В Орле оборванные электропровода опасно легли поперёк проезжей части </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420610.html\"> 17/12/2023 21:22</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420610.html\" >Орловец решил купить в интернете швейную машинку и влетел на деньги </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420641.html\"> 17/12/2023 19:22</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420641.html\"  style=\"color:red;\" >Суд на три года ограничил орловца в употреблении наркотиков </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420651.html\"> 17/12/2023 14:23</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420651.html\"  style=\"color:red;\" >Прокуратура усмотрела причастность мэрии Орла к обрушению крыши на Васильевской </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420647.html\"> 17/12/2023 14:06</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420647.html\"  style=\"color:red;\" >В Орле в жилом доме обрушилась крыша </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420594.html\"> 17/12/2023 11:19</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420594.html\" >В Ливенском районе перевернулся автомобиль </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420511.html\"> 17/12/2023 00:37</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420511.html\" >Легковушка «вылетела» в кювет на трассе в Орловской области: есть пострадавший </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420461.html\"> 16/12/2023 19:01</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420461.html\"  style=\"color:red;\" >В Орле в аварию попал муниципальный автобус </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420401.html\"> 16/12/2023 16:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420401.html\"  style=\"color:red;\" >Жители Орла массово жалуются на загрязнение воздуха </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420177.html\"> 16/12/2023 09:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420177.html\"  style=\"color:red;\" >Как в Орловской области и других регионах ЦФО справлялись с метелью: обзор «Региональных новостей» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420259.html\"> 16/12/2023 01:43</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420259.html\" >Грандиозный трамвайный коллапс в Орле попал на видео </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420150.html\"> 15/12/2023 21:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420150.html\" >Житель Тольятти собрал 10 млн на бизнес, но лишился денег из-за слухов </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420155.html\"> 15/12/2023 18:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1420155.html\" >Маршрутка «Некрасовка-Лаврово» оказалась в снежном плену. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/v3J8vCqZND0E?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419954.html\"> 15/12/2023 13:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419954.html\"  style=\"color:red;\" >Водитель КАМАЗа, госпитализированный после аварии на Телецентре, может пойти под суд </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419937.html\"> 15/12/2023 13:08</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419937.html\"  style=\"color:red;\" >Замглавврача Перинатального центра Свистунов отстранен от должности </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419930.html\"> 15/12/2023 13:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419930.html\"  style=\"color:red;\" >Один человек погиб, два пострадали в аварии на Телецентре </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419837.html\"> 15/12/2023 11:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419837.html\" >Орловцам предлагают проехаться на такси за тысячу рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419816.html\"> 15/12/2023 11:10</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419816.html\" >В Орловской области множество машин не смогли выбраться из снега без помощи спасателей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419749.html\"> 15/12/2023 09:50</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419749.html\"  style=\"color:red;\" >В 909 квартале застряла машина скорой с тяжелым пациентом. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/vE0M080uppHs?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419623.html\"> 14/12/2023 20:47</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419623.html\"  style=\"color:red;\" >Из-за аварии на теплосети в Заводском районе отключили отопление </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419584.html\"> 14/12/2023 18:24</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419584.html\"  style=\"color:red;\" >В Орловской области из-за метели образовалась колоссальная пробка </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419568.html\"> 14/12/2023 18:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419568.html\"  style=\"color:red;\" >Трамвай на улице Пушкина в Орле съехал с рельс и развернулся на другую улицу. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/vNEq9BORWyRg?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419231.html\"> 14/12/2023 12:20</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419231.html\" >В Орле во время футбольного матча у 20-летнего игрока случился инсульт </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419189.html\"> 14/12/2023 10:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419189.html\" >В Кромском районе три человека пострадали в жесткой аварии </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419180.html\"> 14/12/2023 09:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419180.html\" >В Орловской области в снегах застрял мобильный ФАП </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419087.html\"> 14/12/2023 03:29</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419087.html\" >В Кромском районе выгорел нежилой дом </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419086.html\"> 14/12/2023 02:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1419086.html\" >В Новосильском районе легковушка вылетела в кювет и перевернулась </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418870.html\"> 13/12/2023 22:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1418870.html\" >Житель Орловской области избил знакомого и попытался смягчить свое наказание </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418893.html\"> 13/12/2023 16:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1418893.html\"  style=\"color:red;\" >Под Орлом подростки разгромили сквер Фета </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418634.html\"> 13/12/2023 10:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1418634.html\"  style=\"color:red;\" >Три кареты скорой помощи стали пленниками орловского снегопада </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418537.html\"> 13/12/2023 00:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1418537.html\" >При столкновении автомобилей в Орле пострадали люди </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418150.html\"> 12/12/2023 11:15</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1418150.html\" >В Орле столкнулись пожилые водители «Рено» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418074.html\"> 12/12/2023 09:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1418074.html\" >В орловской глубинке русская печь едва не сожгла деревянный дом </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417999.html\"> 12/12/2023 03:10</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417999.html\" >В Мценском районе автомобиль вылетел в кювет: есть пострадавшие </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417703.html\"> 11/12/2023 14:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417703.html\" >В Орловской области мужчина с несовершеннолетним украл подушки из двух домов </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417540.html\"> 11/12/2023 09:45</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417540.html\" >В Орловской области вспыхнули перекрытия жилого дома </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417463.html\"> 11/12/2023 00:39</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417463.html\"  style=\"color:red;\" >В перевернувшейся в Орловской области легковушке пострадали люди </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416893.html\"> 10/12/2023 21:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1416893.html\" >Орловец сделал больно полицейскому и был оштрафован на 50 тыс. рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417283.html\"> 10/12/2023 09:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417283.html\" >В аварии под Орлом погибла 31-летняя женщина </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417224.html\"> 09/12/2023 20:18</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417224.html\"  style=\"color:red;\" >В Орле возле Красного моста троллейбус оборвал провода </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417116.html\"> 09/12/2023 13:17</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417116.html\"  style=\"color:red;\" >Стали известны подробности пожара на центральном рынке Орла. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/vCPIdkCeDen4?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417111.html\"> 09/12/2023 12:54</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417111.html\"  style=\"color:red;\" >В Орле горит павильон центрального рынка </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417100.html\"> 09/12/2023 12:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417100.html\" >Фотофакт: на Карачевском шоссе перевернулась иномарка </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417012.html\"> 09/12/2023 05:30</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417012.html\" >В деревне Орловского округа загорелся жилой дом </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417003.html\"> 09/12/2023 02:25</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417003.html\" >Пожарные потушили возгорание в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417001.html\"> 09/12/2023 01:14</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417001.html\" >Жилой дом загорелся в Орловском округе </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417002.html\"> 09/12/2023 00:34</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1417002.html\" >Водитель в Троснянском районе не справился с управлением: есть пострадавший </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416684.html\"> 08/12/2023 21:00</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1416684.html\" >Житель Орловской области осужден за кражу, разбой, угрозу убийством и убийство </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416798.html\"> 08/12/2023 14:43</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1416798.html\"  style=\"color:red;\" >Полицейские заинтересовались орловцем, разрисовавшим дом рекламой наркотиков </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416781.html\"> 08/12/2023 14:24</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1416781.html\"  style=\"color:red;\" >Стала известна судьба «зубра», убегавшего от ДПСника в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416718.html\"> 08/12/2023 12:51</a>\n\t\t\t<a href=\"cat_incidients.html\">Происшествия</a>\n\t\t\t<h2> <a href=\"fn_1416718.html\"  style=\"color:red;\" >Орловчанка запечатлела парня, разрисовавшего дом подозрительной рекламой </a></h2></div>\n</div>\n</div>\n\n\n<div class=\"advertisement-block\">\n\t\t  <div class=\"advertisement-block__in\"><h2 style=\"font-size:20px;\">Присылайте новости нашему Дежурному – получайте вознаграждение! </h2>\n\t\t\t <div class=\"advertisement-buttons\">\n\t\t\t <a href=\"https://t.me/priemnovostei\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#27a6e5; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/e29acb9ca6eaa7c66b34804e29b2cc06.svg\" alt=\"Telegram Дежурный\">\n\t\t\t\t</a></div></div>\n\t   </div>\n\n\n\n\n<div class=\"main-news-block\">\n   <div class=\"main-news-block__in\">\n      <h2>Главные новости</h2><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425853.html\"><span> 28/12/2023 16:03</span></a>\n \t\t\t\t<a href=\"fn_1425853.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Локоть пошел. Стоит ли ждать ухода Клычкова?</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425101.html\"><span> 27/12/2023 11:45</span></a>\n \t\t\t\t<a href=\"fn_1425101.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Политологи оценили достижения Клычкова за год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424196.html\"><span> 25/12/2023 13:30</span></a>\n \t\t\t\t<a href=\"fn_1424196.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">«Вандалом», испортившим бюсты героев на Бульваре Победы в Орле, оказалась патина</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424081.html\"><span> 25/12/2023 11:00</span></a>\n \t\t\t\t<a href=\"fn_1424081.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Орловский стилист посоветовала запоминающиеся образы на Новый год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1423596.html\"><span> 23/12/2023 13:35</span></a>\n \t\t\t\t<a href=\"fn_1423596.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Клычков стал кандидатом политических наук</h2>\n\t\t\t\t</a>\n\t\t\t </div></div>\n</div>\n</div>\n</main><aside class=\"right-block\">\n         <div class=\"right-container sticky_block\">\n            <div class=\"social-network-block\">\n                <a target=\"_blank\" href=\"https://vk.com/newsorel\"><img src=\"img/vk.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://ok.ru/newsorel\"><img src=\"img/ok.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://t.me/newsorel\"><img src=\"img/tg.svg\" alt=\"icon\"></a>\n            </div>\n            <br>\n            <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: середина страницы-->\n<div id=\"adfox_16975238906454607\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_16975238906454607',\n            params: {\n                pp: 'h',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n            <br>\n\n             <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Новости экономики</a>\n               <div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">21:21</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">\n                    <p>Альфа-Банк победил в номинации «Динамично развивающаяся компания» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">20:36</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">\n                    <p>Коллегия адвокатов «Де-Юре» стала лауреатом в номинации «Юридическая компания года» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">20:20</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">\n                    <p>Лауреат премии в номинации «Премиальный сегмент услуг» — «Кирпичный завод БРАЕР»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">20:04</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">\n                    <p>Абрамович решил засудить банк из-за 8 млн шекелей</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">19:10</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">\n                    <p>Россиянам рассказали, когда подорожает водка</p>\n                    </a>\n                </div> \n            </div>\n\n\n            \n\n            <div class=\"calendar-block\">\n               <div class=\"calendar\"></div>\n\n\n               <div class=\"calendar-events\">\n\n                <div class=\"calendar-events-item\">\n                    <picture>\n                       <source srcset=\"img/calendar.webp\" type=\"image/webp\">\n                       <img src=\"img/calendar.png\" alt=\"icon\">\n                    </picture>\n                    <span>28 декабря была образована Орловская таможня</span>\n                       <p>\n                           <p style=\"text-align: justify;\">Ее образовали на базе Орловского поста Приокской региональной таможни 28 декабря 1991 года. На нее возложили функции нетарифного регулирования, валютного контроля и таможенной очистки товаров. География экспортных поставок включает 67 стран мира. В работу Орловского таможенного поста успешно внедряются современные информационные технологии и новейшие технические средства таможенного контроля. Активно применяется технология автоматического выпуска деклараций на товары.</p>\n                       </p>                  \n                 </div>\n               </div>\n             </div>\n\n            <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Топ 5</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425853.html\">28/12</a></span><span><a href=\"fn_1425853.html\">16:03</a></span>\n                    <a href=\"fn_1425853.html\">\n                    <p>Локоть пошел. Стоит ли ждать ухода Клычкова?</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425742.html\">28/12</a></span><span><a href=\"fn_1425742.html\">14:15</a></span>\n                    <a href=\"fn_1425742.html\">\n                    <p>«Ребята наши воюют за проституток этих голубых?» Депутат Устинов прокомментировал «голую» вечеринку Ивлеевой</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425737.html\">28/12</a></span><span><a href=\"fn_1425737.html\">13:30</a></span>\n                    <a href=\"fn_1425737.html\">\n                    <p>Первая леди Орловщины поделилась своей личной новогодней традицией</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425662.html\">28/12</a></span><span><a href=\"fn_1425662.html\">12:00</a></span>\n                    <a href=\"fn_1425662.html\">\n                    <p>Стало известно, куда орловцы смогут обратиться на новогодних праздниках за медпомощью</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425382.html\">27/12</a></span><span><a href=\"fn_1425382.html\">19:00</a></span>\n                    <a href=\"fn_1425382.html\">\n                    <p>Сестре бойца СВО из Орла вручили монокуляр</p>\n                    </a>\n                </div> \n            </div>\n\n            <div class=\"top-five-block analitics\">\n               <a href=\"cat_analytics.html\" class=\"right-column-title\">Аналитика</a>\n                \n                    <a href=\"fn_1421170.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/factory-workers-working-together-industrial-production-hall_342744-228.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1421170.html\">18/12</a></span><span><a href=\"fn_1421170.html\">17:45</a></span>\n                        <a href=\"fn_1421170.html\">\n                           <p>Названо число простаивающих орловских работников</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1413018.html\">30/11</a></span><span><a href=\"fn_1413018.html\">14:30</a></span>\n                        <a href=\"fn_1413018.html\">\n                           <p>Орловцы резко увеличили траты на кафе и рестораны</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1400728.html\">01/11</a></span><span><a href=\"fn_1400728.html\">12:00</a></span>\n                        <a href=\"fn_1400728.html\">\n                           <p>От орловской промышленности стало больше мусора</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1304394.html\">21/03</a></span><span><a href=\"fn_1304394.html\">16:00</a></span>\n                        <a href=\"fn_1304394.html\">\n                           <p>Клычков много говорит об увеличении бюджета за время своего губернаторства. Мы сравнили его с соседями</p>\n                        </a>\n                     </div>\n        \n            </div>\n\n            <div class=\"top-five-block rassledovaniya\">\n               <a href=\"cat_investigation.html\" class=\"right-column-title\">Расследования</a>\n                \n                    <a href=\"fn_1351488.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/2023/july/_ekrana_2023-07-11_v_20-24-18.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1351488.html\">12/07</a></span><span><a href=\"fn_1351488.html\">08:10</a></span>\n                        <a href=\"fn_1351488.html\">\n                           <p>Бизнес в стиле евро. Шмыгалев где-то рядом</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1224399.html\">28/10</a></span><span><a href=\"fn_1224399.html\">19:13</a></span>\n                        <a href=\"fn_1224399.html\">\n                           <p>Помните Genesis у губернатора Орловской области? Мы нашли еще один, и он тоже своего рода подарок</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1212997.html\">20/10</a></span><span><a href=\"fn_1212997.html\">15:49</a></span>\n                        <a href=\"fn_1212997.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть вторая</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1211101.html\">19/10</a></span><span><a href=\"fn_1211101.html\">15:45</a></span>\n                        <a href=\"fn_1211101.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть первая</p>\n                        </a>\n                     </div>\n \n            </div>\n\n            <div class=\"top-five-block\">\n               <a href=\"cat_interview.html\" class=\"right-column-title\">Интервью</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1410786.html\">25/11</a></span><span><a href=\"fn_1410786.html\">12:00</a></span>\n                    <a href=\"fn_1410786.html\">\n                    <p>«Конвейер смерти»: орловский священник рассказал об отношении к репрессиям и бюсту Сталина</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1406738.html\">16/11</a></span><span><a href=\"fn_1406738.html\">10:00</a></span>\n                    <a href=\"fn_1406738.html\">\n                    <p>«Мы пошли по пути жизни в эфире». Интервью с программным директором «Нового Радио» Дмитрием Харитоновым</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1382268.html\">21/09</a></span><span><a href=\"fn_1382268.html\">14:05</a></span>\n                    <a href=\"fn_1382268.html\">\n                    <p>«Кризис – время возможностей»: Павел Бабохов о развитии бизнеса с трех сотрудников до федерального уровня</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1381005.html\">19/09</a></span><span><a href=\"fn_1381005.html\">09:00</a></span>\n                    <a href=\"fn_1381005.html\">\n                    <p>«Они не видят меня бездельником, и от этого мне хорошо». Отец Василий, дающий концерты в зоне СВО, рассказал о себе</p>\n                    </a>\n                </div>            </div>\n\n            \n\n            <div class=\"helper_for_sticky\"></div>\n      </aside>\n      </div>\n      <footer>\n         <div class=\"footer-container\">\n            <div class=\"footer\">\n               <div class=\"footer-logo-flex\">\n                  <a href=\"\" class=\"footer-logo-flex__logo\">\n                     <picture>\n                         <img class=\"footer-logo-flex__image\" src=\"img/icon.png\"  style=\"width:70px !important;\">\n                     </picture>\n                     <div class=\"footer-logo-flex__name\">\n                        <span>Орловские новости</span>\n                     </div>\n                  </a>\n                  <div class=\"footer-logo-flex__menu\">\n                     <ul class=\"footer-logo-flex__menu-list\">\n                        <li><a target=\"_blank\"  href=\"page_37.html\">Этическая политика изданий</a></li>\n                        <li><a target=\"_blank\"  href=\"page_35.html\">Редакция</a></li>\n                        <li><a target=\"_blank\"  href=\"page_36.html\">Реклама</a></li>\n                        <li><a target=\"_blank\"  href=\"https://mazov.ru/regionnews\">О холдинге</a></li>\n                        <li><a target=\"_blank\"  href=\"page_99.html\">Дежурный по новостям</a></li>\n\n                     </ul>\n                  </div>\n                  <div class=\"footer-logo-flex__years\">\n                     <span class=\"footer-year\">16+</span>\n                     <span class=\"coopy-mobile\">2014 © NEWSOREL.RU | <br> СИ «Орловские новости»</span>\n                  </div>\n               </div>\n               <div class=\"footer-info-flex\">\n                  <div class=\"footer-info-flex__left\">\n                     <p>2014 © NEWSOREL.RU | СИ «Орловские новости»</p>\n                                                                <p>Написать директору в телеграм <a target=\"_blank\"  style=\"color:white;\" href=\"https://t.me/mazov\">@mazov</a> </p>\n\n                     <div class=\"footer-info-flex__item\">\n                         \n                     </div>\n                  </div>\n                  <style>\n                     .footer-info-flex__right a {\n                        color:#ffffff !important;\n\n                     }\n                  </style>\n                  <div class=\"footer-info-flex__right\">\n                    <p>Учредитель (соучредители): Общество с ограниченной ответственностью &laquo;РЕГИОНАЛЬНЫЕ НОВОСТИ&raquo; (ОГРН 1107154017354)</p>\n<p>Главный редактор:&nbsp;Леднева Е.Н.</p>\n<p>Телефон редакции:<a href=\"tel:+7-486-225-2423\">+7 (4862) 25-24-23</a> <br /> Электронная почта редакции: <a href=\"mailto:info@newsorel.ru\">info@newsorel.ru</a></p>\n<p>Регистрационный номер: серия Эл&nbsp; № ФС77-82721 от 27 января 2022г. согласно выписке из реестра зарегистрированных средств массовой информации выдана Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций</p>\n<p>&nbsp;</p>                  </div>\n               </div>\n               <div class=\"footer-bottom-block\">\n                  <div class=\"footer-bottom-block__left\">\n                      <p>При использовании любого материала с данного сайта гипер-ссылка на Сетевое издание «Орловские новости» обязательна.</p>\n                         <p>Сообщения на сером фоне размещены на правах рекламы</p>\n                  </div>\n                  <div class=\"footer-bottom-block__right\">\n                     <div class=\"footer-links\">\n                        <!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click\"\ntarget=\"_blank\"><img id=\"licnt5FD6\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5FD6\").src=\n\"https://counter.yadro.ru/hit?t11.6;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Yandex.Metrika informer -->\n<a href=\"https://metrika.yandex.ru/stat/?id=27310931&from=informer\"\ntarget=\"_blank\" rel=\"nofollow\"><img src=\"https://informer.yandex.ru/informer/27310931/3_1_FFFFFFFF_FFFFFFFF_0_pageviews\"\nstyle=\"width:88px; height:31px; border:0;\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\" class=\"ym-advanced-informer\" data-cid=\"27310931\" data-lang=\"ru\" /></a>\n<!-- /Yandex.Metrika informer -->\n\n<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(27310931, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/27310931\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter --><!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click;regnews\"\ntarget=\"_blank\"><img id=\"licnt5DAA\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5DAA\").src=\n\"https://counter.yadro.ru/hit;regnews?t11.2;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Top.Mail.Ru counter -->\n<script type=\"text/javascript\">\nvar _tmr = window._tmr || (window._tmr = []);\n_tmr.push({id: \"3088503\", type: \"pageView\", start: (new Date()).getTime()});\n(function (d, w, id) {\n  if (d.getElementById(id)) return;\n  var ts = d.createElement(\"script\"); ts.type = \"text/javascript\"; ts.async = true; ts.id = id;\n  ts.src = \"https://top-fwz1.mail.ru/js/code.js\";\n  var f = function () {var s = d.getElementsByTagName(\"script\")[0]; s.parentNode.insertBefore(ts, s);};\n  if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); }\n})(document, window, \"tmr-code\");\n</script>\n<noscript><div><img src=\"https://top-fwz1.mail.ru/counter?id=3088503;js=na\" style=\"position:absolute;left:-9999px;\" alt=\"Top.Mail.Ru\" /></div></noscript>\n<!-- /Top.Mail.Ru counter -->\n                     </div>\n                  </div>\n               </div>\n            </div>\n         </div>\n      </footer>\n    <script src=\"js2/app.min.js?_v=20230206170908\"></script>\n         \n               <script src=\"https://region.center/jquery.js\"></script>\n         <script>\n    $(document).ready(function(){\n         \n           $('#show_more').click(function(){\n           var btn_more = $(this);\n           var count_show = parseInt($(this).attr('count_show'));\n           var cats = parseInt($(this).attr('cats'));\n           btn_more.val('Подождите...');\n    \n           $.ajax({\n                       url: \"loadnews.php\", \n                       type: \"post\", \n                       dataType: \"json\", \n                       data: {\n                           \"count_show\":   count_show,\n                            \"cats\":   cats\n                       },\n                        success: function(data){\n               if(data.result == \"success\"){\n                   $('#newscontent').append(data.html);\n                       btn_more.val('Показать еще новости');\n                       btn_more.attr('count_show', (count_show+1));\n               }else{\n                   btn_more.val('Больше нечего показывать');\n               }\n                       }\n                   });\n               });  });\n               </script>\n   </body>\n</html>",
+    "info": [
+        {
+            "block": "В Воронеже будут судить наркоторговцев, отметившихся в Орловской области ",
+            "date": " 28/02/2024 11:47",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В деревне под Орлом спасли собаку, провалившуюся в яму ",
+            "date": " 28/02/2024 09:55",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловец нашел закладку, но поправить здоровье не успел ",
+            "date": " 27/02/2024 23:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловчанка съехала из коммуналки и осталась без нажитого имущества ",
+            "date": " 27/02/2024 22:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловцы столкнулись с массовым сбоем в работе интернет-сервисов ",
+            "date": " 27/02/2024 14:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "На Старомосковской трамвай сошел с рельс. Видео ",
+            "date": " 27/02/2024 10:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловец, избитый в подъезде, госпитализирован с травмами ",
+            "date": " 26/02/2024 14:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле «семёрка» после эпичного дрифта врезалась в опору моста ",
+            "date": " 25/02/2024 07:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Под Орлом 73-летняя пенсионерка вернулась в горящий дом и погибла ",
+            "date": " 24/02/2024 09:45",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Молодой орловец не постыдился украсть денег у пожилого собутыльника ",
+            "date": " 22/02/2024 19:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле столкнулись студентка и BMW. Видео ",
+            "date": " 22/02/2024 13:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Полиция задержала подозреваемого в убийстве на автовокзале ",
+            "date": " 22/02/2024 11:02",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Ночью в Орле сгорела Ауди А6 ",
+            "date": " 22/02/2024 09:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловские рабочие привезли из Москвы десятки миллионов фальшивых рублей. Видео ",
+            "date": " 21/02/2024 10:35",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области помощь людей потребовалась собаке и кошке ",
+            "date": " 21/02/2024 10:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловцы спасли земляка из горящего дома ",
+            "date": " 21/02/2024 09:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области много дней висит на проводах опора ЛЭП. Видео ",
+            "date": " 21/02/2024 03:38",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Глава СКР обратил внимание на орловских вандалов на снегоходах ",
+            "date": " 20/02/2024 23:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Бастрыкин взял на контроль проверку по факту травмирования юной орловчанки в школе танцев ",
+            "date": " 20/02/2024 18:05",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловец получил 12 лет «строгача» за побег из колонии и изнасилование двух девушек ",
+            "date": " 20/02/2024 14:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Ночью под Орлом молодой водитель на «Мазде» пострадал от столкновения с грузовиком на встречке ",
+            "date": " 20/02/2024 12:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле автомобилист показал момент аварии на ул. Царев Брод ",
+            "date": " 20/02/2024 11:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Бастрыкин заинтересовался ДТП со школьным автобусом под Орлом ",
+            "date": " 20/02/2024 09:50",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Жёсткий «тройничок» в Орле попал на видео ",
+            "date": " 20/02/2024 00:09",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловец показал, как снег с балкона чудом не упал на голову прохожим ",
+            "date": " 19/02/2024 15:55",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Должанском районе сгорела «Калина» ",
+            "date": " 19/02/2024 13:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Прокуратура проверит аварию с перевернувшимся автобусом ",
+            "date": " 19/02/2024 12:44",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Под Орлом школьный автобус попал в ДТП ",
+            "date": " 19/02/2024 11:12",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "На орловских дорогах застряли скорая и мусоровоз ",
+            "date": " 19/02/2024 09:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Малоархангельском районе загорелся жилой дом ",
+            "date": " 19/02/2024 04:19",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области выгорела кровля жилого дома ",
+            "date": " 18/02/2024 23:12",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловца взяли с поличным на краже в магазине электроники. Видео ",
+            "date": " 18/02/2024 16:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Пожилая женщина пострадала из-за гонок орловских маршрутчиков ",
+            "date": " 18/02/2024 15:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "На Гати вспыхнул частный дом ",
+            "date": " 18/02/2024 14:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловские врачи ехали помочь перепившему мужчине, а спасли женщину от инсульта ",
+            "date": " 18/02/2024 13:45",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловец потерял карту и остался без денег ",
+            "date": " 18/02/2024 13:14",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Ранним утром в Урицком районе загорелся жилой дом ",
+            "date": " 18/02/2024 10:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Пожилая женщина лишилась денег, спрятанных под скатертью ",
+            "date": " 17/02/2024 23:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Стали известны подробности смертельного ДТП в Свердловском районе ",
+            "date": " 17/02/2024 16:38",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "После смертельного ДТП в Свердловском районе возбуждено дело ",
+            "date": " 17/02/2024 16:13",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Жуткое ДТП в Орловской области: один погибший, трое детей пострадали ",
+            "date": " 17/02/2024 12:10",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле автомобиль едва не вылетел с Герценского моста ",
+            "date": " 16/02/2024 15:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "УФСИН сообщает о смерти Алексея Навального ",
+            "date": " 16/02/2024 14:28",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле трамвай буксировал автомобиль. Видео ",
+            "date": " 16/02/2024 14:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В районе Ботанике огромное дерево рухнуло в жилом дворе ",
+            "date": " 16/02/2024 13:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле горел магазин, из пожара эвакуировали восемь человек ",
+            "date": " 16/02/2024 12:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В селе Калинино горел жилой дом, мужчина госпитализирован ",
+            "date": " 16/02/2024 12:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле поймали организаторов нарколаборатории ",
+            "date": " 16/02/2024 11:42",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В селе Здоровец горел жилой дом, из пожара спасли четырех человек ",
+            "date": " 16/02/2024 11:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "На Московском шоссе в Орле горит квартира, есть пострадавший ",
+            "date": " 16/02/2024 10:04",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле пассажирка пожаловалась на грязные домогательства мужчины в маршрутке ",
+            "date": " 16/02/2024 00:25",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Как тебе такое, Илон Маск: трамвай на тракторной тяге попал на видео в Орле ",
+            "date": " 15/02/2024 23:48",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В орловском селе на дорогу рухнуло обледеневшее дерево ",
+            "date": " 15/02/2024 16:15",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле осудили бывшего главного специалиста УКСа и подрядчика, нажившихся на ремонте дворов ",
+            "date": " 15/02/2024 14:45",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Для орловцев подготовили ПВР на фоне отключений света из-за стихии ",
+            "date": " 15/02/2024 13:33",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Стало известно о гибели орловца при пожаре на ул.Рощинской ",
+            "date": " 15/02/2024 12:15",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловцам в борьбе с последствиями стихии помогут соседи ",
+            "date": " 15/02/2024 11:19",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловчанка, не работая получала зарплату, но дело из-за этого завели на ее мать ",
+            "date": " 15/02/2024 10:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В районе автовокзала зарезали молодого парня, убийца скрылся ",
+            "date": " 15/02/2024 09:56",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области за сутки едва не сгорели две иномарки ",
+            "date": " 15/02/2024 09:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "При пожаре в Орле пострадал человек ",
+            "date": " 15/02/2024 07:14",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "На трассе «Орёл-Брянск» легковушка врезалась в опору ",
+            "date": " 15/02/2024 02:22",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Хотынецком районе выгорел автомобиль ",
+            "date": " 15/02/2024 01:15",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области объявили штормовое предупреждение ",
+            "date": " 14/02/2024 20:39",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Ночью в Орле сверкали обледеневшие троллейбусные провода. Видео ",
+            "date": " 14/02/2024 10:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловчанку напугал подозрительный пакет ",
+            "date": " 14/02/2024 09:15",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Образцово водитель грузовика не справился с обледеневшей дорогой ",
+            "date": " 13/02/2024 11:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Непогода пропала в одном из сёл Орловской области ",
+            "date": " 13/02/2024 02:43",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В районе женского монастыря едва не перевернулась маршрутка ",
+            "date": " 12/02/2024 15:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "«Это уже не техническая ошибка, это стиль». Дизайнер Виктор Панков высказался о гололеде ",
+            "date": " 12/02/2024 14:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Глазуновском районе обнаружили тело пожилого мужчины ",
+            "date": " 12/02/2024 09:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Жёсткое столкновение легковушки с «ГАЗелью» в Орле попало на видео ",
+            "date": " 12/02/2024 04:57",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловец в ходе ссоры с родственником решил взяться за нож ",
+            "date": " 10/02/2024 22:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В центре Орла городской пассажирский автобус жёстко влетел в КамАЗ ",
+            "date": " 10/02/2024 06:26",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Возле кафе «На привале» произошла потасовка с погоней. Видео ",
+            "date": " 09/02/2024 15:50",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Дело экс-учителя из Кром Бывшева направлено в суд ",
+            "date": " 09/02/2024 14:10",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "У атаки беспилотников на Орловскую область мог быть наводчик ",
+            "date": " 09/02/2024 11:51",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В небе над Орловской областью сбили 4 БПЛА ",
+            "date": " 09/02/2024 08:03",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Корсаковском районе загорелся жилой дом ",
+            "date": " 09/02/2024 00:49",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Стало известно имя открывшего стрельбу у Ливенской ЦРБ мужчины ",
+            "date": " 08/02/2024 21:10",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловские автомобилисты предупреждают о пробке из-за застрявшей фуры в Маслозаводском переулке ",
+            "date": " 08/02/2024 16:01",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Виновного в краже орловца отпустили в суде ",
+            "date": " 08/02/2024 16:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле бывшего начальника колонии крупно оштрафовали за взятку ",
+            "date": " 08/02/2024 14:32",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле сгорел гараж вместе с автомобилем ",
+            "date": " 08/02/2024 14:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле в непогоду оборвало троллейбусные провода ",
+            "date": " 08/02/2024 12:15",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Студента из Египта ожидал сюрприз на зимней дороге в Орле ",
+            "date": " 07/02/2024 20:01",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Узбек, перерезавший горло орловчанки бутылкой, получил 10 лет строгача ",
+            "date": " 07/02/2024 16:31",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле в движении загорелся автомобиль ",
+            "date": " 07/02/2024 00:34",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Мценске столкнулись два автомобиля: есть пострадавший ",
+            "date": " 07/02/2024 00:04",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Появились подробности аварии на трассе М-2 под Орлом ",
+            "date": " 06/02/2024 11:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Под Орлом водитель грузовика сбил двух пешеходов, один скончался в больнице ",
+            "date": " 06/02/2024 11:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "На трассе М-2 произошло ДТП: пострадали люди ",
+            "date": " 06/02/2024 00:32",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Курянин вынес из орловского магазина отпариватель и уехал домой ",
+            "date": " 05/02/2024 22:00",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Из горящего дома в Мценске удалось спасти двух человек, кошку и попугая ",
+            "date": " 05/02/2024 12:30",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Под Орлом машина съехала в кювет, пострадала годовалая девочка ",
+            "date": " 05/02/2024 10:20",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области туркмен купил поддельные права и заработал уголовное дело ",
+            "date": " 05/02/2024 08:49",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орле разрыв пары обернулся уголовным делом ",
+            "date": " 04/02/2024 20:14",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "В Орловской области на 35% выросло число мошенничеств ",
+            "date": " 04/02/2024 11:17",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Жители Орла услышали грохот взрыва и увидели яркую вспышку ",
+            "date": " 04/02/2024 02:11",
+            "tag": "Происшествия"
+        },
+        {
+            "block": "Орловцу, толкнувшему незнакомца у бара, грозит полугодовой арест ",
+            "date": " 03/02/2024 20:00",
+            "tag": "Происшествия"
+        }
+    ],
+    "timestamp": 1709140154783,
+    "domain": "newsorel.ru"
+}

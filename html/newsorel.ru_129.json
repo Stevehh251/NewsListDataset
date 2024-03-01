@@ -1,0 +1,508 @@
+{
+    "url": "https://newsorel.ru/cat_economy.html",
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n   <head>\n      <meta charset=\"UTF-8\">\n      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n      <meta http-equiv=\"Cache-Control\" content=\"max-age=604800, public\" />\n      \n    <base href=\"https://newsorel.ru/\">\n        <title>Экономика  -  Орловские новости. Новости Орла и Орловской области, сегодня и сейчас</title>\n        <meta name=\"Keywords\" content=\"  Орловские новости\">\n        <meta name=\"Description\" content=\"  Последние новости Орла: происшествия, ДТП, события, политика, ЖКХ, экономика, бизнес, финансы, культура, спорт, афиша мероприятий. Свежие и актуальные репортажи, интервью, мнения экспертов, аналитика. Сетевое издание.\">\n        <meta property=\"og:image\" content=\"https://newsorel.ru/images/logo-sm.png\">\n\n        \t<meta name=\"twitter:card\" content=\"summary\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<link rel=\"canonical\" href=\"https://newsorel.ru/cat_economy.html\"/>\n\t<meta property=\"og:url\" content=https://newsorel.ru/cat_economy.html />\n\t<meta property=\"og:title\" content=\"Экономика\" />\n\t<meta property=\"og:description\" content=\"\" />\n\t\n\n\n        <link rel=\"preconnect\" href=\"https://region.center\">\n        <link rel=\"dns-prefetch\" href=\"https://region.center\">\n\n \n\n        <link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"favicon/apple-icon-57x57.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"favicon/apple-icon-60x60.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"favicon/apple-icon-72x72.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"favicon/apple-icon-76x76.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"favicon/apple-icon-114x114.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"favicon/apple-icon-120x120.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"favicon/apple-icon-144x144.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"favicon/apple-icon-152x152.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon/apple-icon-180x180.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"favicon/android-icon-192x192.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon/favicon-32x32.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"favicon/favicon-96x96.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"favicon/favicon-16x16.png\">\n\n        <meta name=\"msapplication-TileImage\" content=\"favicon/ms-icon-144x144.png\">\n\n \n\n\n      <link rel=\"stylesheet\" href=\"css2/style.css?_v=20221216155958\">\n\n\n      <style>\n         embed, iframe, object, video {\n             max-width: 100%;\n         }\n         body {\n         background:#fff;\n         } \n .detale-news-block__text a {\n         color:#27598b !important;\n         font-size:16px !important;\n\n\n        }\n         .detale-news-block__text img {\nheight:100% !important;\n       width:100%;\n        }\n        \n  </style>\n\n\n\n   <!-- Yandex.RTB -->\n   <script>window.yaContextCb=window.yaContextCb||[]</script>\n   <script src=\"https://yandex.ru/ads/system/context.js\" async></script>\n\n\n   </head>\n\n   <body>\n   <div align=\"center\">\n    <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: перетяжка-->\n<!--Расположение: верх страницы-->\n<div id=\"adfox_169752384578981333\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752384578981333',\n            params: {\n                pp: 'g',\n                ps: 'fusg',\n                p2: 'hryr'\n            }\n        })\n    })\n</script>\n         </div>\n\n      <div class=\"wrapper\" id=\"app\" :class=\"{isMobile, isTablet}\">\n       </div>\n      <div class=\"content\">\n\n        \n      <aside class=\"left-block\">\n         <div class=\"left-container sticky_block\">\n            <a href=\".\" class=\"logo-block\">\n               <picture>\n                  <img class=\"logo-block__image\" src=\"img/icon.png\" style=\"width:70px !important;\">\n               </picture>\n               <div class=\"logo-block__name\">\n                  <span>Орловские новости</span>\n               </div>\n            </a>\n            <div class=\"menu-list-glavnaya\">\n               <ul class=\"menu-list\">\n                  <li class=\"menu-list__item\"><a href=\"cat_analytics.html\">Аналитика</a></li><li class=\"menu-list__item\"><a href=\"cat_society.html\">Общество</a></li><li class=\"menu-list__item\"><a href=\"cat_svo.html\">СВО</a></li><li class=\"menu-list__item\"><a href=\"cat_top100_vliyatelnyh_lyudey2023.html\">ТОП-100 влиятельных людей-2023</a></li><li class=\"menu-list__item\"><a href=\"cat_job.html\">Вакансии</a></li><li class=\"menu-list__item\"><a href=\"cat_sport.html\">Спорт</a></li><li class=\"menu-list__item\"><a href=\"cat_culture.html\">Культура</a></li><li class=\"menu-list__item\"><a href=\"cat_ecology.html\">Экология</a></li><li class=\"menu-list__item\"><a href=\"cat_agro.html\">Агро</a></li><li class=\"menu-list__item\"><a href=\"cat_incidients.html\">Происшествия</a></li><li class=\"menu-list__item\"><a href=\"cat_delobudagova.html\">Дело Будагова</a></li><li class=\"menu-list__item\"><a href=\"cat_koronavirus.html\">Здоровье</a></li><li class=\"menu-list__item\"><a href=\"cat_business.html\">Бизнес</a></li><li class=\"menu-list__item\"><a href=\"cat_economy.html\">Экономика</a></li><li class=\"menu-list__item\"><a href=\"cat_delo_dobrohvalova.html\">Дело Доброхвалова</a></li><li class=\"menu-list__item\"><a href=\"cat_podcast.html\">Подкасты</a></li><li class=\"menu-list__item\"><a href=\"cat_primjalibemurzalevskim.html\">Прямая линия с Музалевским</a></li><li class=\"menu-list__item\"><a href=\"cat_history.html\">Истории</a></li><li class=\"menu-list__item\"><a href=\"cat_company.html\">Новости компаний</a></li><li class=\"menu-list__item\"><a href=\"cat_afisha.html\">Афиша</a></li><li class=\"menu-list__item\"><a href=\"cat_jkh.html\">ЖКХ</a></li><li class=\"menu-list__item\"><a href=\"cat_necrolog.html\">Память</a></li><li class=\"menu-list__item\"><a href=\"cat_investigation.html\">Расследования </a></li><li class=\"menu-list__item\"><a href=\"cat_interview.html\">Интервью</a></li><li class=\"menu-list__item\"><a href=\"cat_politics.html\">Политика</a></li>                   <li class=\"menu-list__item\"><a target=\"_blank\"  href=\"http://top100region.ru/orel\">100 самых влиятельных людей</a></li>\n                  <li class=\"menu-list__item menu-list__item-more\"></li>\n               </ul>\n            </div>\n            <form class=\"search\">\n \n\n<div class=\"ya-site-form ya-site-form_inited_no\" data-bem=\"{&quot;action&quot;:&quot;https://newsorel.ru/search.html&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по newsorel.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2523564,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#3f687b&quot;}\"><form action=\"https://yandex.ru/search/site/\" method=\"get\" target=\"_self\" accept-charset=\"utf-8\"><input type=\"hidden\" name=\"searchid\" value=\"2523564\"/><input type=\"hidden\" name=\"l10n\" value=\"ru\"/><input type=\"hidden\" name=\"reqenc\" value=\"\"/><input type=\"search\" name=\"text\" value=\"\"/><input type=\"submit\" value=\"Найти\"/></form></div><style type=\"text/css\">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type=\"text/javascript\">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>\n \n\n\n            </form>\n             \n             \n\n            \n\n\n            <div class=\"news-aside-block\">\n\n   <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: низ страницы-->\n<div id=\"adfox_169752394294317962\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752394294317962',\n            params: {\n                pp: 'i',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n\n\n\n               <a href=\"cat_company.html\" class=\"news-aside-block__title\">Новости компаний</a>\n                \n                        <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <picture>\n                                <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/1_1.%5B1%5D.jpg\" alt=\"image\">\n                            </picture>\n                        </a><div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">28/12</a></span><span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">15:01</a></span>\n                            <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <p>С заботой о самом главном: сеть медицинских центров «САКАРА» отмечает юбилей</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425602.html\">28/12</a></span><span><a href=\"fn_1425602.html\">10:34</a></span>\n                            <a href=\"fn_1425602.html\">\n                            <p>Прайс-лист на создание и размещение агитационных материалов 2024</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">25/12</a></span><span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">17:00</a></span>\n                            <a href=\"fn_1424328.html?erid=LjN8K96Zx\">\n                            <p>«Мираторг»  организовал практику для орловской молодёжи</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">25/12</a></span><span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">15:16</a></span>\n                            <a href=\"fn_1424232.html?erid=LjN8KBSLA\">\n                            <p>ВТБ: в 2023 году рынок рублевых сбережений вырастет на 21%</p>\n                            </a>\n                        </div>\n            </div>\n\n\n         \n            <div class=\"news-aside-block\">\n               <a href=\"cat_business.html\" class=\"news-aside-block__title\">Бизнес</a>\n                \n                    <a href=\"fn_1425125.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/4z0a3750.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425125.html\">28/12</a></span><span><a href=\"fn_1425125.html\">20:00</a></span>\n                        <a href=\"fn_1425125.html\">\n                           <p>Михаил Вдовин рассказал на премии «Орловский бизнес», зачем нужно награждать предпринимателей</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425384.html\">28/12</a></span><span><a href=\"fn_1425384.html\">10:20</a></span>\n                        <a href=\"fn_1425384.html\">\n                           <p>«Для нас это очередная победа»: директор «МРТ-Эксперт Орел» о победе в премии «Орловский бизнес-2023»</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1424552.html\">27/12</a></span><span><a href=\"fn_1424552.html\">21:00</a></span>\n                        <a href=\"fn_1424552.html\">\n                           <p>«Быть на месте лауреата – это торжественно и почетно»: депутат объяснил важность премии «Орловский бизнес» для лауреатов</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425279.html\">27/12</a></span><span><a href=\"fn_1425279.html\">16:30</a></span>\n                        <a href=\"fn_1425279.html\">\n                           <p>«Это очень приятно»: руководитель коллегии адвокатов «Alpha Level»» о победе в премии «Орловский бизнес»</p>\n                        </a>\n                     </div>\n           \n            </div>\n\n\n            <div class=\"news-aside-block\">\n               <a target=\"_blank\" href=\"https://brandrussia.online\" class=\"news-aside-block__title\">Бренды России</a>\n                \n                    <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1419310.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Tul%20Brendi/3_2023/1_1.%5B360%5D.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1419310.html\">14/12</a></span><span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1419310.html\">12:16</a></span>\n                        <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1419310.html\">\n                           <p>Сергей Николаевич Цуканов</p>\n                        </a>\n                     </div>\n \n            </div>\n\n\n\n            \n         </div>\n         <div class=\"helper_for_sticky\"></div>\n      </aside> \n\t<main class=\"content-block\">\n\t<div class=\"content-container\">\n\t\t<div class=\"button-top__wrapper\">\n\t<div class=\"button-top\" style=\"--top_position:30px;\">\n\t</div>\n\t</div>\n\t\t<div class=\"bread-crumbs\">\n\t<ul>\n\t\t<li> <a href=\".\"> Главная</a> <span> > </span></li>\n\t\t<li><a href=\"cat_economy.html\">Экономика </a></li>\n\t</ul>\n\t</div>\n\t<div class=\"title-extreme-news\">\n\t<div class=\"title-extreme-news__in\">\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<h2>Последние новости</h2>\n\t\t</div>\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<div>Категория</div>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<a href=\"cat_economy.html\">Экономика </a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n\t</div>\n\t<div class=\"main-news-list\">\n   <div class=\"big-news-list-block extreme-news-list\"><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425884.html\"> 28/12/2023 17:10</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1425884.html\"  style=\"color:red;\" >Статистики назвали проблемные отрасли орловской экономики </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425598.html\"> 28/12/2023 14:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1425598.html\" >Ожидается, что инфраструктурные проекты Орловской области окупятся </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\"  style=\"background:#cccccc;\" >\n\t\t\t<a href=\"fn_1425532.html?erid=LjN8KPnp3\"> 28/12/2023 10:20</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1425532.html?erid=LjN8KPnp3\" >Орловцы, не успевшие купить квартиру до конца новогодних праздников, могут сильно переплатить в следующем </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425127.html\"> 27/12/2023 12:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1425127.html\" >Орловцам станет проще заключать социальные контракты </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424903.html\"> 26/12/2023 20:16</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1424903.html\"  style=\"color:red;\" >Клычков решил приватизировать котел, горелку, насос и трубу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424818.html\"> 26/12/2023 17:03</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1424818.html\"  style=\"color:red;\" >Ливны получат более 200 млн рублей из-за демографии </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424813.html\"> 26/12/2023 16:39</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1424813.html\"  style=\"color:red;\" >Орлу и Орловскому округу добавят денег на стимулирование строительства жилья </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424508.html\"> 26/12/2023 10:05</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1424508.html\" >63% жителей ЦФО хотят в новом году копить деньги </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424111.html\"> 25/12/2023 11:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1424111.html\" >Андрей Клычков обвинил аграриев в двукратном завышении цен на куриные яйца </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423800.html\"> 24/12/2023 11:45</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1423800.html\" >По данным статистиков, среднестатистический орловец зарабатывает в месяц 47 064 рубля </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423541.html\"> 23/12/2023 10:01</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1423541.html\"  style=\"color:red;\" >Орелстрой получил право на комплексную застройку новых территорий </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423225.html\"> 22/12/2023 13:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1423225.html\" >Депутаты одобрили приватизацию Дорожной службы </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423207.html\"> 22/12/2023 12:40</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1423207.html\" >Орловские депутаты приняли неоднозначный закон о специальных семеноводческих зонах </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423115.html\"> 22/12/2023 10:50</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1423115.html\"  style=\"color:red;\" >В Орле снова посетовали на проблемный бюджет </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422689.html\"> 21/12/2023 13:35</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1422689.html\"  style=\"color:red;\" >Орловская мэрия задолжала десятки миллионов фирме Михаила Маркина </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422246.html\"> 20/12/2023 18:31</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1422246.html\" >Жители Орла смогут оплачивать ЖКХ без комиссии с 1 января </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1422242.html\"> 20/12/2023 17:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1422242.html\" >Доля ипотеки с господдержкой приближается к 70% </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421640.html\"> 19/12/2023 15:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1421640.html\" >Инфляция в Орле составила 6,88% </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421408.html\"> 19/12/2023 10:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1421408.html\" >Стали известны самые высокооплачиваемые вакансии Орла </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421086.html\"> 18/12/2023 18:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1421086.html\"  style=\"color:red;\" >В Орловской области перед Новым годом подешевели креветки и икра </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421003.html\"> 18/12/2023 16:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1421003.html\"  style=\"color:red;\" >За новую отечественную легковушку орловцам придется заплатить более миллиона рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1421066.html\"> 18/12/2023 15:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1421066.html\"  style=\"color:red;\" >В Орловской области незначительно подешевел бензин </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420320.html\"> 16/12/2023 11:21</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1420320.html\"  style=\"color:red;\" >Орловской области не оказалась в числе регионов, которым дадут деньги на модернизацию сельхозпредприятий </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419435.html\"> 14/12/2023 14:25</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1419435.html\"  style=\"color:red;\" >МУП ТТП доживет до конца первого квартала 2024 года </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419302.html\"> 14/12/2023 13:10</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1419302.html\" >Самые большие чаевые оставляют в кофейнях </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1418169.html\"> 12/12/2023 11:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1418169.html\"  style=\"color:red;\" >В Орловской области появится зарядная инфраструктура для электротранспорта </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417044.html\"> 10/12/2023 14:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1417044.html\"  style=\"color:red;\" >Госдолг Орловской области вырос под конец года </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417197.html\"> 09/12/2023 19:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1417197.html\"  style=\"color:red;\" >Орловская область получит от федералов почти 14 млн рублей на мелиорацию </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416821.html\"> 08/12/2023 15:40</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1416821.html\" >Розничные инвесторы будут играть значительную роль в развитии экономики России </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416721.html\"> 08/12/2023 12:51</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1416721.html\"  style=\"color:red;\" >Донбасс - наше Куликово поле, семейный МФЦ - наш стартап. Краткий пересказ инвестпослания Клычкова </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415137.html\"> 05/12/2023 14:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1415137.html\"  style=\"color:red;\" >В Орловской области крупно сократился объем инвестиций за год </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415120.html\"> 05/12/2023 12:17</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1415120.html\"  style=\"color:red;\" >Росстат: в сентябре средняя зарплата в Орловской области составила 46 620 рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415083.html\"> 05/12/2023 11:40</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1415083.html\"  style=\"color:red;\" >Орловская область не может выбраться из аутсайдеров в строительстве </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415014.html\"> 05/12/2023 10:01</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1415014.html\"  style=\"color:red;\" >Стало известно, сколько орловцев зарабатывают от миллиона рублей в месяц </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1414749.html\"> 04/12/2023 16:26</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1414749.html\"  style=\"color:red;\" >На закупку лекарств для орловских льготников потратят почти миллиард рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1414734.html\"> 04/12/2023 16:06</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1414734.html\"  style=\"color:red;\" >Известна дата проведения инвестпослания орловского губернатора </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1414641.html\"> 04/12/2023 14:25</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1414641.html\"  style=\"color:red;\" >Мценску компенсируют более 1,5 млн рублей расходов на беженцев </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1413861.html\"> 02/12/2023 08:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1413861.html\" >Мошенники маскируются под «мужа на час» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1413855.html\"> 01/12/2023 19:05</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1413855.html\"  style=\"color:red;\" >В финансовых проблемах Орла едет разбираться представитель Федерального казначейства </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1413777.html\"> 01/12/2023 17:10</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1413777.html\"  style=\"color:red;\" >Эксперты оценили экономическое взаимодействие Орловской области и Китая </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412474.html\"> 29/11/2023 10:46</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1412474.html\"  style=\"color:red;\" >Власти Орловской области решили сокращать госдолг </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412247.html\"> 28/11/2023 17:50</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1412247.html\" >Объединяя суверенные экономики: что обсудят на форуме ВТБ «Россия зовет!» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1411438.html\"> 27/11/2023 14:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1411438.html\"  style=\"color:red;\" >Стало известно, где орловцы зарабатывают больше </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409902.html\"> 23/11/2023 09:40</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1409902.html\" >AI Journey 2023 открыли Максим Орешкин и Александр Ведяхин </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409779.html\"> 22/11/2023 19:50</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1409779.html\" >Каждый четвертый россиянин считает чрезмерный онлайн-шоппинг своей пагубной привычкой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409576.html\"> 22/11/2023 14:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1409576.html\"  style=\"color:red;\" >Иконников рассказал о борьбе Клычкова за дотации Орлу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408973.html\"> 21/11/2023 17:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408973.html\"  style=\"color:red;\" >В Орловской области становится все меньше коров и овец </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409019.html\"> 21/11/2023 15:33</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1409019.html\" >Половина жителей ЦФО планируют участвовать в «черной пятнице» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408981.html\"> 21/11/2023 10:58</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408981.html\"  style=\"color:red;\" >В следующем году орловцы могут получить зарплату «с жирком» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408515.html\"> 20/11/2023 23:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408515.html\"  style=\"color:red;\" >Орловцам стало дороже летать экономклассом и дешевле ездить на поездах </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408736.html\"> 20/11/2023 21:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408736.html\" >Большинство жителей ЦФО намерены встречать Новый год дома </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408481.html\"> 20/11/2023 20:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408481.html\"  style=\"color:red;\" >В сезон гриппа орловцам пришлось раскошелиться на градусники и противовоспалительные </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408498.html\"> 20/11/2023 19:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408498.html\"  style=\"color:red;\" >В Орловской области подешевел бензин </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408732.html\"> 20/11/2023 18:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408732.html\"  style=\"color:red;\" >В ЦБ заявили об ускорении инфляции в Орловской области </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408464.html\"> 20/11/2023 11:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408464.html\"  style=\"color:red;\" >С приходом холодов в Орловской области подорожала теплая одежда для детей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408385.html\"> 20/11/2023 09:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408385.html\"  style=\"color:red;\" >Орловцам стали дороже обходиться помидоры и чеснок </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408206.html\"> 19/11/2023 12:28</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1408206.html\"  style=\"color:red;\" >Леонов рассказал, сколько орловцы могут заработать в промышленной сфере </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407766.html\"> 17/11/2023 16:40</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407766.html\" >Мошенники используют «курсы для аналитиков» в качестве новой схемы обмана </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407607.html\"> 17/11/2023 12:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407607.html\" >Мариупольские дороги оснастят тысячью орловских светофоров </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407496.html\"> 17/11/2023 09:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407496.html\"  style=\"color:red;\" >Федералы компенсируют Орловской области потери бюджета из-за налогового вычета для бизнеса </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1406319.html\"> 14/11/2023 18:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1406319.html\" >Россияне стали больше покупать во время распродажи 11.11 </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1406048.html\"> 14/11/2023 14:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1406048.html\"  style=\"color:red;\" >Расходы орловских семей впервые выросли после введения санкций </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1404794.html\"> 10/11/2023 17:55</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1404794.html\" >Мошенники стали звонить через приложения для объявлений </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1404528.html\"> 10/11/2023 11:02</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1404528.html\"  style=\"color:red;\" >В Орле определят, кому можно торговать цветами на кладбище </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1404325.html\"> 09/11/2023 20:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1404325.html\"  style=\"color:red;\" >Россияне получат почти 700 тыс. льготных ипотек </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1404265.html\"> 09/11/2023 18:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1404265.html\"  style=\"color:red;\" >Хотынецкий завод проиграл суд производителям кошачьих туалетов </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1404070.html\"> 09/11/2023 15:15</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1404070.html\" >Большинство платежей будет совершаться с помощью QR, токена, NFC, биометрии </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1403986.html\"> 09/11/2023 11:20</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1403986.html\"  style=\"color:red;\" >Основатель «ГРИННа» остался без акций американских компаний </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1403773.html\"> 08/11/2023 18:10</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1403773.html\" >Совокупный кредитный портфель одного из крупнейших банков в Черноземье превысил 1 трлн рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1403622.html\"> 08/11/2023 16:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1403622.html\" >Орловцам напомнили об оплате налогов на имущество </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402960.html\"> 07/11/2023 10:45</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1402960.html\"  style=\"color:red;\" >Орел получит 200 млн рублей от области </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402741.html\"> 07/11/2023 09:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1402741.html\"  style=\"color:red;\" >Госдолг Орловской области снова вырос </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402767.html\"> 06/11/2023 20:10</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1402767.html\"  style=\"color:red;\" >Орловская область по-прежнему остается худшей по темпам строительства в ЦФО </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402804.html\"> 06/11/2023 16:50</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1402804.html\"  style=\"color:red;\" >Орловская область оказалась среди лидеров по росту месячной инфляции в ЦФО </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402775.html\"> 06/11/2023 15:17</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1402775.html\"  style=\"color:red;\" >Средние зарплаты в Орловской области оценили в 45,1 тыс. рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1401786.html\"> 03/11/2023 13:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1401786.html\" >Портфель классических сбережений россиян вырос с начала года на 13% </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1401477.html\"> 02/11/2023 22:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1401477.html\" >Стало известно, сколько орловцы взяли в долг у банков на покупку жилья </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1401572.html\"> 02/11/2023 19:45</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1401572.html\"  style=\"color:red;\" >Эксперт спрогнозировал рост рубля в ноябре </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1401543.html\"> 02/11/2023 18:05</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1401543.html\"  style=\"color:red;\" >Орловское предприятие попало под американские санкции </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1400863.html\"> 01/11/2023 17:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1400863.html\" >Российские банки повышают ставки по вкладам на фоне роста ключевой ставки </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407744.html\"> 31/10/2023 15:39</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407744.html\" >Греф поделился планами сделать свою кросс-банковскую платформу биоэквайринга </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407719.html\"> 31/10/2023 15:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407719.html\" >Герман Греф ожидает укрепления рубля </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1399813.html\"> 30/10/2023 17:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1399813.html\" >Россияне считают платежные стикеры перспективной альтернативой Pay-сервисам </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1398871.html\"> 27/10/2023 21:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1398871.html\"  style=\"color:red;\" >Россиянам объяснили, как повышение ключевой ставки повлияет на рубль </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1398802.html\"> 27/10/2023 17:20</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1398802.html\" >Более трети жителей ЦФО надеются на рост ставок по вкладам в ближайшее время </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1398372.html\"> 27/10/2023 10:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1398372.html\"  style=\"color:red;\" >Реальные зарплаты орловцев выросли на 11,3% - Орелстат </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1398384.html\"> 27/10/2023 10:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1398384.html\"  style=\"color:red;\" >Стало известно, где больше всего зарабатывают орловцы </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1397818.html\"> 25/10/2023 19:00</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1397818.html\"  style=\"color:red;\" >Геннадий Парахин: Необходимо возрождать систему экономического научного прогнозирования </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1397006.html\"> 24/10/2023 09:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1397006.html\"  style=\"color:red;\" >Производство напитков и автоприцепов: названы проблемные отрасли орловской экономики </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396841.html\"> 23/10/2023 19:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1396841.html\" >Стало известно, почему орловские налоги уходят в Тулу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396781.html\"> 23/10/2023 17:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1396781.html\" >Сбер оказался на третьем месте среди мировых эквайеров по числу обработанных транзакций </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396670.html\"> 23/10/2023 13:35</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1396670.html\"  style=\"color:red;\" >Стало известно, почему в Чечне заинтересовались орловской рудой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396228.html\"> 22/10/2023 11:27</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1396228.html\"  style=\"color:red;\" >Клычков выяснил, где самые эффективные чиновники, и теперь даст им денег </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396024.html\"> 21/10/2023 15:04</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1396024.html\" >В Орловской области стало меньше коров, овец и птиц </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407688.html\"> 21/10/2023 14:21</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407688.html\" >Греф предрек снижение выдачи ипотек в конце 2023 года </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1395826.html\"> 20/10/2023 19:13</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1395826.html\"  style=\"color:red;\" >Минфин попросили дать Орлу 2 млрд рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407735.html\"> 20/10/2023 15:24</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1407735.html\" >Герман Греф предлагает учить детей предпринимательству </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1395040.html\"> 19/10/2023 12:20</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1395040.html\" >В Орловской области выявлены тысячи саженцев с нарушениями </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394761.html\"> 18/10/2023 18:32</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1394761.html\" >В 2024 году доля юаней в накоплениях россиян может превысить 45% </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394565.html\"> 18/10/2023 12:30</a>\n\t\t\t<a href=\"cat_economy.html\">Экономика</a>\n\t\t\t<h2> <a href=\"fn_1394565.html\"  style=\"color:red;\" >Коммерческий банк согласился дать Орлу кредит на погашение долга </a></h2></div>\n</div>\n</div>\n\n\n<div class=\"advertisement-block\">\n\t\t  <div class=\"advertisement-block__in\"><h2 style=\"font-size:20px;\">Подписывайтесь, чтобы первыми узнавать о важном: </h2>\n\t\t\t <div class=\"advertisement-buttons\">\n\t\t\t <a href=\"https://dzen.ru/news?favid=254122616&amp;issue_tld=ru\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#6f8bff; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/31135ef4723892fec20f5ab53cc89c76.svg\" alt=\"Дзен.Новости общий\">\n\t\t\t\t</a><a href=\"https://t.me/newsorel\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#27a6e5; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/102ea7d0bb60fd34fcdeda2eb0a11858.svg\" alt=\"Telegram общий + комментировать\">\n\t\t\t\t</a></div></div>\n\t   </div>\n\n\n\n\n<div class=\"main-news-block\">\n   <div class=\"main-news-block__in\">\n      <h2>Главные новости</h2><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425853.html\"><span> 28/12/2023 16:03</span></a>\n \t\t\t\t<a href=\"fn_1425853.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Локоть пошел. Стоит ли ждать ухода Клычкова?</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425101.html\"><span> 27/12/2023 11:45</span></a>\n \t\t\t\t<a href=\"fn_1425101.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Политологи оценили достижения Клычкова за год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424196.html\"><span> 25/12/2023 13:30</span></a>\n \t\t\t\t<a href=\"fn_1424196.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">«Вандалом», испортившим бюсты героев на Бульваре Победы в Орле, оказалась патина</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424081.html\"><span> 25/12/2023 11:00</span></a>\n \t\t\t\t<a href=\"fn_1424081.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Орловский стилист посоветовала запоминающиеся образы на Новый год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1423596.html\"><span> 23/12/2023 13:35</span></a>\n \t\t\t\t<a href=\"fn_1423596.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Клычков стал кандидатом политических наук</h2>\n\t\t\t\t</a>\n\t\t\t </div></div>\n</div>\n</div>\n</main><aside class=\"right-block\">\n         <div class=\"right-container sticky_block\">\n            <div class=\"social-network-block\">\n                <a target=\"_blank\" href=\"https://vk.com/newsorel\"><img src=\"img/vk.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://ok.ru/newsorel\"><img src=\"img/ok.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://t.me/newsorel\"><img src=\"img/tg.svg\" alt=\"icon\"></a>\n            </div>\n            <br>\n            <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: середина страницы-->\n<div id=\"adfox_16975238906454607\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_16975238906454607',\n            params: {\n                pp: 'h',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n            <br>\n\n             <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Новости экономики</a>\n               <div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">21:21</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">\n                    <p>Альфа-Банк победил в номинации «Динамично развивающаяся компания» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">20:36</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">\n                    <p>Коллегия адвокатов «Де-Юре» стала лауреатом в номинации «Юридическая компания года» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">20:20</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">\n                    <p>Лауреат премии в номинации «Премиальный сегмент услуг» — «Кирпичный завод БРАЕР»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">20:04</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">\n                    <p>Абрамович решил засудить банк из-за 8 млн шекелей</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">19:10</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">\n                    <p>Россиянам рассказали, когда подорожает водка</p>\n                    </a>\n                </div> \n            </div>\n\n\n            \n\n            <div class=\"calendar-block\">\n               <div class=\"calendar\"></div>\n\n\n               <div class=\"calendar-events\">\n\n                <div class=\"calendar-events-item\">\n                    <picture>\n                       <source srcset=\"img/calendar.webp\" type=\"image/webp\">\n                       <img src=\"img/calendar.png\" alt=\"icon\">\n                    </picture>\n                    <span>28 декабря была образована Орловская таможня</span>\n                       <p>\n                           <p style=\"text-align: justify;\">Ее образовали на базе Орловского поста Приокской региональной таможни 28 декабря 1991 года. На нее возложили функции нетарифного регулирования, валютного контроля и таможенной очистки товаров. География экспортных поставок включает 67 стран мира. В работу Орловского таможенного поста успешно внедряются современные информационные технологии и новейшие технические средства таможенного контроля. Активно применяется технология автоматического выпуска деклараций на товары.</p>\n                       </p>                  \n                 </div>\n               </div>\n             </div>\n\n            <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Топ 5</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425853.html\">28/12</a></span><span><a href=\"fn_1425853.html\">16:03</a></span>\n                    <a href=\"fn_1425853.html\">\n                    <p>Локоть пошел. Стоит ли ждать ухода Клычкова?</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425742.html\">28/12</a></span><span><a href=\"fn_1425742.html\">14:15</a></span>\n                    <a href=\"fn_1425742.html\">\n                    <p>«Ребята наши воюют за проституток этих голубых?» Депутат Устинов прокомментировал «голую» вечеринку Ивлеевой</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425737.html\">28/12</a></span><span><a href=\"fn_1425737.html\">13:30</a></span>\n                    <a href=\"fn_1425737.html\">\n                    <p>Первая леди Орловщины поделилась своей личной новогодней традицией</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425662.html\">28/12</a></span><span><a href=\"fn_1425662.html\">12:00</a></span>\n                    <a href=\"fn_1425662.html\">\n                    <p>Стало известно, куда орловцы смогут обратиться на новогодних праздниках за медпомощью</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425382.html\">27/12</a></span><span><a href=\"fn_1425382.html\">19:00</a></span>\n                    <a href=\"fn_1425382.html\">\n                    <p>Сестре бойца СВО из Орла вручили монокуляр</p>\n                    </a>\n                </div> \n            </div>\n\n            <div class=\"top-five-block analitics\">\n               <a href=\"cat_analytics.html\" class=\"right-column-title\">Аналитика</a>\n                \n                    <a href=\"fn_1421170.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/factory-workers-working-together-industrial-production-hall_342744-228.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1421170.html\">18/12</a></span><span><a href=\"fn_1421170.html\">17:45</a></span>\n                        <a href=\"fn_1421170.html\">\n                           <p>Названо число простаивающих орловских работников</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1413018.html\">30/11</a></span><span><a href=\"fn_1413018.html\">14:30</a></span>\n                        <a href=\"fn_1413018.html\">\n                           <p>Орловцы резко увеличили траты на кафе и рестораны</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1400728.html\">01/11</a></span><span><a href=\"fn_1400728.html\">12:00</a></span>\n                        <a href=\"fn_1400728.html\">\n                           <p>От орловской промышленности стало больше мусора</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1304394.html\">21/03</a></span><span><a href=\"fn_1304394.html\">16:00</a></span>\n                        <a href=\"fn_1304394.html\">\n                           <p>Клычков много говорит об увеличении бюджета за время своего губернаторства. Мы сравнили его с соседями</p>\n                        </a>\n                     </div>\n        \n            </div>\n\n            <div class=\"top-five-block rassledovaniya\">\n               <a href=\"cat_investigation.html\" class=\"right-column-title\">Расследования</a>\n                \n                    <a href=\"fn_1351488.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/2023/july/_ekrana_2023-07-11_v_20-24-18.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1351488.html\">12/07</a></span><span><a href=\"fn_1351488.html\">08:10</a></span>\n                        <a href=\"fn_1351488.html\">\n                           <p>Бизнес в стиле евро. Шмыгалев где-то рядом</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1224399.html\">28/10</a></span><span><a href=\"fn_1224399.html\">19:13</a></span>\n                        <a href=\"fn_1224399.html\">\n                           <p>Помните Genesis у губернатора Орловской области? Мы нашли еще один, и он тоже своего рода подарок</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1212997.html\">20/10</a></span><span><a href=\"fn_1212997.html\">15:49</a></span>\n                        <a href=\"fn_1212997.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть вторая</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1211101.html\">19/10</a></span><span><a href=\"fn_1211101.html\">15:45</a></span>\n                        <a href=\"fn_1211101.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть первая</p>\n                        </a>\n                     </div>\n \n            </div>\n\n            <div class=\"top-five-block\">\n               <a href=\"cat_interview.html\" class=\"right-column-title\">Интервью</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1410786.html\">25/11</a></span><span><a href=\"fn_1410786.html\">12:00</a></span>\n                    <a href=\"fn_1410786.html\">\n                    <p>«Конвейер смерти»: орловский священник рассказал об отношении к репрессиям и бюсту Сталина</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1406738.html\">16/11</a></span><span><a href=\"fn_1406738.html\">10:00</a></span>\n                    <a href=\"fn_1406738.html\">\n                    <p>«Мы пошли по пути жизни в эфире». Интервью с программным директором «Нового Радио» Дмитрием Харитоновым</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1382268.html\">21/09</a></span><span><a href=\"fn_1382268.html\">14:05</a></span>\n                    <a href=\"fn_1382268.html\">\n                    <p>«Кризис – время возможностей»: Павел Бабохов о развитии бизнеса с трех сотрудников до федерального уровня</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1381005.html\">19/09</a></span><span><a href=\"fn_1381005.html\">09:00</a></span>\n                    <a href=\"fn_1381005.html\">\n                    <p>«Они не видят меня бездельником, и от этого мне хорошо». Отец Василий, дающий концерты в зоне СВО, рассказал о себе</p>\n                    </a>\n                </div>            </div>\n\n            \n\n            <div class=\"helper_for_sticky\"></div>\n      </aside>\n      </div>\n      <footer>\n         <div class=\"footer-container\">\n            <div class=\"footer\">\n               <div class=\"footer-logo-flex\">\n                  <a href=\"\" class=\"footer-logo-flex__logo\">\n                     <picture>\n                         <img class=\"footer-logo-flex__image\" src=\"img/icon.png\"  style=\"width:70px !important;\">\n                     </picture>\n                     <div class=\"footer-logo-flex__name\">\n                        <span>Орловские новости</span>\n                     </div>\n                  </a>\n                  <div class=\"footer-logo-flex__menu\">\n                     <ul class=\"footer-logo-flex__menu-list\">\n                        <li><a target=\"_blank\"  href=\"page_37.html\">Этическая политика изданий</a></li>\n                        <li><a target=\"_blank\"  href=\"page_35.html\">Редакция</a></li>\n                        <li><a target=\"_blank\"  href=\"page_36.html\">Реклама</a></li>\n                        <li><a target=\"_blank\"  href=\"https://mazov.ru/regionnews\">О холдинге</a></li>\n                        <li><a target=\"_blank\"  href=\"page_99.html\">Дежурный по новостям</a></li>\n\n                     </ul>\n                  </div>\n                  <div class=\"footer-logo-flex__years\">\n                     <span class=\"footer-year\">16+</span>\n                     <span class=\"coopy-mobile\">2014 © NEWSOREL.RU | <br> СИ «Орловские новости»</span>\n                  </div>\n               </div>\n               <div class=\"footer-info-flex\">\n                  <div class=\"footer-info-flex__left\">\n                     <p>2014 © NEWSOREL.RU | СИ «Орловские новости»</p>\n                                                                <p>Написать директору в телеграм <a target=\"_blank\"  style=\"color:white;\" href=\"https://t.me/mazov\">@mazov</a> </p>\n\n                     <div class=\"footer-info-flex__item\">\n                         \n                     </div>\n                  </div>\n                  <style>\n                     .footer-info-flex__right a {\n                        color:#ffffff !important;\n\n                     }\n                  </style>\n                  <div class=\"footer-info-flex__right\">\n                    <p>Учредитель (соучредители): Общество с ограниченной ответственностью &laquo;РЕГИОНАЛЬНЫЕ НОВОСТИ&raquo; (ОГРН 1107154017354)</p>\n<p>Главный редактор:&nbsp;Леднева Е.Н.</p>\n<p>Телефон редакции:<a href=\"tel:+7-486-225-2423\">+7 (4862) 25-24-23</a> <br /> Электронная почта редакции: <a href=\"mailto:info@newsorel.ru\">info@newsorel.ru</a></p>\n<p>Регистрационный номер: серия Эл&nbsp; № ФС77-82721 от 27 января 2022г. согласно выписке из реестра зарегистрированных средств массовой информации выдана Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций</p>\n<p>&nbsp;</p>                  </div>\n               </div>\n               <div class=\"footer-bottom-block\">\n                  <div class=\"footer-bottom-block__left\">\n                      <p>При использовании любого материала с данного сайта гипер-ссылка на Сетевое издание «Орловские новости» обязательна.</p>\n                         <p>Сообщения на сером фоне размещены на правах рекламы</p>\n                  </div>\n                  <div class=\"footer-bottom-block__right\">\n                     <div class=\"footer-links\">\n                        <!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click\"\ntarget=\"_blank\"><img id=\"licnt5FD6\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5FD6\").src=\n\"https://counter.yadro.ru/hit?t11.6;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Yandex.Metrika informer -->\n<a href=\"https://metrika.yandex.ru/stat/?id=27310931&from=informer\"\ntarget=\"_blank\" rel=\"nofollow\"><img src=\"https://informer.yandex.ru/informer/27310931/3_1_FFFFFFFF_FFFFFFFF_0_pageviews\"\nstyle=\"width:88px; height:31px; border:0;\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\" class=\"ym-advanced-informer\" data-cid=\"27310931\" data-lang=\"ru\" /></a>\n<!-- /Yandex.Metrika informer -->\n\n<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(27310931, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/27310931\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter --><!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click;regnews\"\ntarget=\"_blank\"><img id=\"licnt5DAA\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5DAA\").src=\n\"https://counter.yadro.ru/hit;regnews?t11.2;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Top.Mail.Ru counter -->\n<script type=\"text/javascript\">\nvar _tmr = window._tmr || (window._tmr = []);\n_tmr.push({id: \"3088503\", type: \"pageView\", start: (new Date()).getTime()});\n(function (d, w, id) {\n  if (d.getElementById(id)) return;\n  var ts = d.createElement(\"script\"); ts.type = \"text/javascript\"; ts.async = true; ts.id = id;\n  ts.src = \"https://top-fwz1.mail.ru/js/code.js\";\n  var f = function () {var s = d.getElementsByTagName(\"script\")[0]; s.parentNode.insertBefore(ts, s);};\n  if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); }\n})(document, window, \"tmr-code\");\n</script>\n<noscript><div><img src=\"https://top-fwz1.mail.ru/counter?id=3088503;js=na\" style=\"position:absolute;left:-9999px;\" alt=\"Top.Mail.Ru\" /></div></noscript>\n<!-- /Top.Mail.Ru counter -->\n                     </div>\n                  </div>\n               </div>\n            </div>\n         </div>\n      </footer>\n    <script src=\"js2/app.min.js?_v=20230206170908\"></script>\n         \n               <script src=\"https://region.center/jquery.js\"></script>\n         <script>\n    $(document).ready(function(){\n         \n           $('#show_more').click(function(){\n           var btn_more = $(this);\n           var count_show = parseInt($(this).attr('count_show'));\n           var cats = parseInt($(this).attr('cats'));\n           btn_more.val('Подождите...');\n    \n           $.ajax({\n                       url: \"loadnews.php\", \n                       type: \"post\", \n                       dataType: \"json\", \n                       data: {\n                           \"count_show\":   count_show,\n                            \"cats\":   cats\n                       },\n                        success: function(data){\n               if(data.result == \"success\"){\n                   $('#newscontent').append(data.html);\n                       btn_more.val('Показать еще новости');\n                       btn_more.attr('count_show', (count_show+1));\n               }else{\n                   btn_more.val('Больше нечего показывать');\n               }\n                       }\n                   });\n               });  });\n               </script>\n   </body>\n</html>",
+    "info": [
+        {
+            "block": "В России вырос спрос на стоматологические услуги ",
+            "date": " 09/02/2024 17:21",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Росстат: В 2023 году орловцы в среднем зарабатывали 45,6 тысяч рублей ",
+            "date": " 09/02/2024 16:20",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области резко выросло производство мебели ",
+            "date": " 09/02/2024 15:58",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области яйца за год подорожали на 88,4% ",
+            "date": " 09/02/2024 15:27",
+            "tag": "Экономика"
+        },
+        {
+            "block": "ВТБ: российские вкладчики сохраняют повышенную активность третий месяц подряд ",
+            "date": " 08/02/2024 18:15",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Группа ВТБ: в феврале продажи новых автомобилей в России могут достичь 100 тысяч штук ",
+            "date": " 07/02/2024 16:10",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Убытки орловских предприятий приближаются к 4 млрд рублей ",
+            "date": " 07/02/2024 14:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В России появится новый племенной репродуктор цыплят ",
+            "date": " 06/02/2024 13:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области на четверть увеличились налоговые поступления от банкротов ",
+            "date": " 03/02/2024 19:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области динамика промпроизводства по итогам года показала небольшой рост ",
+            "date": " 03/02/2024 12:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орле чиновников научат сокращать сроки запуска инвестпроектов ",
+            "date": " 30/01/2024 18:53",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В ЦФО 60% автовладельцев выступают за поддержку параллельного импорта ",
+            "date": " 30/01/2024 14:02",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В России зафиксировано снижение количества мошеннических атак ",
+            "date": " 29/01/2024 16:45",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловское ТТП снова получит десятки миллионов из бюджета ",
+            "date": " 26/01/2024 11:50",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области продолжает расти поголовье свиней ",
+            "date": " 25/01/2024 18:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Стало известно, сколько лет понадобится чеченцам для разработки месторождения железных руд ",
+            "date": " 25/01/2024 11:50",
+            "tag": "Экономика"
+        },
+        {
+            "block": "«Рядом с искусственным интеллектом должен быть человек»: Герман Греф о роли человека в технологическом будущем ",
+            "date": " 24/01/2024 20:05",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В 2023 году спрос на «семейную» ипотеку вырос почти вдвое ",
+            "date": " 24/01/2024 14:15",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Стало известно о планах нового директора МУП ТТП ",
+            "date": " 23/01/2024 18:15",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловские компании не горят желанием брать на работу бывших ИПшников ",
+            "date": " 23/01/2024 15:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Россиянам рассказали о схеме мошенничества с фейковыми аккаунтами директоров в мессенджерах ",
+            "date": " 23/01/2024 14:45",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Назван уровень инфляции в Орловской области в 2023 году ",
+            "date": " 22/01/2024 14:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области легализовали работу почти четырех тысяч человек ",
+            "date": " 21/01/2024 11:54",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Сбер открыл головное отделение банка в Крыму ",
+            "date": " 19/01/2024 09:35",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Российский авторынок в 2024 году достигнет 1,4-1,5 млн штук ",
+            "date": " 18/01/2024 14:45",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В 2023 году продажи грузиков в России выросли на 70% ",
+            "date": " 18/01/2024 09:45",
+            "tag": "Экономика"
+        },
+        {
+            "block": "С начала года госдолг Орловской области незначительно сократился ",
+            "date": " 10/01/2024 18:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Белгородский суд вызвал орловских чиновников на разговор про Красный мост ",
+            "date": " 09/01/2024 10:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцы стали чаще расплачиваться по безналу ",
+            "date": " 08/01/2024 13:01",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области продукты за год подорожали на 6,1% ",
+            "date": " 08/01/2024 09:03",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцы в 2023 году оказались большими любителями кафе и ресторанов ",
+            "date": " 07/01/2024 21:22",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловская области дела со стройкой по-прежнему так себе ",
+            "date": " 07/01/2024 19:38",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловская область единственная в ЦФО, кто не показал рост производства в ноябре ",
+            "date": " 07/01/2024 15:03",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцы покутили в кафе и ресторанах на рекордные 5 млрд рублей ",
+            "date": " 05/01/2024 21:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Убытки орловских предприятий приближаются к 4 млрд рублей ",
+            "date": " 03/01/2024 21:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "ТОП событий года. Экономика ",
+            "date": " 03/01/2024 09:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Дмитровский район получит почти 42 млн рублей на социально-значимые объекты ",
+            "date": " 02/01/2024 17:07",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Статистики назвали проблемные отрасли орловской экономики ",
+            "date": " 28/12/2023 17:10",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Ожидается, что инфраструктурные проекты Орловской области окупятся ",
+            "date": " 28/12/2023 14:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцы, не успевшие купить квартиру до конца новогодних праздников, могут сильно переплатить в следующем ",
+            "date": " 28/12/2023 10:20",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцам станет проще заключать социальные контракты ",
+            "date": " 27/12/2023 12:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Клычков решил приватизировать котел, горелку, насос и трубу ",
+            "date": " 26/12/2023 20:16",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Ливны получат более 200 млн рублей из-за демографии ",
+            "date": " 26/12/2023 17:03",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орлу и Орловскому округу добавят денег на стимулирование строительства жилья ",
+            "date": " 26/12/2023 16:39",
+            "tag": "Экономика"
+        },
+        {
+            "block": "63% жителей ЦФО хотят в новом году копить деньги ",
+            "date": " 26/12/2023 10:05",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Андрей Клычков обвинил аграриев в двукратном завышении цен на куриные яйца ",
+            "date": " 25/12/2023 11:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "По данным статистиков, среднестатистический орловец зарабатывает в месяц 47 064 рубля ",
+            "date": " 24/12/2023 11:45",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орелстрой получил право на комплексную застройку новых территорий ",
+            "date": " 23/12/2023 10:01",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Депутаты одобрили приватизацию Дорожной службы ",
+            "date": " 22/12/2023 13:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловские депутаты приняли неоднозначный закон о специальных семеноводческих зонах ",
+            "date": " 22/12/2023 12:40",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орле снова посетовали на проблемный бюджет ",
+            "date": " 22/12/2023 10:50",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловская мэрия задолжала десятки миллионов фирме Михаила Маркина ",
+            "date": " 21/12/2023 13:35",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Жители Орла смогут оплачивать ЖКХ без комиссии с 1 января ",
+            "date": " 20/12/2023 18:31",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Доля ипотеки с господдержкой приближается к 70% ",
+            "date": " 20/12/2023 17:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Инфляция в Орле составила 6,88% ",
+            "date": " 19/12/2023 15:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Стали известны самые высокооплачиваемые вакансии Орла ",
+            "date": " 19/12/2023 10:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области перед Новым годом подешевели креветки и икра ",
+            "date": " 18/12/2023 18:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "За новую отечественную легковушку орловцам придется заплатить более миллиона рублей ",
+            "date": " 18/12/2023 16:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области незначительно подешевел бензин ",
+            "date": " 18/12/2023 15:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловской области не оказалась в числе регионов, которым дадут деньги на модернизацию сельхозпредприятий ",
+            "date": " 16/12/2023 11:21",
+            "tag": "Экономика"
+        },
+        {
+            "block": "МУП ТТП доживет до конца первого квартала 2024 года ",
+            "date": " 14/12/2023 14:25",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Самые большие чаевые оставляют в кофейнях ",
+            "date": " 14/12/2023 13:10",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области появится зарядная инфраструктура для электротранспорта ",
+            "date": " 12/12/2023 11:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Госдолг Орловской области вырос под конец года ",
+            "date": " 10/12/2023 14:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловская область получит от федералов почти 14 млн рублей на мелиорацию ",
+            "date": " 09/12/2023 19:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Розничные инвесторы будут играть значительную роль в развитии экономики России ",
+            "date": " 08/12/2023 15:40",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Донбасс - наше Куликово поле, семейный МФЦ - наш стартап. Краткий пересказ инвестпослания Клычкова ",
+            "date": " 08/12/2023 12:51",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области крупно сократился объем инвестиций за год ",
+            "date": " 05/12/2023 14:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Росстат: в сентябре средняя зарплата в Орловской области составила 46 620 рублей ",
+            "date": " 05/12/2023 12:17",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловская область не может выбраться из аутсайдеров в строительстве ",
+            "date": " 05/12/2023 11:40",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Стало известно, сколько орловцев зарабатывают от миллиона рублей в месяц ",
+            "date": " 05/12/2023 10:01",
+            "tag": "Экономика"
+        },
+        {
+            "block": "На закупку лекарств для орловских льготников потратят почти миллиард рублей ",
+            "date": " 04/12/2023 16:26",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Известна дата проведения инвестпослания орловского губернатора ",
+            "date": " 04/12/2023 16:06",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Мценску компенсируют более 1,5 млн рублей расходов на беженцев ",
+            "date": " 04/12/2023 14:25",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Мошенники маскируются под «мужа на час» ",
+            "date": " 02/12/2023 08:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В финансовых проблемах Орла едет разбираться представитель Федерального казначейства ",
+            "date": " 01/12/2023 19:05",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Эксперты оценили экономическое взаимодействие Орловской области и Китая ",
+            "date": " 01/12/2023 17:10",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Власти Орловской области решили сокращать госдолг ",
+            "date": " 29/11/2023 10:46",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Объединяя суверенные экономики: что обсудят на форуме ВТБ «Россия зовет!» ",
+            "date": " 28/11/2023 17:50",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Стало известно, где орловцы зарабатывают больше ",
+            "date": " 27/11/2023 14:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "AI Journey 2023 открыли Максим Орешкин и Александр Ведяхин ",
+            "date": " 23/11/2023 09:40",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Каждый четвертый россиянин считает чрезмерный онлайн-шоппинг своей пагубной привычкой ",
+            "date": " 22/11/2023 19:50",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Иконников рассказал о борьбе Клычкова за дотации Орлу ",
+            "date": " 22/11/2023 14:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области становится все меньше коров и овец ",
+            "date": " 21/11/2023 17:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Половина жителей ЦФО планируют участвовать в «черной пятнице» ",
+            "date": " 21/11/2023 15:33",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В следующем году орловцы могут получить зарплату «с жирком» ",
+            "date": " 21/11/2023 10:58",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцам стало дороже летать экономклассом и дешевле ездить на поездах ",
+            "date": " 20/11/2023 23:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Большинство жителей ЦФО намерены встречать Новый год дома ",
+            "date": " 20/11/2023 21:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В сезон гриппа орловцам пришлось раскошелиться на градусники и противовоспалительные ",
+            "date": " 20/11/2023 20:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В Орловской области подешевел бензин ",
+            "date": " 20/11/2023 19:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "В ЦБ заявили об ускорении инфляции в Орловской области ",
+            "date": " 20/11/2023 18:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "С приходом холодов в Орловской области подорожала теплая одежда для детей ",
+            "date": " 20/11/2023 11:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Орловцам стали дороже обходиться помидоры и чеснок ",
+            "date": " 20/11/2023 09:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Леонов рассказал, сколько орловцы могут заработать в промышленной сфере ",
+            "date": " 19/11/2023 12:28",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Мошенники используют «курсы для аналитиков» в качестве новой схемы обмана ",
+            "date": " 17/11/2023 16:40",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Мариупольские дороги оснастят тысячью орловских светофоров ",
+            "date": " 17/11/2023 12:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Федералы компенсируют Орловской области потери бюджета из-за налогового вычета для бизнеса ",
+            "date": " 17/11/2023 09:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Россияне стали больше покупать во время распродажи 11.11 ",
+            "date": " 14/11/2023 18:30",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Расходы орловских семей впервые выросли после введения санкций ",
+            "date": " 14/11/2023 14:00",
+            "tag": "Экономика"
+        },
+        {
+            "block": "Мошенники стали звонить через приложения для объявлений ",
+            "date": " 10/11/2023 17:55",
+            "tag": "Экономика"
+        }
+    ],
+    "timestamp": 1707621466238,
+    "domain": "newsorel.ru"
+}

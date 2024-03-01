@@ -1,0 +1,508 @@
+{
+    "url": "https://newsorel.ru/cat_society.html",
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n   <head>\n      <meta charset=\"UTF-8\">\n      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n      <meta http-equiv=\"Cache-Control\" content=\"max-age=604800, public\" />\n      \n    <base href=\"https://newsorel.ru/\">\n        <title>Общество  -  Орловские новости. Новости Орла и Орловской области, сегодня и сейчас</title>\n        <meta name=\"Keywords\" content=\"  Орловские новости\">\n        <meta name=\"Description\" content=\"  Последние новости Орла: происшествия, ДТП, события, политика, ЖКХ, экономика, бизнес, финансы, культура, спорт, афиша мероприятий. Свежие и актуальные репортажи, интервью, мнения экспертов, аналитика. Сетевое издание.\">\n        <meta property=\"og:image\" content=\"https://newsorel.ru/images/logo-sm.png\">\n\n        \t<meta name=\"twitter:card\" content=\"summary\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<link rel=\"canonical\" href=\"https://newsorel.ru/cat_society.html\"/>\n\t<meta property=\"og:url\" content=https://newsorel.ru/cat_society.html />\n\t<meta property=\"og:title\" content=\"Общество\" />\n\t<meta property=\"og:description\" content=\"\" />\n\t\n\n\n        <link rel=\"preconnect\" href=\"https://region.center\">\n        <link rel=\"dns-prefetch\" href=\"https://region.center\">\n\n \n\n        <link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"favicon/apple-icon-57x57.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"favicon/apple-icon-60x60.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"favicon/apple-icon-72x72.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"favicon/apple-icon-76x76.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"favicon/apple-icon-114x114.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"favicon/apple-icon-120x120.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"favicon/apple-icon-144x144.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"favicon/apple-icon-152x152.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon/apple-icon-180x180.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"favicon/android-icon-192x192.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon/favicon-32x32.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"favicon/favicon-96x96.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"favicon/favicon-16x16.png\">\n\n        <meta name=\"msapplication-TileImage\" content=\"favicon/ms-icon-144x144.png\">\n\n \n\n\n      <link rel=\"stylesheet\" href=\"css2/style.css?_v=20221216155958\">\n\n\n      <style>\n         embed, iframe, object, video {\n             max-width: 100%;\n         }\n         body {\n         background:#fff;\n         } \n .detale-news-block__text a {\n         color:#27598b !important;\n         font-size:16px !important;\n\n\n        }\n         .detale-news-block__text img {\nheight:100% !important;\n       width:100%;\n        }\n        \n  </style>\n\n\n\n   <!-- Yandex.RTB -->\n   <script>window.yaContextCb=window.yaContextCb||[]</script>\n   <script src=\"https://yandex.ru/ads/system/context.js\" async></script>\n\n\n   </head>\n\n   <body>\n   <div align=\"center\">\n    <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: перетяжка-->\n<!--Расположение: верх страницы-->\n<div id=\"adfox_169752384578981333\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752384578981333',\n            params: {\n                pp: 'g',\n                ps: 'fusg',\n                p2: 'hryr'\n            }\n        })\n    })\n</script>\n         </div>\n\n      <div class=\"wrapper\" id=\"app\" :class=\"{isMobile, isTablet}\">\n       </div>\n      <div class=\"content\">\n\n        \n      <aside class=\"left-block\">\n         <div class=\"left-container sticky_block\">\n            <a href=\".\" class=\"logo-block\">\n               <picture>\n                  <img class=\"logo-block__image\" src=\"img/icon.png\" style=\"width:70px !important;\">\n               </picture>\n               <div class=\"logo-block__name\">\n                  <span>Орловские новости</span>\n               </div>\n            </a>\n            <div class=\"menu-list-glavnaya\">\n               <ul class=\"menu-list\">\n                  <li class=\"menu-list__item\"><a href=\"cat_analytics.html\">Аналитика</a></li><li class=\"menu-list__item\"><a href=\"cat_society.html\">Общество</a></li><li class=\"menu-list__item\"><a href=\"cat_svo.html\">СВО</a></li><li class=\"menu-list__item\"><a href=\"cat_top100_vliyatelnyh_lyudey2023.html\">ТОП-100 влиятельных людей-2023</a></li><li class=\"menu-list__item\"><a href=\"cat_job.html\">Вакансии</a></li><li class=\"menu-list__item\"><a href=\"cat_sport.html\">Спорт</a></li><li class=\"menu-list__item\"><a href=\"cat_culture.html\">Культура</a></li><li class=\"menu-list__item\"><a href=\"cat_ecology.html\">Экология</a></li><li class=\"menu-list__item\"><a href=\"cat_agro.html\">Агро</a></li><li class=\"menu-list__item\"><a href=\"cat_incidients.html\">Происшествия</a></li><li class=\"menu-list__item\"><a href=\"cat_delobudagova.html\">Дело Будагова</a></li><li class=\"menu-list__item\"><a href=\"cat_koronavirus.html\">Здоровье</a></li><li class=\"menu-list__item\"><a href=\"cat_business.html\">Бизнес</a></li><li class=\"menu-list__item\"><a href=\"cat_economy.html\">Экономика</a></li><li class=\"menu-list__item\"><a href=\"cat_delo_dobrohvalova.html\">Дело Доброхвалова</a></li><li class=\"menu-list__item\"><a href=\"cat_podcast.html\">Подкасты</a></li><li class=\"menu-list__item\"><a href=\"cat_primjalibemurzalevskim.html\">Прямая линия с Музалевским</a></li><li class=\"menu-list__item\"><a href=\"cat_history.html\">Истории</a></li><li class=\"menu-list__item\"><a href=\"cat_company.html\">Новости компаний</a></li><li class=\"menu-list__item\"><a href=\"cat_afisha.html\">Афиша</a></li><li class=\"menu-list__item\"><a href=\"cat_jkh.html\">ЖКХ</a></li><li class=\"menu-list__item\"><a href=\"cat_necrolog.html\">Память</a></li><li class=\"menu-list__item\"><a href=\"cat_investigation.html\">Расследования </a></li><li class=\"menu-list__item\"><a href=\"cat_interview.html\">Интервью</a></li><li class=\"menu-list__item\"><a href=\"cat_politics.html\">Политика</a></li>                   <li class=\"menu-list__item\"><a target=\"_blank\"  href=\"http://top100region.ru/orel\">100 самых влиятельных людей</a></li>\n                  <li class=\"menu-list__item menu-list__item-more\"></li>\n               </ul>\n            </div>\n            <form class=\"search\">\n \n\n<div class=\"ya-site-form ya-site-form_inited_no\" data-bem=\"{&quot;action&quot;:&quot;https://newsorel.ru/search.html&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по newsorel.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2523564,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#3f687b&quot;}\"><form action=\"https://yandex.ru/search/site/\" method=\"get\" target=\"_self\" accept-charset=\"utf-8\"><input type=\"hidden\" name=\"searchid\" value=\"2523564\"/><input type=\"hidden\" name=\"l10n\" value=\"ru\"/><input type=\"hidden\" name=\"reqenc\" value=\"\"/><input type=\"search\" name=\"text\" value=\"\"/><input type=\"submit\" value=\"Найти\"/></form></div><style type=\"text/css\">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type=\"text/javascript\">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>\n \n\n\n            </form>\n             \n             \n\n            \n\n\n            <div class=\"news-aside-block\">\n\n   <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: низ страницы-->\n<div id=\"adfox_169752394294317962\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752394294317962',\n            params: {\n                pp: 'i',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n\n\n\n               <a href=\"cat_company.html\" class=\"news-aside-block__title\">Новости компаний</a>\n                \n                        <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <picture>\n                                <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/1_1.%5B1%5D.jpg\" alt=\"image\">\n                            </picture>\n                        </a><div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">28/12</a></span><span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">15:01</a></span>\n                            <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <p>С заботой о самом главном: сеть медицинских центров «САКАРА» отмечает юбилей</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425602.html\">28/12</a></span><span><a href=\"fn_1425602.html\">10:34</a></span>\n                            <a href=\"fn_1425602.html\">\n                            <p>Прайс-лист на создание и размещение агитационных материалов 2024</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">25/12</a></span><span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">17:00</a></span>\n                            <a href=\"fn_1424328.html?erid=LjN8K96Zx\">\n                            <p>«Мираторг»  организовал практику для орловской молодёжи</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">25/12</a></span><span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">15:16</a></span>\n                            <a href=\"fn_1424232.html?erid=LjN8KBSLA\">\n                            <p>ВТБ: в 2023 году рынок рублевых сбережений вырастет на 21%</p>\n                            </a>\n                        </div>\n            </div>\n\n\n         \n            <div class=\"news-aside-block\">\n               <a href=\"cat_business.html\" class=\"news-aside-block__title\">Бизнес</a>\n                \n                    <a href=\"fn_1425125.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/4z0a3750.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425125.html\">28/12</a></span><span><a href=\"fn_1425125.html\">20:00</a></span>\n                        <a href=\"fn_1425125.html\">\n                           <p>Михаил Вдовин рассказал на премии «Орловский бизнес», зачем нужно награждать предпринимателей</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425384.html\">28/12</a></span><span><a href=\"fn_1425384.html\">10:20</a></span>\n                        <a href=\"fn_1425384.html\">\n                           <p>«Для нас это очередная победа»: директор «МРТ-Эксперт Орел» о победе в премии «Орловский бизнес-2023»</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1424552.html\">27/12</a></span><span><a href=\"fn_1424552.html\">21:00</a></span>\n                        <a href=\"fn_1424552.html\">\n                           <p>«Быть на месте лауреата – это торжественно и почетно»: депутат объяснил важность премии «Орловский бизнес» для лауреатов</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425279.html\">27/12</a></span><span><a href=\"fn_1425279.html\">16:30</a></span>\n                        <a href=\"fn_1425279.html\">\n                           <p>«Это очень приятно»: руководитель коллегии адвокатов «Alpha Level»» о победе в премии «Орловский бизнес»</p>\n                        </a>\n                     </div>\n           \n            </div>\n\n\n            <div class=\"news-aside-block\">\n               <a target=\"_blank\" href=\"https://brandrussia.online\" class=\"news-aside-block__title\">Бренды России</a>\n                \n                    <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1418309.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Tul%20Brendi/3_2023/1_1.%5B351%5D.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1418309.html\">12/12</a></span><span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1418309.html\">14:40</a></span>\n                        <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1418309.html\">\n                           <p>Тамара Антоновна Иванютина</p>\n                        </a>\n                     </div>\n \n            </div>\n\n\n\n            \n         </div>\n         <div class=\"helper_for_sticky\"></div>\n      </aside> \n\t<main class=\"content-block\">\n\t<div class=\"content-container\">\n\t\t<div class=\"button-top__wrapper\">\n\t<div class=\"button-top\" style=\"--top_position:30px;\">\n\t</div>\n\t</div>\n\t\t<div class=\"bread-crumbs\">\n\t<ul>\n\t\t<li> <a href=\".\"> Главная</a> <span> > </span></li>\n\t\t<li><a href=\"cat_society.html\">Общество </a></li>\n\t</ul>\n\t</div>\n\t<div class=\"title-extreme-news\">\n\t<div class=\"title-extreme-news__in\">\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<h2>Последние новости</h2>\n\t\t</div>\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<div>Категория</div>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<a href=\"cat_society.html\">Общество </a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n\t</div>\n\t<div class=\"main-news-list\">\n   <div class=\"big-news-list-block extreme-news-list\"><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425898.html\"> 28/12/2023 21:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425898.html\" >Онколог-проктолог назвал симптом, при котором нужно сразу же обратиться к врачу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425818.html\"> 28/12/2023 19:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425818.html\" >Эксперт рассказала, какие напитки помогут орловцам не навредить себе в новогоднюю ночь </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425888.html\"> 28/12/2023 18:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425888.html\" >Андрей Клычков попросил орловских коммунальщиков не допустить ростовского гололеда </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425791.html\"> 28/12/2023 18:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425791.html\" >Нутрициолог рассказала, как  орловцам позаботиться о ЖКТ в новогоднюю ночь </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425862.html\"> 28/12/2023 17:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425862.html\" >Андрей Клычков намекнул главе Болховского района, что на день рождения стоило проставиться </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425653.html\"> 28/12/2023 17:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425653.html\"  style=\"color:red;\" >Россия и мир: Медведев перечислил города, которые вернутся в состав РФ, а США захлестнули мексиканские мигранты </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425864.html\"> 28/12/2023 16:25</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425864.html\"  style=\"color:red;\" >Орловский прокурор прояснил ситуацию со сдачей приюта для животных </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425850.html\"> 28/12/2023 16:05</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425850.html\"  style=\"color:red;\" >В МЧС напомнили орловцам о запрете на использование петард в общественных местах </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425563.html\"> 28/12/2023 15:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425563.html\" >Жительница Мценска потратила на покупки в магазинах чужие 1,9 тыс. рублей. </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425742.html\"> 28/12/2023 14:15</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425742.html\"  style=\"color:red;\" >«Ребята наши воюют за проституток этих голубых?» Депутат Устинов прокомментировал «голую» вечеринку Ивлеевой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425668.html\"> 28/12/2023 14:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425668.html\" >От сердца к сердцу. Депутаты передали подарки детям Луганска </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425737.html\"> 28/12/2023 13:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425737.html\" >Первая леди Орловщины поделилась своей личной новогодней традицией </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425625.html\"> 28/12/2023 12:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425625.html\" >Клычков назвал глупцами тех, кто считает, что на выборах все предопределено </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425662.html\"> 28/12/2023 12:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425662.html\" >Стало известно, куда орловцы смогут обратиться на новогодних праздниках за медпомощью </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425590.html\"> 28/12/2023 11:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425590.html\" >Клычков рассказал о загаданном новогоднем желании </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425610.html\"> 28/12/2023 11:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425610.html\" >Парахин под видом Деда Мороза отправится прямиком в дома орловцев </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425582.html\"> 28/12/2023 10:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425582.html\" >Орловцы оформили больше банковских карт и стали меньше пользоваться наличными </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425549.html\"> 28/12/2023 10:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425549.html\" >Около половины жителей Орла не против получать «черную» зарплату </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425539.html\"> 28/12/2023 09:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425539.html\" >Трамвай и троллейбус, украшенные к Новому году, начали курсировать по Орлу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425396.html\"> 28/12/2023 09:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425396.html\" >В Кромском центре культуры и досуга открылся новый кинозал </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425446.html\"> 28/12/2023 08:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425446.html\"  style=\"color:red;\" >Утренний дайджест «ОН»: Петров будет торговым представителем РФ в Нигерии, а Зюганов похвалил Клычкова перед Путиным </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425478.html\"> 28/12/2023 07:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425478.html\" >Люди только зимой замечают, что ель зелёная. Представляем прогноз на 28 декабря в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424960.html\"> 28/12/2023 04:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424960.html\" >День, когда стало известно о гибели ливенского прокурора в ДТП: 28 декабря в истории региона </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425392.html\"> 27/12/2023 22:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425392.html\" >Орловские старшеклассники проверили свои знания в предпринимательстве </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425209.html\"> 27/12/2023 18:20</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425209.html\"  style=\"color:red;\" >Россия и мир: на Урале покажут импортозамещенный аналог «Ласточки», а на Ближнем Востоке не исключена новая война </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425343.html\"> 27/12/2023 16:20</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425343.html\"  style=\"color:red;\" >В Кремле у Клычкова попросили игрушку, велосипед и электрогитару </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425207.html\"> 27/12/2023 15:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425207.html\" >Орловец отправится в колонию за то, что дважды сел за руль пьяным </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425184.html\"> 27/12/2023 14:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425184.html\" >Юные орловцы погрузятся в историю региона с помощью фотографии </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425131.html\"> 27/12/2023 13:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425131.html\" >На дороге под Орлом устранили выбоины после вмешательства прокуратуры </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425095.html\"> 27/12/2023 12:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425095.html\" >Орловцев поразил водитель маршрутки, из-за которого ребенку пришлось идти пешком до дома два часа </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425133.html\"> 27/12/2023 11:50</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425133.html\" >Доброта и волшебство: обездоленным детям Орла подарили новогоднее чудо </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425064.html\"> 27/12/2023 10:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425064.html\" >Световой трамвай на улице Ленина сможет рассказать аудиоэкскурсию </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425038.html\"> 27/12/2023 10:15</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425038.html\" >Орловские центры занятости объединятся в одно юрлицо </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425044.html\"> 27/12/2023 09:50</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425044.html\" >Орловский депутат заявил об угрозе для сдачи школы в Болховском микрорайоне </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425021.html\"> 27/12/2023 09:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1425021.html\"  style=\"color:red;\" >Максим Петров  назначен торговым представителем РФ в Нигерии </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424783.html\"> 27/12/2023 09:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424783.html\" >Орловчанку, совравшую о краже велосипеда, оштрафовали </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424729.html\"> 27/12/2023 08:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424729.html\" >Орловская колония задумалась о покупке металлодетектора в антивандальном корпусе </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424871.html\"> 27/12/2023 08:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424871.html\"  style=\"color:red;\" >Утренний дайджест «ОН»: синоптики прогнозируют гололедицу, а орловцы хотят позвать экстрасенсов </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424950.html\"> 27/12/2023 07:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424950.html\" >Как быстро меняется погода! Не успеешь захотеть одну одежду, как пора уже хотеть другую Представляем прогноз на 27 декабря в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424453.html\"> 27/12/2023 04:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424453.html\" >Тот день, когда в Орле начался процесс над братьями Будаговыми: 27 декабря в истории региона </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424669.html\"> 26/12/2023 23:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424669.html\" >В магазине в Нарышкино покупатель предпочел расплатиться чужой банковской картой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424685.html\"> 26/12/2023 22:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424685.html\" >Житель Орловской области присвоил себе уличное освещение </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424811.html\"> 26/12/2023 21:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424811.html\" >Два жителя Орловской области не побоялись сесть за руль несмотря на противопоказания </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424790.html\"> 26/12/2023 19:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424790.html\" >Эксперт поделилась мнением, поможет ли искусственное сдерживание цен на яйца </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424827.html\"> 26/12/2023 18:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424827.html\"  style=\"color:red;\" >Семью орловского бойца СВО наградили за сына </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424869.html\"> 26/12/2023 18:05</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424869.html\"  style=\"color:red;\" >Россия и мир: Алиев и Пашинян пожали друг другу руки, а россияне отдали гадалкам два триллиона рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424822.html\"> 26/12/2023 18:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424822.html\" >Жительница Орловской области обратилась к адвокату за помощью и попалась на мошенника </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424754.html\"> 26/12/2023 17:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424754.html\" >Житель Новосиля дважды попался на выходе из магазина с неоплаченным алкоголем и попал под суд </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424752.html\"> 26/12/2023 17:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424752.html\" >Орловский суд продлил домашний арест бывшему начальнику залегощенского ГИБДД </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424809.html\"> 26/12/2023 16:20</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424809.html\"  style=\"color:red;\" >Тарасова назначили ответственным за качество госуслуг в Орловской области </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424788.html\"> 26/12/2023 16:20</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424788.html\" >В региональном парламенте наградили победителей конкурса «Мой выбор. Моя Родина. Мой Президент» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424801.html\"> 26/12/2023 16:15</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424801.html\"  style=\"color:red;\" >Орловцев ожидает гололедица </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424650.html\"> 26/12/2023 16:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424650.html\" >Несколько орловцев попали под суд за открытие фиктивных ООО и ИП </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424710.html\"> 26/12/2023 15:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424710.html\" >Житель Дмитровского района заработал более миллиона на незаконных азартных играх и не стал выплачивать штраф </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424723.html\"> 26/12/2023 15:05</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424723.html\" >Орел оказался на 20 месте рейтинга эффективности управления </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424678.html\"> 26/12/2023 14:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424678.html\" >В Орловской области месяц не могут найти седого мужчину </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424700.html\"> 26/12/2023 13:51</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424700.html\"  style=\"color:red;\" >В Орле возьмутся за ремонт трамвайных путей 4-го маршрута </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424623.html\"> 26/12/2023 12:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424623.html\" >Сытно и тепло: как работает безотходное производство на тамбовском маслозаводе </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424567.html\"> 26/12/2023 12:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424567.html\" >Красная икра из орловских супермаркетов оказалась настоящей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424605.html\"> 26/12/2023 11:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424605.html\" >Более 11 км пути отремонтировано на МЖД в Орловской области в текущем году </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424593.html\"> 26/12/2023 11:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424593.html\" >Орловцы предложили вызвать экстрасенсов на Гостиную для решения проблем с проседанием асфальта </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424532.html\"> 26/12/2023 10:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424532.html\" >Орловцы пожаловались на отсутствие удобств на новогодней ярмарке </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424332.html\"> 26/12/2023 09:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424332.html\"  style=\"color:red;\" >Все меньше орловских пар вступают в брак </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424322.html\"> 26/12/2023 09:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424322.html\"  style=\"color:red;\" >В Орловской области продолжает падать рождаемость </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424286.html\"> 26/12/2023 08:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424286.html\"  style=\"color:red;\" >У орловских энергетиков возникли претензии к чиновникам </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424355.html\"> 26/12/2023 08:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424355.html\"  style=\"color:red;\" >Утренний дайджест «ОН»: бюсты героев на Бульваре Победы были повреждены патиной, а маньяк убил орловскую проститку </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424443.html\"> 26/12/2023 07:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424443.html\" >Зима — время строить планы и видеть перспективы. Представляем прогноз на 26 декабря в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423981.html\"> 26/12/2023 04:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423981.html\" >День, когда Клычков рассказал о предыдущей работе сына вице-мэра Москвы: 26 декабря в истории региона </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424307.html\"> 25/12/2023 22:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424307.html\" >Бывший директор водоснабжающей компании из Нарышкино попал под уголовку за долги </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424296.html\"> 25/12/2023 21:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424296.html\" >Орловские энергетики отправились в суд из-за долга в пятьсот рублей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424337.html\"> 25/12/2023 20:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424337.html\" >Орловская область стала меньше терять жителей </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424186.html\"> 25/12/2023 19:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424186.html\" >Стало известно, где и когда в Орле пройдут новогодние празднования </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424317.html\"> 25/12/2023 18:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424317.html\" >Более сотни детей из ЛНР находятся в саратовской больнице из-за вспышки заболевания в поезде </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424325.html\"> 25/12/2023 17:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424325.html\"  style=\"color:red;\" >Россия и мир: в Белграде идет бунт, а россияне едят все больше красной икры </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424148.html\"> 25/12/2023 16:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424148.html\" >В Орловской области сельхоз продукции производится больше, чем запланировано </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424265.html\"> 25/12/2023 16:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424265.html\" >Орловчанка была вынуждена отправиться в травмпункт после встречи с бродячей собакой </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424223.html\"> 25/12/2023 14:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424223.html\"  style=\"color:red;\" >В самом сердце Орла запретят парковку авто на Новый год </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424213.html\"> 25/12/2023 14:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424213.html\" >В Орле подорожает проезд на межмуниципальных автобусных маршрутах </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424168.html\"> 25/12/2023 13:50</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424168.html\"  style=\"color:red;\" >Орловскую прокуратуру заинтересовали переполненные мусорки города </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424196.html\"> 25/12/2023 13:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424196.html\"  style=\"color:red;\" >«Вандалом», испортившим бюсты героев на Бульваре Победы в Орле, оказалась патина </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424130.html\"> 25/12/2023 13:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424130.html\" >Орловчанка в соцсетях обратилась к прокурору города, чтобы избавиться от фекалий и насекомых в подвале дома </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424087.html\"> 25/12/2023 12:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424087.html\" >В Орле придется потратить на 12% больше, чтобы купить вторичку </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424153.html\"> 25/12/2023 12:15</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424153.html\"  style=\"color:red;\" >Синоптик пообещал орловцам дожди и мокрый снег </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424143.html\"> 25/12/2023 11:50</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424143.html\" >Орловский депздрав не смог закупить анализатор уровня глюкозы для Болховской ЦРБ </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424110.html\"> 25/12/2023 11:45</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424110.html\"  style=\"color:red;\" >«Зеленая роща» пообещала орловцам вернуться к прежним графикам вывоза мусора </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424081.html\"> 25/12/2023 11:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424081.html\"  style=\"color:red;\" >Орловский стилист посоветовала запоминающиеся образы на Новый год </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424068.html\"> 25/12/2023 10:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424068.html\" >Дети участников СВО из Орла смогли посмотреть балет </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424051.html\"> 25/12/2023 10:15</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424051.html\" >Герман Греф рассказал о борьбе с мошенничеством </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424046.html\"> 25/12/2023 10:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424046.html\" >Более 6,5 тыс орловцев смогли изменить условия кредитов </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1424049.html\"> 25/12/2023 09:55</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1424049.html\" >Дети попросили у Клычкова конструктор,  термомозаику и маркеры для скетчинга </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423936.html\"> 25/12/2023 08:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423936.html\"  style=\"color:red;\" >Что вы пропустили в Орле за минувшие выходные? </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423971.html\"> 25/12/2023 07:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423971.html\" >Если жизнь не балует вас солнечными днями, это повод найти свет внутри себя. Представляем прогноз на 25 декабря в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423738.html\"> 25/12/2023 04:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423738.html\" >Тот день, когда братьев Будаговых взяли под домашний арест </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423949.html\"> 24/12/2023 22:48</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423949.html\"  style=\"color:red;\" >Около ДК Металлург появилась новая новогодняя елка </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423899.html\"> 24/12/2023 18:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423899.html\"  style=\"color:red;\" >Россия и мир: Новые люди объединились с Партией Роста, а Байден выступил против неприкосновенности президента </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423882.html\"> 24/12/2023 16:25</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423882.html\"  style=\"color:red;\" >ТОП самых ярких событий ЦФО: портрет мэра на мусоре, нашествие уток, шляпы для летучих мышей и суперваленок </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423728.html\"> 24/12/2023 07:30</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423728.html\" >Вдохновение можно найти даже в прогнозе погоды. Представляем прогноз на 24 декабря в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423507.html\"> 24/12/2023 04:00</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423507.html\" >Тот день, когда в отношении депутата Алексея Лупина возбуждено уголовное дело: 24 декабря в истории региона </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423694.html\"> 23/12/2023 20:37</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423694.html\"  style=\"color:red;\" >Орловец возглавил тюменскую полицию </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423625.html\"> 23/12/2023 18:15</a>\n\t\t\t<a href=\"cat_society.html\">Общество</a>\n\t\t\t<h2> <a href=\"fn_1423625.html\"  style=\"color:red;\" >Россия и мир: 29 человек хотят стать президентом, а ситуацию с куриным мясом спасет экспорт </a></h2></div>\n</div>\n</div>\n\n\n<div class=\"advertisement-block\">\n\t\t  <div class=\"advertisement-block__in\"><h2 style=\"font-size:20px;\">Подписывайтесь, чтобы первыми узнавать о важном: </h2>\n\t\t\t <div class=\"advertisement-buttons\">\n\t\t\t <a href=\"https://vk.com/newsorel\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#0077ff; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/8d2eab1c852dcb9686f4a357a7494f9b.svg\" alt=\"VK общий + комментировать\">\n\t\t\t\t</a><a href=\"https://dzen.ru/newsorel\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#000000; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/8440e5ad85d46fe229041d08b9a648c2.svg\" alt=\"Дзен общий\">\n\t\t\t\t</a></div></div>\n\t   </div>\n\n\n\n\n<div class=\"main-news-block\">\n   <div class=\"main-news-block__in\">\n      <h2>Главные новости</h2><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425853.html\"><span> 28/12/2023 16:03</span></a>\n \t\t\t\t<a href=\"fn_1425853.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Локоть пошел. Стоит ли ждать ухода Клычкова?</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425101.html\"><span> 27/12/2023 11:45</span></a>\n \t\t\t\t<a href=\"fn_1425101.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Политологи оценили достижения Клычкова за год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424196.html\"><span> 25/12/2023 13:30</span></a>\n \t\t\t\t<a href=\"fn_1424196.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">«Вандалом», испортившим бюсты героев на Бульваре Победы в Орле, оказалась патина</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424081.html\"><span> 25/12/2023 11:00</span></a>\n \t\t\t\t<a href=\"fn_1424081.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Орловский стилист посоветовала запоминающиеся образы на Новый год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1423596.html\"><span> 23/12/2023 13:35</span></a>\n \t\t\t\t<a href=\"fn_1423596.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Клычков стал кандидатом политических наук</h2>\n\t\t\t\t</a>\n\t\t\t </div></div>\n</div>\n</div>\n</main><aside class=\"right-block\">\n         <div class=\"right-container sticky_block\">\n            <div class=\"social-network-block\">\n                <a target=\"_blank\" href=\"https://vk.com/newsorel\"><img src=\"img/vk.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://ok.ru/newsorel\"><img src=\"img/ok.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://t.me/newsorel\"><img src=\"img/tg.svg\" alt=\"icon\"></a>\n            </div>\n            <br>\n            <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: середина страницы-->\n<div id=\"adfox_16975238906454607\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_16975238906454607',\n            params: {\n                pp: 'h',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n            <br>\n\n             <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Новости экономики</a>\n               <div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">21:21</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">\n                    <p>Альфа-Банк победил в номинации «Динамично развивающаяся компания» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">20:36</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">\n                    <p>Коллегия адвокатов «Де-Юре» стала лауреатом в номинации «Юридическая компания года» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">20:20</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">\n                    <p>Лауреат премии в номинации «Премиальный сегмент услуг» — «Кирпичный завод БРАЕР»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">20:04</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">\n                    <p>Абрамович решил засудить банк из-за 8 млн шекелей</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">19:10</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">\n                    <p>Россиянам рассказали, когда подорожает водка</p>\n                    </a>\n                </div> \n            </div>\n\n\n            \n\n            <div class=\"calendar-block\">\n               <div class=\"calendar\"></div>\n\n\n               <div class=\"calendar-events\">\n\n                <div class=\"calendar-events-item\">\n                    <picture>\n                       <source srcset=\"img/calendar.webp\" type=\"image/webp\">\n                       <img src=\"img/calendar.png\" alt=\"icon\">\n                    </picture>\n                    <span>28 декабря была образована Орловская таможня</span>\n                       <p>\n                           <p style=\"text-align: justify;\">Ее образовали на базе Орловского поста Приокской региональной таможни 28 декабря 1991 года. На нее возложили функции нетарифного регулирования, валютного контроля и таможенной очистки товаров. География экспортных поставок включает 67 стран мира. В работу Орловского таможенного поста успешно внедряются современные информационные технологии и новейшие технические средства таможенного контроля. Активно применяется технология автоматического выпуска деклараций на товары.</p>\n                       </p>                  \n                 </div>\n               </div>\n             </div>\n\n            <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Топ 5</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425853.html\">28/12</a></span><span><a href=\"fn_1425853.html\">16:03</a></span>\n                    <a href=\"fn_1425853.html\">\n                    <p>Локоть пошел. Стоит ли ждать ухода Клычкова?</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425742.html\">28/12</a></span><span><a href=\"fn_1425742.html\">14:15</a></span>\n                    <a href=\"fn_1425742.html\">\n                    <p>«Ребята наши воюют за проституток этих голубых?» Депутат Устинов прокомментировал «голую» вечеринку Ивлеевой</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425737.html\">28/12</a></span><span><a href=\"fn_1425737.html\">13:30</a></span>\n                    <a href=\"fn_1425737.html\">\n                    <p>Первая леди Орловщины поделилась своей личной новогодней традицией</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425662.html\">28/12</a></span><span><a href=\"fn_1425662.html\">12:00</a></span>\n                    <a href=\"fn_1425662.html\">\n                    <p>Стало известно, куда орловцы смогут обратиться на новогодних праздниках за медпомощью</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425382.html\">27/12</a></span><span><a href=\"fn_1425382.html\">19:00</a></span>\n                    <a href=\"fn_1425382.html\">\n                    <p>Сестре бойца СВО из Орла вручили монокуляр</p>\n                    </a>\n                </div> \n            </div>\n\n            <div class=\"top-five-block analitics\">\n               <a href=\"cat_analytics.html\" class=\"right-column-title\">Аналитика</a>\n                \n                    <a href=\"fn_1421170.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/factory-workers-working-together-industrial-production-hall_342744-228.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1421170.html\">18/12</a></span><span><a href=\"fn_1421170.html\">17:45</a></span>\n                        <a href=\"fn_1421170.html\">\n                           <p>Названо число простаивающих орловских работников</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1413018.html\">30/11</a></span><span><a href=\"fn_1413018.html\">14:30</a></span>\n                        <a href=\"fn_1413018.html\">\n                           <p>Орловцы резко увеличили траты на кафе и рестораны</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1400728.html\">01/11</a></span><span><a href=\"fn_1400728.html\">12:00</a></span>\n                        <a href=\"fn_1400728.html\">\n                           <p>От орловской промышленности стало больше мусора</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1304394.html\">21/03</a></span><span><a href=\"fn_1304394.html\">16:00</a></span>\n                        <a href=\"fn_1304394.html\">\n                           <p>Клычков много говорит об увеличении бюджета за время своего губернаторства. Мы сравнили его с соседями</p>\n                        </a>\n                     </div>\n        \n            </div>\n\n            <div class=\"top-five-block rassledovaniya\">\n               <a href=\"cat_investigation.html\" class=\"right-column-title\">Расследования</a>\n                \n                    <a href=\"fn_1351488.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/2023/july/_ekrana_2023-07-11_v_20-24-18.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1351488.html\">12/07</a></span><span><a href=\"fn_1351488.html\">08:10</a></span>\n                        <a href=\"fn_1351488.html\">\n                           <p>Бизнес в стиле евро. Шмыгалев где-то рядом</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1224399.html\">28/10</a></span><span><a href=\"fn_1224399.html\">19:13</a></span>\n                        <a href=\"fn_1224399.html\">\n                           <p>Помните Genesis у губернатора Орловской области? Мы нашли еще один, и он тоже своего рода подарок</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1212997.html\">20/10</a></span><span><a href=\"fn_1212997.html\">15:49</a></span>\n                        <a href=\"fn_1212997.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть вторая</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1211101.html\">19/10</a></span><span><a href=\"fn_1211101.html\">15:45</a></span>\n                        <a href=\"fn_1211101.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть первая</p>\n                        </a>\n                     </div>\n \n            </div>\n\n            <div class=\"top-five-block\">\n               <a href=\"cat_interview.html\" class=\"right-column-title\">Интервью</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1410786.html\">25/11</a></span><span><a href=\"fn_1410786.html\">12:00</a></span>\n                    <a href=\"fn_1410786.html\">\n                    <p>«Конвейер смерти»: орловский священник рассказал об отношении к репрессиям и бюсту Сталина</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1406738.html\">16/11</a></span><span><a href=\"fn_1406738.html\">10:00</a></span>\n                    <a href=\"fn_1406738.html\">\n                    <p>«Мы пошли по пути жизни в эфире». Интервью с программным директором «Нового Радио» Дмитрием Харитоновым</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1382268.html\">21/09</a></span><span><a href=\"fn_1382268.html\">14:05</a></span>\n                    <a href=\"fn_1382268.html\">\n                    <p>«Кризис – время возможностей»: Павел Бабохов о развитии бизнеса с трех сотрудников до федерального уровня</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1381005.html\">19/09</a></span><span><a href=\"fn_1381005.html\">09:00</a></span>\n                    <a href=\"fn_1381005.html\">\n                    <p>«Они не видят меня бездельником, и от этого мне хорошо». Отец Василий, дающий концерты в зоне СВО, рассказал о себе</p>\n                    </a>\n                </div>            </div>\n\n            \n\n            <div class=\"helper_for_sticky\"></div>\n      </aside>\n      </div>\n      <footer>\n         <div class=\"footer-container\">\n            <div class=\"footer\">\n               <div class=\"footer-logo-flex\">\n                  <a href=\"\" class=\"footer-logo-flex__logo\">\n                     <picture>\n                         <img class=\"footer-logo-flex__image\" src=\"img/icon.png\"  style=\"width:70px !important;\">\n                     </picture>\n                     <div class=\"footer-logo-flex__name\">\n                        <span>Орловские новости</span>\n                     </div>\n                  </a>\n                  <div class=\"footer-logo-flex__menu\">\n                     <ul class=\"footer-logo-flex__menu-list\">\n                        <li><a target=\"_blank\"  href=\"page_37.html\">Этическая политика изданий</a></li>\n                        <li><a target=\"_blank\"  href=\"page_35.html\">Редакция</a></li>\n                        <li><a target=\"_blank\"  href=\"page_36.html\">Реклама</a></li>\n                        <li><a target=\"_blank\"  href=\"https://mazov.ru/regionnews\">О холдинге</a></li>\n                        <li><a target=\"_blank\"  href=\"page_99.html\">Дежурный по новостям</a></li>\n\n                     </ul>\n                  </div>\n                  <div class=\"footer-logo-flex__years\">\n                     <span class=\"footer-year\">16+</span>\n                     <span class=\"coopy-mobile\">2014 © NEWSOREL.RU | <br> СИ «Орловские новости»</span>\n                  </div>\n               </div>\n               <div class=\"footer-info-flex\">\n                  <div class=\"footer-info-flex__left\">\n                     <p>2014 © NEWSOREL.RU | СИ «Орловские новости»</p>\n                                                                <p>Написать директору в телеграм <a target=\"_blank\"  style=\"color:white;\" href=\"https://t.me/mazov\">@mazov</a> </p>\n\n                     <div class=\"footer-info-flex__item\">\n                         \n                     </div>\n                  </div>\n                  <style>\n                     .footer-info-flex__right a {\n                        color:#ffffff !important;\n\n                     }\n                  </style>\n                  <div class=\"footer-info-flex__right\">\n                    <p>Учредитель (соучредители): Общество с ограниченной ответственностью &laquo;РЕГИОНАЛЬНЫЕ НОВОСТИ&raquo; (ОГРН 1107154017354)</p>\n<p>Главный редактор:&nbsp;Леднева Е.Н.</p>\n<p>Телефон редакции:<a href=\"tel:+7-486-225-2423\">+7 (4862) 25-24-23</a> <br /> Электронная почта редакции: <a href=\"mailto:info@newsorel.ru\">info@newsorel.ru</a></p>\n<p>Регистрационный номер: серия Эл&nbsp; № ФС77-82721 от 27 января 2022г. согласно выписке из реестра зарегистрированных средств массовой информации выдана Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций</p>\n<p>&nbsp;</p>                  </div>\n               </div>\n               <div class=\"footer-bottom-block\">\n                  <div class=\"footer-bottom-block__left\">\n                      <p>При использовании любого материала с данного сайта гипер-ссылка на Сетевое издание «Орловские новости» обязательна.</p>\n                         <p>Сообщения на сером фоне размещены на правах рекламы</p>\n                  </div>\n                  <div class=\"footer-bottom-block__right\">\n                     <div class=\"footer-links\">\n                        <!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click\"\ntarget=\"_blank\"><img id=\"licnt5FD6\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5FD6\").src=\n\"https://counter.yadro.ru/hit?t11.6;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Yandex.Metrika informer -->\n<a href=\"https://metrika.yandex.ru/stat/?id=27310931&from=informer\"\ntarget=\"_blank\" rel=\"nofollow\"><img src=\"https://informer.yandex.ru/informer/27310931/3_1_FFFFFFFF_FFFFFFFF_0_pageviews\"\nstyle=\"width:88px; height:31px; border:0;\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\" class=\"ym-advanced-informer\" data-cid=\"27310931\" data-lang=\"ru\" /></a>\n<!-- /Yandex.Metrika informer -->\n\n<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(27310931, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/27310931\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter --><!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click;regnews\"\ntarget=\"_blank\"><img id=\"licnt5DAA\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5DAA\").src=\n\"https://counter.yadro.ru/hit;regnews?t11.2;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Top.Mail.Ru counter -->\n<script type=\"text/javascript\">\nvar _tmr = window._tmr || (window._tmr = []);\n_tmr.push({id: \"3088503\", type: \"pageView\", start: (new Date()).getTime()});\n(function (d, w, id) {\n  if (d.getElementById(id)) return;\n  var ts = d.createElement(\"script\"); ts.type = \"text/javascript\"; ts.async = true; ts.id = id;\n  ts.src = \"https://top-fwz1.mail.ru/js/code.js\";\n  var f = function () {var s = d.getElementsByTagName(\"script\")[0]; s.parentNode.insertBefore(ts, s);};\n  if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); }\n})(document, window, \"tmr-code\");\n</script>\n<noscript><div><img src=\"https://top-fwz1.mail.ru/counter?id=3088503;js=na\" style=\"position:absolute;left:-9999px;\" alt=\"Top.Mail.Ru\" /></div></noscript>\n<!-- /Top.Mail.Ru counter -->\n                     </div>\n                  </div>\n               </div>\n            </div>\n         </div>\n      </footer>\n    <script src=\"js2/app.min.js?_v=20230206170908\"></script>\n         \n               <script src=\"https://region.center/jquery.js\"></script>\n         <script>\n    $(document).ready(function(){\n         \n           $('#show_more').click(function(){\n           var btn_more = $(this);\n           var count_show = parseInt($(this).attr('count_show'));\n           var cats = parseInt($(this).attr('cats'));\n           btn_more.val('Подождите...');\n    \n           $.ajax({\n                       url: \"loadnews.php\", \n                       type: \"post\", \n                       dataType: \"json\", \n                       data: {\n                           \"count_show\":   count_show,\n                            \"cats\":   cats\n                       },\n                        success: function(data){\n               if(data.result == \"success\"){\n                   $('#newscontent').append(data.html);\n                       btn_more.val('Показать еще новости');\n                       btn_more.attr('count_show', (count_show+1));\n               }else{\n                   btn_more.val('Больше нечего показывать');\n               }\n                       }\n                   });\n               });  });\n               </script>\n   </body>\n</html>",
+    "info": [
+        {
+            "block": "День, когда орловские депутаты решили взяться за Kingsman Pub: 11 февраля в истории региона ",
+            "date": " 11/02/2024 04:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловцы посоревновались на «Лыжне России» в Медведевском лесу ",
+            "date": " 10/02/2024 23:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В зону СВО из Орловской области отправились металлические щиты для зенитных установок ",
+            "date": " 10/02/2024 21:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В одной из деревень Орловской области впервые побывала снегоуборочная техника ",
+            "date": " 10/02/2024 20:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Горадминистрация объяснила орловцам, почему новых трамваев в ближайшее время не будет ",
+            "date": " 10/02/2024 19:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловцы потребовали от горадминистрации более ответственного отношения к обработке улиц ",
+            "date": " 10/02/2024 18:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Россия и мир: граждане США больше не видят в Байдене президента, а Песков заявил о хакерских атаках на сайт Кремля ",
+            "date": " 10/02/2024 17:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Министр просвещения РФ посетил Орел и отметил динамичное развитие региона ",
+            "date": " 10/02/2024 16:35",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловцы рассказали о некорректном поведении водителей маршруток ",
+            "date": " 10/02/2024 16:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Главврач Кромской ЦРБ рассказала, что лестничный пролет поврежден в старом корпусе больницы ",
+            "date": " 10/02/2024 15:35",
+            "tag": "Общество"
+        },
+        {
+            "block": "Урицкая ветлаборатория получит около миллиона рублей на возмещение затрат ",
+            "date": " 10/02/2024 15:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле появится «Весеннее настроение» ",
+            "date": " 10/02/2024 15:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Фотофакт: ДТП в Орле затруднило движение на двух полосах ",
+            "date": " 10/02/2024 14:50",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские спасатели почтили память погибшего пожарного Алексея Сопина минутой молчания ",
+            "date": " 10/02/2024 14:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "«На бумажках - хорошо, по факту - пусто»: орловцы рассказали губернатору, что в случае опасности укрытия их не спасут ",
+            "date": " 10/02/2024 14:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские аграрии получили награды от министра сельского хозяйства Дмитрия Патрушева ",
+            "date": " 10/02/2024 13:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Кромской ЦРБ, несмотря на недавний ремонт, поврежден лестничный пролет ",
+            "date": " 10/02/2024 12:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Молодая орловчанка порадовала себя шопингом в интернете без оплаты ",
+            "date": " 10/02/2024 12:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловец предложил московским коммунальщикам равняться на орловских ",
+            "date": " 10/02/2024 11:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Двое орловских инвалидов получат необходимые средства реабилитации после суда ",
+            "date": " 10/02/2024 11:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "После многочисленных жалоб Бастрыкин поручил проверить орловский «Экополис» и возбудить уголовное дело ",
+            "date": " 10/02/2024 10:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Утренний дайджест «ОН»: атака БПЛА и погоня возле кафе «На привале» ",
+            "date": " 10/02/2024 08:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Однажды, в студёную зимнюю пору, я из дому вышел...... и тут же зашёл Представляем прогноз на 10 февраля в Орле ",
+            "date": " 10/02/2024 07:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "День, когда орловского подрядчика обвинили в отмывании 22 млн рублей: 10 февраля в истории региона ",
+            "date": " 10/02/2024 04:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "10 февраля – какой сегодня день? ",
+            "date": " 10/02/2024 00:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Педагоги и ученики орловской школы подружились с коллективом донецкой ",
+            "date": " 09/02/2024 23:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Хомутово нашли множество неправильных контейнерных площадок ",
+            "date": " 09/02/2024 22:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Гости выставки «Россия» смогут получить автограф «орловского бриллианта» Влада Туйнова ",
+            "date": " 09/02/2024 21:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Новые укрытия, подготовка к непогоде и мониторинг мусора. Главное из вечернего эфира Клычкова ",
+            "date": " 09/02/2024 20:23",
+            "tag": "Общество"
+        },
+        {
+            "block": "Более 24 тысяч юных орловцев отдохнули в детских лагерях прошлым летом ",
+            "date": " 09/02/2024 20:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле на улице Яблочной привели в порядок мусорную площадку ",
+            "date": " 09/02/2024 19:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орловской области ко Дню Победы благоустроят несколько воинских захоронений ",
+            "date": " 09/02/2024 18:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские чиновники рассказали, как сэкономили на ФАПе ",
+            "date": " 09/02/2024 18:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Горпарк Орла будет утопать в цветах перед 8 марта ",
+            "date": " 09/02/2024 17:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Появились подробности потасовки возле кафе «На привале» ",
+            "date": " 09/02/2024 17:15",
+            "tag": "Общество"
+        },
+        {
+            "block": "Россия и мир: выход интервью Путина американскому журналисту и подготовка черного списка российских блогеров ",
+            "date": " 09/02/2024 17:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Мошенники стали писать орловцам от имени Леонида Музалевского ",
+            "date": " 09/02/2024 16:25",
+            "tag": "Общество"
+        },
+        {
+            "block": "«Нужно ждать, пока он в дом влетит?»: увидевшая БПЛА орловчанка час не могла дозвониться до экстренных служб ",
+            "date": " 09/02/2024 16:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловец не смог отдохнуть за границей из-за долга по алиментам ",
+            "date": " 09/02/2024 15:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле еще один участок планируют отдать под комплексную застройку ",
+            "date": " 09/02/2024 15:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Для Мценска и Мценского района нашли мусорного перевозчика ",
+            "date": " 09/02/2024 14:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "У орловцев возникли вопросы к недавно продленному маршруту номер 329 ",
+            "date": " 09/02/2024 14:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские чиновники не захотели выплачивать компенсацию жертве нападения бродячих собак ",
+            "date": " 09/02/2024 13:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "«Рай для зайцев»: орловцы оценили поездки в трамваях с валидаторами ",
+            "date": " 09/02/2024 13:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловский чиновник объяснился по работе мусорных полигонов ",
+            "date": " 09/02/2024 12:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Проблемный перевозчик «Экотексити» продолжил обслуживать Заводской район Орла ",
+            "date": " 09/02/2024 12:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловскую область на выходных могут накрыть ледяные дожди ",
+            "date": " 09/02/2024 11:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "При строительстве детсада в Орле использовали некачественные материалы и завышали цены ",
+            "date": " 09/02/2024 10:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские чиновники готовы потратить около полумиллиона на кладбища ",
+            "date": " 09/02/2024 09:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловская область получит миллионы на питание и размещение беженцев ",
+            "date": " 09/02/2024 09:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "СИЗО Орла нуждается в видеокамерах с повышенной антивандальной защищенностью ",
+            "date": " 09/02/2024 08:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Утренний дайджест «ОН»: орловцам показали будущий фонтан на Оке и официальный статус для Лиги КВН ОГУ ",
+            "date": " 09/02/2024 08:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Я бы не менял в этом городе ничего, кроме погоды. Представляем прогноз на 9 февраля в Орле ",
+            "date": " 09/02/2024 07:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "В этот день «ОН» рассказали, что происходило в зале, пока Клычков выступал с инвестпосланием: 9 февраля в Орле ",
+            "date": " 09/02/2024 04:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Владимир Путин заявил, что Россия не отказывалась от мирных переговоров ",
+            "date": " 09/02/2024 03:46",
+            "tag": "Общество"
+        },
+        {
+            "block": "9 февраля - какой сегодня день? ",
+            "date": " 09/02/2024 00:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловская МФО заплатит штраф за угрозу начать рассылку родственникам ",
+            "date": " 08/02/2024 23:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловский таксист увидел как пассажир потерял банковскую карту и решил заправиться за его счет ",
+            "date": " 08/02/2024 22:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Пьяный житель Ливенского района увидел чужую машину на привычном месте парковки и решил отомстить ",
+            "date": " 08/02/2024 21:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские УФСИНовцы помогут в воспитании школьников ",
+            "date": " 08/02/2024 19:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловец пошел выносить мусор и обнаружил часть оружия ",
+            "date": " 08/02/2024 18:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Вдовин с нетерпением ждет интервью Такера Карлсона с Путиным ",
+            "date": " 08/02/2024 18:10",
+            "tag": "Общество"
+        },
+        {
+            "block": "За год орловцы стали хранить на 22 млрд больше на вкладах в банках ",
+            "date": " 08/02/2024 18:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "За срыв сроков ремонта поликлиники директор орловского подрядчика заплатит крупный штраф ",
+            "date": " 08/02/2024 17:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Потемкина наградили медалью святого Кукши ",
+            "date": " 08/02/2024 17:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Россия и мир: в Белгороде объявили ракетную опасность, а США нанесли удары по двум ракетам хуситов ",
+            "date": " 08/02/2024 16:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "На сайте «Школы журналистики независимых СМИ» доступна лекция руководителя Центра правовой защиты журналистов ",
+            "date": " 08/02/2024 15:03",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле 329-й автобус теперь едет до СПЗ ",
+            "date": " 08/02/2024 13:47",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле дворы будут ремонтировать «кустами» ",
+            "date": " 08/02/2024 13:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Исследование: как операторы связи защищают орловцев от мошенников ",
+            "date": " 08/02/2024 13:16",
+            "tag": "Общество"
+        },
+        {
+            "block": "В мэрии Орла отчитались о ремонте дорог зимой ",
+            "date": " 08/02/2024 13:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловцы продолжают жаловаться на ужасающие подвалы ",
+            "date": " 08/02/2024 12:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Масляков-младший приехал в Орел присвоил Лиге КВН ОГУ им. Тургенева официальный статус ",
+            "date": " 08/02/2024 12:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Калуге впервые покажут экспонаты из орловского музея Тургенева ",
+            "date": " 08/02/2024 11:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле директора строительной компании заподозрили в уклонении от уплаты налогов ",
+            "date": " 08/02/2024 11:20",
+            "tag": "Общество"
+        },
+        {
+            "block": "Клычков показал, как будет выглядеть фонтан на Оке. Видео ",
+            "date": " 08/02/2024 11:10",
+            "tag": "Общество"
+        },
+        {
+            "block": "Роскосмос показал циклон «Ольга», к которому готовится Спецавтобаза ",
+            "date": " 08/02/2024 11:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "«Кругом бардак и мусор! Они фонтаны строят»: орловцы ответили губернатору по поводу установки нового фонтана ",
+            "date": " 08/02/2024 10:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Дополнительные поезда свяжут Орел с Москвой в период праздничных дней февраля и марта ",
+            "date": " 08/02/2024 10:25",
+            "tag": "Общество"
+        },
+        {
+            "block": "Гендиректор подрядчика отправится в колонию за хищение средств при ремонте на улице Ленина в Орле ",
+            "date": " 08/02/2024 10:20",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловцы стали сами думать, как решить проблему с отоплением в 909 квартале ",
+            "date": " 08/02/2024 10:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Троснянскому району выделили 25 млн на строительство водопровода ",
+            "date": " 08/02/2024 09:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловские чиновники решили обновить компьютеры ",
+            "date": " 08/02/2024 09:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловщина оказалась на 40 строчке рейтинга креативного потенциала ",
+            "date": " 08/02/2024 08:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Утренний дайджест «ОН»: орловским безработным увеличили пособие, а министр спорта выдал медаль Алексею Берестову ",
+            "date": " 08/02/2024 08:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Люди только зимой замечают, что ель зелёная. Представляем прогноз на 8 февраля в Орле ",
+            "date": " 08/02/2024 07:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "День, когда власти вновь заговорили о Западном обходе: 8 февраля в истории региона ",
+            "date": " 08/02/2024 04:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "8 февраля – какой сегодня день? ",
+            "date": " 08/02/2024 00:15",
+            "tag": "Общество"
+        },
+        {
+            "block": "Жительница Ливен выбрала себе новый наряд и решила обойтись без оплаты ",
+            "date": " 07/02/2024 23:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Руководитель задолжавшего предприятия из Орловской области попал под суд ",
+            "date": " 07/02/2024 22:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Тихон освятил ГАЗ-66, который отправят на передовую ",
+            "date": " 07/02/2024 21:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Жилье педиатру, фонтан на Оке и «Ольга». Главное из вечернего эфира Клычкова ",
+            "date": " 07/02/2024 20:23",
+            "tag": "Общество"
+        },
+        {
+            "block": "Орловская колония нашла деньги на ремонт крыши швейной фабрики ",
+            "date": " 07/02/2024 20:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "ПСД на строительство Западного обхода Орла утвердили ",
+            "date": " 07/02/2024 19:33",
+            "tag": "Общество"
+        },
+        {
+            "block": "Работать со своей второй половинкой хотел бы лишь каждый третий орловец ",
+            "date": " 07/02/2024 19:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "В Орле подешевела аренда трехкомнатных квартир ",
+            "date": " 07/02/2024 18:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "Перевозчиков Кривовых, пожаловавшихся на поборы в мэрии Орла, пригласили в Генпрокуратуру ",
+            "date": " 07/02/2024 18:00",
+            "tag": "Общество"
+        },
+        {
+            "block": "Гедиректор частной клиники в Орле получил штраф за долгое предоставление документов пациенту ",
+            "date": " 07/02/2024 17:30",
+            "tag": "Общество"
+        },
+        {
+            "block": "С мэрией Орла поспорили насчет работы маршруток после 20:00 ",
+            "date": " 07/02/2024 17:10",
+            "tag": "Общество"
+        },
+        {
+            "block": "Россия и мир: с «Фукусимы-1»  утекла радиоактивная вода, а папуасы-сепаратисты пообещали освободить пилота из плена ",
+            "date": " 07/02/2024 17:00",
+            "tag": "Общество"
+        }
+    ],
+    "timestamp": 1707621461082,
+    "domain": "newsorel.ru"
+}
