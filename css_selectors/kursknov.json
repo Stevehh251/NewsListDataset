@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kursknov",
+  "startUrls": [
+    "https://kursknov.ru/category/polit/",
+    "https://kursknov.ru/category/business/",
+    "https://kursknov.ru/category/soci/",
+    "https://kursknov.ru/category/sport/",
+    "https://kursknov.ru/category/criminal/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "li.list-post",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.penci-entry-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "time.entry-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

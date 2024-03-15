@@ -1,0 +1,64 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ulpressa",
+  "startUrls": [
+    "https://ulpressa.ru/category/chronicle/",
+    "https://ulpressa.ru/category/society/",
+    "https://ulpressa.ru/category/politics/",
+    "https://ulpressa.ru/category/economics/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.middle div.inline-flex",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.post-width",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.post-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "time",
+      "selector": "span.post-time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "multiple": true,
+      "uuid": "5",
+      "id": "tag",
+      "selector": ".meta-tags"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

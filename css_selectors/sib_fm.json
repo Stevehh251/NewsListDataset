@@ -1,0 +1,46 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "sib_fm",
+  "startUrls": [
+    "https://sib.fm/category/proishestvia",
+    "https://sib.fm/category/avto",
+    "https://sib.fm/category/nedvijimost",
+    "https://sib.fm/category/sport",
+    "https://sib.fm/category/kultura"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news__item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "date",
+      "selector": "div.item-news__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "h2",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

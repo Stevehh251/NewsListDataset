@@ -1,0 +1,42 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ren",
+  "startUrls": [
+    "https://ren.tv/news/ekonomika"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.shadow-news > div:nth-of-type(1), div.widgets__children_list",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.go_to_edit",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "3",
+      "id": "date",
+      "selector": "time"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

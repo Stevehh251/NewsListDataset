@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "mosaica",
+  "startUrls": [
+    "https://mosaica.ru/ru/mo/rubric/ekonomika",
+    "https://mosaica.ru/ru/mo/rubric/sport",
+    "https://mosaica.ru/ru/mo/rubric/proisshestviya",
+    "https://mosaica.ru/ru/mo/rubric/kultura",
+    "https://mosaica.ru/ru/mo/rubric/novosti-g-o-klin",
+    "https://mosaica.ru/ru/mo/rubric/nedvizhimost"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-container",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h4 a.link-no-link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "p a.link-no-link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "div.date a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "vedomosti",
+  "startUrls": [
+    "https://www.vedomosti.ru/rubrics/economics/macro"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.grid-cell.cell--row-4 div.card-article__box, div.grid-cell:nth-of-type(n+4) div.card-article__content, a.article-preview-item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "span.card-article__title, h2.main__title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "time.card-article__date, time.breadcrumbs__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p.card-article__subtitle",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

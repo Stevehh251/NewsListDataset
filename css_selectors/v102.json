@@ -1,0 +1,66 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "v102",
+  "startUrls": [
+    "https://v102.ru/investigation",
+    "https://v102.ru/accidents",
+    "https://v102.ru/politics",
+    "https://v102.ru/sport",
+    "https://v102.ru/society",
+    "https://v102.ru/ecology",
+    "https://v102.ru/zdravoohranenie"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.new-article:nth-of-type(n+10)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "span.cat a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "a.detail-link-text",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "date",
+      "selector": "span.mobile-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

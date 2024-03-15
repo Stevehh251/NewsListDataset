@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "togliatti24",
+  "startUrls": [
+    "https://togliatti24.ru/togliatti/1"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-list-section div.other-news",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "10"
+    },
+    {
+      "id": "title",
+      "selector": "h3.other-news-name",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "10"
+      ],
+      "uuid": "6"
+    },
+    {
+      "id": "tag",
+      "selector": "p.sections-name a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "10"
+      ],
+      "uuid": "7"
+    },
+    {
+      "id": "date",
+      "selector": "p.news-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "10"
+      ],
+      "uuid": "8"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

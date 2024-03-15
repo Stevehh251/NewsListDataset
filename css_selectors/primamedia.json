@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "primamedia",
+  "startUrls": [
+    "https://primamedia.ru/news/politics/",
+    "https://primamedia.ru/news/economics/",
+    "https://primamedia.ru/news/incidents/",
+    "https://primamedia.ru/news/sport/",
+    "https://primamedia.ru/news/society/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.business-top-text, div.image-size-kd",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.business-top-caption, div.d-blk-post-title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "a.business-top-descr, div.d-blk-post-descr",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "span.business-top-descr",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

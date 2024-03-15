@@ -1,0 +1,60 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "gorodkirov",
+  "startUrls": [
+    "https://gorodkirov.ru/news/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.card__item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "2",
+      "id": "tag",
+      "selector": ".card__rubric"
+    },
+    {
+      "id": "title",
+      "selector": "h2.card__title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p.card__text",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "5",
+      "id": "date",
+      "selector": ".card__time"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

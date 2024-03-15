@@ -1,0 +1,69 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "e1_",
+  "startUrls": [
+    "https://www.e1.ru/text/?rubric=culture",
+    "https://www.e1.ru/text/?rubric=summer",
+    "https://www.e1.ru/text/?rubric=politics&dateFrom=04.11.2019&dateTo=30.11.2019",
+    "https://www.e1.ru/text/?rubric=economics",
+    "https://www.e1.ru/text/?rubric=style",
+    "https://www.e1.ru/text/?rubric=science&dateFrom=04.11.2019&dateTo=30.11.2019",
+    "https://www.e1.ru/text/?rubric=house",
+    "https://www.e1.ru/text/?rubric=animals",
+    "https://www.e1.ru/text/?rubric=animals&dateFrom=04.11.2019&dateTo=30.11.2019"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.OPHIx",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.h9Jmx a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "div.dmp3V a",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.TdYOd a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "date",
+      "selector": "time._2DfZq a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

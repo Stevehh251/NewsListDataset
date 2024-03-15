@@ -1,0 +1,65 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "vn_ru",
+  "startUrls": [
+    "https://vn.ru/news/ekonomika/",
+    "https://vn.ru/news/ekonomika_initsiativy/",
+    "https://vn.ru/news/ekonomika_neft/",
+    "https://vn.ru/news/ekonomika_logistic/",
+    "https://vn.ru/news/proisshestviya/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.section_news_item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.h2_section",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div.section_news_item_content_text_tags a",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.section_news_item_content_preview",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

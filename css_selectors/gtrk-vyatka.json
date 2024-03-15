@@ -1,0 +1,66 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "gtrk-vyatka",
+  "startUrls": [
+    "https://www.gtrk-vyatka.ru/vesti/society/",
+    "https://www.gtrk-vyatka.ru/vesti/",
+    "https://www.gtrk-vyatka.ru/vesti/incidents/",
+    "https://www.gtrk-vyatka.ru/vesti/culture/",
+    "https://www.gtrk-vyatka.ru/vesti/education/",
+    "https://www.gtrk-vyatka.ru/vesti/sport/",
+    "https://www.gtrk-vyatka.ru/vesti/priroda/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.shortstory__container",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.shortstory__title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.fullstory-meta-date a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div.fullstory-meta-author a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.shortstory__text > a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

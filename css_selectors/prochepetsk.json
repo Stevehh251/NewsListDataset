@@ -1,0 +1,57 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "prochepetsk",
+  "startUrls": [
+    "https://prochepetsk.ru/news",
+    "https://prochepetsk.ru/tags/126",
+    "https://prochepetsk.ru/tags/10",
+    "https://prochepetsk.ru/tags/133",
+    "https://prochepetsk.ru/tags/139",
+    "https://prochepetsk.ru/tags/alkogol",
+    "https://prochepetsk.ru/tags/69"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.project-col3-layout_row__DtF_s:nth-of-type(1) article.news-line_news__cYvgo",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "tag",
+      "selector": "a.news-line_newsTag__juFgM",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.news-line_newsTime__KdPS_ span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "title",
+      "selector": "span.news-line_newsTitleInner__QYTE9",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

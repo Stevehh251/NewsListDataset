@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ruwest",
+  "startUrls": [
+    "https://ruwest.ru/search/?tags=зеленоградск",
+    "https://ruwest.ru/search/?tags=зеленоградск%2Cпогода",
+    "https://ruwest.ru/search/?tags=зеленоградск%2Cпогода%2Cпрогноз",
+    "https://ruwest.ru/search/?tags=зеленоградск%2Cпогода%2Cпрогноз%2Cкалининградская+область"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.search-item:nth-of-type(n+3)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h4 a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.search-preview",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div.search-item-tags a",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

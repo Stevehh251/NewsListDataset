@@ -1,0 +1,42 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "snob",
+  "startUrls": [
+    "https://snob.ru/theme/254/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.storage__item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "2",
+      "id": "title",
+      "selector": ".storage__item__text"
+    },
+    {
+      "id": "date",
+      "selector": "div.time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

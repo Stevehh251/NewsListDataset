@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "trk7",
+  "startUrls": [
+    "https://trk7.ru/tvprogramm/svoimi-glazami/",
+    "https://trk7.ru/tvprogramm/khoroshiy-variant/",
+    "https://trk7.ru/tvprogramm/zemlyaki/",
+    "https://trk7.ru/tvprogramm/vidy-na-zhitelstvo/",
+    "https://trk7.ru/tvprogramm/vse-v-sad/",
+    "https://trk7.ru/tvprogramm/novosti-7-kanal/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.listnewscont",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3 a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.info-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p.info-text",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

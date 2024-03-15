@@ -1,0 +1,45 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ftimes",
+  "startUrls": [
+    "https://ftimes.ru/society",
+    "https://ftimes.ru/economy",
+    "https://ftimes.ru/world",
+    "https://ftimes.ru/russia"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.view-row",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

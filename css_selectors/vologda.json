@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "vologda",
+  "startUrls": [
+    "https://vologda-poisk.ru/news",
+    "https://vologda-poisk.ru/news/proisshestviya",
+    "https://vologda-poisk.ru/news/sobytia",
+    "https://vologda-poisk.ru/news/blagoustroystvo",
+    "https://vologda-poisk.ru/news/sport",
+    "https://vologda-poisk.ru/news/ekonomika"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.row:nth-of-type(n+5)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.newstitle",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "div.separate a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "span.separate.information",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

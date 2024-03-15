@@ -1,0 +1,508 @@
+{
+    "url": "https://newsorel.ru/cat_sport.html",
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n   <head>\n      <meta charset=\"UTF-8\">\n      <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n      <meta http-equiv=\"Cache-Control\" content=\"max-age=604800, public\" />\n      \n    <base href=\"https://newsorel.ru/\">\n        <title>Спорт  -  Орловские новости. Новости Орла и Орловской области, сегодня и сейчас</title>\n        <meta name=\"Keywords\" content=\"  Орловские новости\">\n        <meta name=\"Description\" content=\"  Последние новости Орла: происшествия, ДТП, события, политика, ЖКХ, экономика, бизнес, финансы, культура, спорт, афиша мероприятий. Свежие и актуальные репортажи, интервью, мнения экспертов, аналитика. Сетевое издание.\">\n        <meta property=\"og:image\" content=\"https://newsorel.ru/images/logo-sm.png\">\n\n        \t<meta name=\"twitter:card\" content=\"summary\" />\n\t<meta property=\"og:type\" content=\"website\" />\n\t<link rel=\"canonical\" href=\"https://newsorel.ru/cat_sport.html\"/>\n\t<meta property=\"og:url\" content=https://newsorel.ru/cat_sport.html />\n\t<meta property=\"og:title\" content=\"Спорт\" />\n\t<meta property=\"og:description\" content=\"\" />\n\t\n\n\n        <link rel=\"preconnect\" href=\"https://region.center\">\n        <link rel=\"dns-prefetch\" href=\"https://region.center\">\n\n \n\n        <link rel=\"apple-touch-icon\" sizes=\"57x57\" href=\"favicon/apple-icon-57x57.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"favicon/apple-icon-60x60.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"favicon/apple-icon-72x72.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"favicon/apple-icon-76x76.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"favicon/apple-icon-114x114.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"favicon/apple-icon-120x120.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"favicon/apple-icon-144x144.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"favicon/apple-icon-152x152.png\">\n        <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"favicon/apple-icon-180x180.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"  href=\"favicon/android-icon-192x192.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"favicon/favicon-32x32.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"favicon/favicon-96x96.png\">\n        <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"favicon/favicon-16x16.png\">\n\n        <meta name=\"msapplication-TileImage\" content=\"favicon/ms-icon-144x144.png\">\n\n \n\n\n      <link rel=\"stylesheet\" href=\"css2/style.css?_v=20221216155958\">\n\n\n      <style>\n         embed, iframe, object, video {\n             max-width: 100%;\n         }\n         body {\n         background:#fff;\n         } \n .detale-news-block__text a {\n         color:#27598b !important;\n         font-size:16px !important;\n\n\n        }\n         .detale-news-block__text img {\nheight:100% !important;\n       width:100%;\n        }\n        \n  </style>\n\n\n\n   <!-- Yandex.RTB -->\n   <script>window.yaContextCb=window.yaContextCb||[]</script>\n   <script src=\"https://yandex.ru/ads/system/context.js\" async></script>\n\n\n   </head>\n\n   <body>\n   <div align=\"center\">\n    <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: перетяжка-->\n<!--Расположение: верх страницы-->\n<div id=\"adfox_169752384578981333\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752384578981333',\n            params: {\n                pp: 'g',\n                ps: 'fusg',\n                p2: 'hryr'\n            }\n        })\n    })\n</script>\n         </div>\n\n      <div class=\"wrapper\" id=\"app\" :class=\"{isMobile, isTablet}\">\n       </div>\n      <div class=\"content\">\n\n        \n      <aside class=\"left-block\">\n         <div class=\"left-container sticky_block\">\n            <a href=\".\" class=\"logo-block\">\n               <picture>\n                  <img class=\"logo-block__image\" src=\"img/icon.png\" style=\"width:70px !important;\">\n               </picture>\n               <div class=\"logo-block__name\">\n                  <span>Орловские новости</span>\n               </div>\n            </a>\n            <div class=\"menu-list-glavnaya\">\n               <ul class=\"menu-list\">\n                  <li class=\"menu-list__item\"><a href=\"cat_analytics.html\">Аналитика</a></li><li class=\"menu-list__item\"><a href=\"cat_society.html\">Общество</a></li><li class=\"menu-list__item\"><a href=\"cat_svo.html\">СВО</a></li><li class=\"menu-list__item\"><a href=\"cat_top100_vliyatelnyh_lyudey2023.html\">ТОП-100 влиятельных людей-2023</a></li><li class=\"menu-list__item\"><a href=\"cat_job.html\">Вакансии</a></li><li class=\"menu-list__item\"><a href=\"cat_sport.html\">Спорт</a></li><li class=\"menu-list__item\"><a href=\"cat_culture.html\">Культура</a></li><li class=\"menu-list__item\"><a href=\"cat_ecology.html\">Экология</a></li><li class=\"menu-list__item\"><a href=\"cat_agro.html\">Агро</a></li><li class=\"menu-list__item\"><a href=\"cat_incidients.html\">Происшествия</a></li><li class=\"menu-list__item\"><a href=\"cat_delobudagova.html\">Дело Будагова</a></li><li class=\"menu-list__item\"><a href=\"cat_koronavirus.html\">Здоровье</a></li><li class=\"menu-list__item\"><a href=\"cat_business.html\">Бизнес</a></li><li class=\"menu-list__item\"><a href=\"cat_economy.html\">Экономика</a></li><li class=\"menu-list__item\"><a href=\"cat_delo_dobrohvalova.html\">Дело Доброхвалова</a></li><li class=\"menu-list__item\"><a href=\"cat_podcast.html\">Подкасты</a></li><li class=\"menu-list__item\"><a href=\"cat_primjalibemurzalevskim.html\">Прямая линия с Музалевским</a></li><li class=\"menu-list__item\"><a href=\"cat_history.html\">Истории</a></li><li class=\"menu-list__item\"><a href=\"cat_company.html\">Новости компаний</a></li><li class=\"menu-list__item\"><a href=\"cat_afisha.html\">Афиша</a></li><li class=\"menu-list__item\"><a href=\"cat_jkh.html\">ЖКХ</a></li><li class=\"menu-list__item\"><a href=\"cat_necrolog.html\">Память</a></li><li class=\"menu-list__item\"><a href=\"cat_investigation.html\">Расследования </a></li><li class=\"menu-list__item\"><a href=\"cat_interview.html\">Интервью</a></li><li class=\"menu-list__item\"><a href=\"cat_politics.html\">Политика</a></li>                   <li class=\"menu-list__item\"><a target=\"_blank\"  href=\"http://top100region.ru/orel\">100 самых влиятельных людей</a></li>\n                  <li class=\"menu-list__item menu-list__item-more\"></li>\n               </ul>\n            </div>\n            <form class=\"search\">\n \n\n<div class=\"ya-site-form ya-site-form_inited_no\" data-bem=\"{&quot;action&quot;:&quot;https://newsorel.ru/search.html&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по newsorel.ru&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2523564,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;&quot;,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#3f687b&quot;}\"><form action=\"https://yandex.ru/search/site/\" method=\"get\" target=\"_self\" accept-charset=\"utf-8\"><input type=\"hidden\" name=\"searchid\" value=\"2523564\"/><input type=\"hidden\" name=\"l10n\" value=\"ru\"/><input type=\"hidden\" name=\"reqenc\" value=\"\"/><input type=\"search\" name=\"text\" value=\"\"/><input type=\"submit\" value=\"Найти\"/></form></div><style type=\"text/css\">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type=\"text/javascript\">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>\n \n\n\n            </form>\n             \n             \n\n            \n\n\n            <div class=\"news-aside-block\">\n\n   <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: низ страницы-->\n<div id=\"adfox_169752394294317962\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_169752394294317962',\n            params: {\n                pp: 'i',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n\n\n\n               <a href=\"cat_company.html\" class=\"news-aside-block__title\">Новости компаний</a>\n                \n                        <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <picture>\n                                <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/1_1.%5B1%5D.jpg\" alt=\"image\">\n                            </picture>\n                        </a><div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">28/12</a></span><span><a href=\"fn_1425774.html?erid=LjN8KKRdM\">15:01</a></span>\n                            <a href=\"fn_1425774.html?erid=LjN8KKRdM\">\n                            <p>С заботой о самом главном: сеть медицинских центров «САКАРА» отмечает юбилей</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1425602.html\">28/12</a></span><span><a href=\"fn_1425602.html\">10:34</a></span>\n                            <a href=\"fn_1425602.html\">\n                            <p>Прайс-лист на создание и размещение агитационных материалов 2024</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">25/12</a></span><span><a href=\"fn_1424328.html?erid=LjN8K96Zx\">17:00</a></span>\n                            <a href=\"fn_1424328.html?erid=LjN8K96Zx\">\n                            <p>«Мираторг»  организовал практику для орловской молодёжи</p>\n                            </a>\n                        </div>\n<div class=\"news-aside-block__item\">\n                            <span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">25/12</a></span><span><a href=\"fn_1424232.html?erid=LjN8KBSLA\">15:16</a></span>\n                            <a href=\"fn_1424232.html?erid=LjN8KBSLA\">\n                            <p>ВТБ: в 2023 году рынок рублевых сбережений вырастет на 21%</p>\n                            </a>\n                        </div>\n            </div>\n\n\n         \n            <div class=\"news-aside-block\">\n               <a href=\"cat_business.html\" class=\"news-aside-block__title\">Бизнес</a>\n                \n                    <a href=\"fn_1425125.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/4z0a3750.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425125.html\">28/12</a></span><span><a href=\"fn_1425125.html\">20:00</a></span>\n                        <a href=\"fn_1425125.html\">\n                           <p>Михаил Вдовин рассказал на премии «Орловский бизнес», зачем нужно награждать предпринимателей</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425384.html\">28/12</a></span><span><a href=\"fn_1425384.html\">10:20</a></span>\n                        <a href=\"fn_1425384.html\">\n                           <p>«Для нас это очередная победа»: директор «МРТ-Эксперт Орел» о победе в премии «Орловский бизнес-2023»</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1424552.html\">27/12</a></span><span><a href=\"fn_1424552.html\">21:00</a></span>\n                        <a href=\"fn_1424552.html\">\n                           <p>«Быть на месте лауреата – это торжественно и почетно»: депутат объяснил важность премии «Орловский бизнес» для лауреатов</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1425279.html\">27/12</a></span><span><a href=\"fn_1425279.html\">16:30</a></span>\n                        <a href=\"fn_1425279.html\">\n                           <p>«Это очень приятно»: руководитель коллегии адвокатов «Alpha Level»» о победе в премии «Орловский бизнес»</p>\n                        </a>\n                     </div>\n           \n            </div>\n\n\n            <div class=\"news-aside-block\">\n               <a target=\"_blank\" href=\"https://brandrussia.online\" class=\"news-aside-block__title\">Бренды России</a>\n                \n                    <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1424855.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Tul%20Brendi/3_2023/1_1.%5B427%5D.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1424855.html\">26/12</a></span><span><a target=\"_blank\"  href=\"https://brandrussia.online/fn_1424855.html\">17:40</a></span>\n                        <a target=\"_blank\"  href=\"https://brandrussia.online/fn_1424855.html\">\n                           <p>В Тульской области архитектурно подсветили крапивенскую Свято-Никольскую церковь</p>\n                        </a>\n                     </div>\n \n            </div>\n\n\n\n            \n         </div>\n         <div class=\"helper_for_sticky\"></div>\n      </aside> \n\t<main class=\"content-block\">\n\t<div class=\"content-container\">\n\t\t<div class=\"button-top__wrapper\">\n\t<div class=\"button-top\" style=\"--top_position:30px;\">\n\t</div>\n\t</div>\n\t\t<div class=\"bread-crumbs\">\n\t<ul>\n\t\t<li> <a href=\".\"> Главная</a> <span> > </span></li>\n\t\t<li><a href=\"cat_sport.html\">Спорт </a></li>\n\t</ul>\n\t</div>\n\t<div class=\"title-extreme-news\">\n\t<div class=\"title-extreme-news__in\">\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<h2>Последние новости</h2>\n\t\t</div>\n\t\t<div class=\"title-extreme-news__item\">\n\t\t\t<div>Категория</div>\n\t\t\t<ul>\n\t\t\t\t<li>\n\t\t\t\t<a href=\"cat_sport.html\">Спорт </a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>\n\t</div>\n\t</div>\n\t<div class=\"main-news-list\">\n   <div class=\"big-news-list-block extreme-news-list\"><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1425205.html\"> 27/12/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1425205.html\" >Орловские спортсмены привезли три медали с представительного турнира по киокусинкай </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1423535.html\"> 23/12/2023 09:48</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1423535.html\" >Орловец Владислав Туйнов отправил в глубокий нокаут противника из США </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1420040.html\"> 15/12/2023 15:40</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1420040.html\"  style=\"color:red;\" >Завершено уголовное дело о договорных матчах по итогам которого орловский арбитр пожизненно отстранен от футбола </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1419466.html\"> 14/12/2023 16:20</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1419466.html\"  style=\"color:red;\" >Путин высказался о политике МОК по отношению к российским спортсменам </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417883.html\"> 11/12/2023 19:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1417883.html\" >Орловец Лаврент Оганнесян блеснул на первенстве ЦФО по джиу-джитцу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417714.html\"> 11/12/2023 15:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1417714.html\" >Орловцы успешно выступили на домашнем юниорском турнире по армрестлингу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1417147.html\"> 09/12/2023 14:45</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1417147.html\"  style=\"color:red;\" >Легенде орловского футбола Николаю Долгову исполнилось 77 лет </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416676.html\"> 08/12/2023 13:33</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1416676.html\" >Американский боксер Кевин Джонсон 15 декабря проведет поединок в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1416004.html\"> 07/12/2023 09:25</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1416004.html\"  style=\"color:red;\" >Рагулькин из ФК «Орел» официально признан лучшим бомбардиром Первенства СФФ «Центр» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415768.html\"> 06/12/2023 21:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1415768.html\" >Орловские боксеры вернулись с международного турнира с золотом и серебром </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415740.html\"> 06/12/2023 19:18</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1415740.html\"  style=\"color:red;\" >«Куда летит «Орел»?»: о «переворотах», баннерах и туманном будущем футбольного клуба </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415836.html\"> 06/12/2023 18:10</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1415836.html\"  style=\"color:red;\" >В Орле определили лучшего спортсмена года </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415279.html\"> 06/12/2023 09:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1415279.html\" >Орловчанка приедет из Казахстана с «бронзой» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1415324.html\"> 05/12/2023 18:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1415324.html\"  style=\"color:red;\" >«Бог его знает»: дата официального открытия манежа на стадионе Ленина в Орле до сих пор неизвестна </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1414806.html\"> 04/12/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1414806.html\" >Орловский боксер Кирилл Лукьянов победил в турнире на берегу Балтийского моря </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1414758.html\"> 04/12/2023 16:38</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1414758.html\"  style=\"color:red;\" >Манеж на стадионе Ленина в Орле откроют завтра </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1414295.html\"> 03/12/2023 19:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1414295.html\"  style=\"color:red;\" >Орловский боксер взял «золото» первенства мира </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1413724.html\"> 01/12/2023 15:56</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1413724.html\"  style=\"color:red;\" >Орловец Влад Туйнов в седьмой раз стал чемпионом России по кикбоксингу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412750.html\"> 29/11/2023 23:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1412750.html\" >Орловский росгвардеец отличился на чемпионате по самбо </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412621.html\"> 29/11/2023 15:15</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1412621.html\"  style=\"color:red;\" >Манеж на стадионе Ленина в Орле могут открыть досрочно </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412520.html\"> 29/11/2023 11:56</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1412520.html\"  style=\"color:red;\" >Юный орловец победил зимбабвийца на первенстве мира по боксу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412184.html\"> 28/11/2023 16:05</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1412184.html\"  style=\"color:red;\" >Зимой орловцев будут развлекать лыжными гонками и хоккеем </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412138.html\"> 28/11/2023 14:57</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1412138.html\"  style=\"color:red;\" >Стало известно, когда могут пройти первые игры ФК «Орел» во второй лиге </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1412110.html\"> 28/11/2023 14:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1412110.html\"  style=\"color:red;\" >Болельщикам ФК «Орел» придется платить за билеты на матчи клуба </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409341.html\"> 22/11/2023 08:49</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1409341.html\"  style=\"color:red;\" >На стадионе им. Ленина в Орле начали менять табло </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409256.html\"> 21/11/2023 17:40</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1409256.html\"  style=\"color:red;\" >Семин и Клычков чествовали футболистов ФК Орел. Видео </a></h2><iframe width=\"480\" height=\"270\" src=\"https://dzen.ru/embed/veqsj7zesZx8?from_block=partner&from=zen&mute=1&autoplay=1&tv=0\" allow=\"autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media\" frameborder=\"0\" scrolling=\"no\" allowfullscreen></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1409010.html\"> 21/11/2023 11:33</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1409010.html\"  style=\"color:red;\" >Стало известно, когда ФК «Орёл» начнёт лицензироваться для выхода во вторую лигу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408329.html\"> 19/11/2023 21:49</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1408329.html\" >«Локо» Юрия Семина победил ЦСКА Валерия Газаева в ретро-матче </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1408006.html\"> 18/11/2023 13:45</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1408006.html\" >Анатолий Якунин приехал в Орел </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1407337.html\"> 16/11/2023 19:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1407337.html\"  style=\"color:red;\" >Орловец поведет Локомотив на матч Лиги Легенд против ЦСКА </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1405638.html\"> 13/11/2023 23:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1405638.html\" >Четыре сотни гостей приедут в Орел поиграть в бадминтон </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1405626.html\"> 13/11/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1405626.html\" >Орловцы триумфально выступили на домашнем чемпионате России по шашкам </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1405064.html\"> 11/11/2023 16:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1405064.html\"  style=\"color:red;\" >ФК «Орел» не удалось взять Кубок среди любительских команд 2023 </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1404061.html\"> 09/11/2023 12:53</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1404061.html\"  style=\"color:red;\" >ФК Орел упустил возможность досрочно завоевать Кубок любительских команд РФС </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1403206.html\"> 07/11/2023 21:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1403206.html\"  style=\"color:red;\" >Орловские спортсмены вернулись из Сибири с россыпью наград </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1403052.html\"> 07/11/2023 12:48</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1403052.html\"  style=\"color:red;\" >ФК Орел уверенно движется к победе в Кубке любительских команд </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402726.html\"> 06/11/2023 13:17</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1402726.html\"  style=\"color:red;\" >Семин предложил провести матч сборной России в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402564.html\"> 05/11/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1402564.html\" >Орловчанка стала лучшей на чемпионате мира по универсальному бою </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402477.html\"> 05/11/2023 15:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1402477.html\"  style=\"color:red;\" >В Орле участника хоккейного матча увезли в больницу на реанимамобиле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402456.html\"> 05/11/2023 12:50</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1402456.html\"  style=\"color:red;\" >ФК Орел продолжил победную серию в Кубке любительских команд </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1402428.html\"> 05/11/2023 11:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1402428.html\" >Девушка из Орла выиграла международную парусную регату </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1401927.html\"> 03/11/2023 16:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1401927.html\"  style=\"color:red;\" >ФК Орел с крупной победы начал Кубок любительских команд в Сочи </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1401210.html\"> 02/11/2023 11:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1401210.html\"  style=\"color:red;\" >Орловский хоккеист Никишин покажет мастерство в Матче звезд КХЛ </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1400966.html\"> 01/11/2023 19:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1400966.html\"  style=\"color:red;\" >Николай Пчёлкин объяснил, почему Лионелю Месси снова дали Золотой мяч </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1400675.html\"> 01/11/2023 11:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1400675.html\" >Орловские каратисты привезли из Петербурга семь наград </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1400306.html\"> 31/10/2023 16:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1400306.html\"  style=\"color:red;\" >Орловец Влад Туйнов взял «золото» на Чемпионате стран ШОС по кикбоксингу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1399218.html\"> 28/10/2023 19:20</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1399218.html\"  style=\"color:red;\" >«Орел» стал обладателем бронзовых медалей первенства СФФ «Центр» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1398348.html\"> 27/10/2023 08:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1398348.html\" >Баскетболисты из Орла победили две белгородские команды </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1398284.html\"> 26/10/2023 15:21</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1398284.html\"  style=\"color:red;\" >В Госдуме назвали «региональными камикадзе» чиновников, финансирующих футбол вместо роста зарплат </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1397532.html\"> 25/10/2023 09:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1397532.html\"  style=\"color:red;\" >Названы соперники ФК «Орел» на финальном этапе «Кубка среди любительских команд» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1397279.html\"> 24/10/2023 21:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1397279.html\"  style=\"color:red;\" >Болельщики «Орла» в РПЛ не затерялись бы: тренер Евгений Поляков о поддержке команды </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1397270.html\"> 24/10/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1397270.html\"  style=\"color:red;\" >Евгений Поляков рассказал о задачах «Орла» после выхода во Вторую Лигу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396601.html\"> 23/10/2023 22:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1396601.html\" >Орловские боксеры завоевали “золото” в Туле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1396309.html\"> 22/10/2023 16:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1396309.html\"  style=\"color:red;\" >ФК «Орел» проиграл Металлургу-Оскол и потерял шансы на чемпионство </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1395288.html\"> 20/10/2023 09:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1395288.html\" >Орловские спортсменки завоевали медали по универсальному бою </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394839.html\"> 18/10/2023 21:35</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1394839.html\"  style=\"color:red;\" >Клычков поздравил ФК «Орёл» с победой в финале кубка. Фоторепортаж </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394805.html\"> 18/10/2023 20:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1394805.html\" >Орловский спортсмен стал призером Всероссийского турнира по рукопашному бою </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394827.html\"> 18/10/2023 20:22</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1394827.html\"  style=\"color:red;\" >ФК Орёл выиграл домашний финал Кубка СФФ «Центр». Видео </a></h2><iframe src=\"https://vk.com/video_ext.php?oid=-81485945&id=456242195&hash=6e5f0949c55a0b1f\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"1\" allow=\"autoplay; encrypted-media; fullscreen; picture-in-picture\"></iframe></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394517.html\"> 18/10/2023 16:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1394517.html\" >Орловские фигуристки стали лучшими на «Осеннем листопаде» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394514.html\"> 18/10/2023 12:42</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1394514.html\" >Мировой рекорд в подъеме на бицепс пал перед атлетом из Мценска </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1394121.html\"> 18/10/2023 09:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1394121.html\" >Орловская студенческая команда взяла «серебро» на Кубке АСБ 3х3 </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1393932.html\"> 17/10/2023 12:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1393932.html\" >Орловские спортсмены настреляли на «серебро» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1393925.html\"> 17/10/2023 10:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1393925.html\" >Орловская пара станцевала на «бронзу» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1392836.html\"> 14/10/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1392836.html\"  style=\"color:red;\" >Орловский гонщик Панфилов завершил сезон в первой тройке </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1392996.html\"> 14/10/2023 19:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1392996.html\"  style=\"color:red;\" >ФК «Орел» продолжил победную серию в любительской лиге </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1392476.html\"> 13/10/2023 16:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1392476.html\" >Орловцы в третий раз стали победителям на Кубке России по ралли-рейдам </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1392472.html\"> 13/10/2023 12:25</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1392472.html\"  style=\"color:red;\" >Соперник ФК «Орел» в финале кубка лиги опасается предвзятого судейства </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1391563.html\"> 11/10/2023 22:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1391563.html\" >Футболисты ОГУ возглавляют свою группу Национальной студенческой футбольной лиги </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1391397.html\"> 11/10/2023 14:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1391397.html\" >Орловцы забрали «серебро» на соревнованиях по армрестлингу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1391104.html\"> 10/10/2023 20:25</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1391104.html\"  style=\"color:red;\" >ФК Орел одержал крупную победу над соперниками из Липецка </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1390833.html\"> 10/10/2023 14:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1390833.html\" >Юные орловские акробатки завоевали Кубок Петра I </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1390458.html\"> 09/10/2023 22:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1390458.html\" >Орловские гимнасты привезли со всероссийских соревнований две медали </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1389961.html\"> 08/10/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1389961.html\" >Парни из Нарышкинского интерната пробились в финал детдомовского футбольного турнира </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1389407.html\"> 06/10/2023 22:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1389407.html\" >Двое орловцев завоевали серебро чемпионата России по шашкам </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1387258.html\"> 02/10/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1387258.html\" >Орловские каратисты заняли второе место на Кубке Орла </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1386705.html\"> 01/10/2023 13:04</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1386705.html\" >Орловская команда одержала первую победу в чемпионате России по мини-футболу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1386592.html\"> 01/10/2023 08:16</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1386592.html\" >Орловские ФСОшники погоняли по Подмосковью на «Танках» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1386566.html\"> 30/09/2023 16:51</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1386566.html\"  style=\"color:red;\" >ФК «Орел» на выезде взял три очка в матче с «Атомом» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1386361.html\"> 29/09/2023 20:23</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1386361.html\"  style=\"color:red;\" >Клычков заявил, что ФК «Орел» перевернул футбольный мир </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1385758.html\"> 28/09/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1385758.html\" >Девушка из Орла выиграла крупный турнир по бодибилдингу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1385722.html\"> 28/09/2023 17:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1385722.html\"  style=\"color:red;\" >Финал кубка в Орле сыграют из-за «личной заинтересованности» губернатора </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1385605.html\"> 28/09/2023 14:15</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1385605.html\"  style=\"color:red;\" >Финал любительского кубка пройдет в Орле </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1385022.html\"> 27/09/2023 22:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1385022.html\" >Орловские бадминтонисты вернулись с всероссийского соревнования с шестью медалями </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1385226.html\"> 27/09/2023 19:11</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1385226.html\"  style=\"color:red;\" >ФК Орел на выезде разгромил молодежку липецкого Металлурга </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1385025.html\"> 27/09/2023 16:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1385025.html\" >Орловцы соберутся в парке Победы, чтобы вместе ходить пешком </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1384392.html\"> 27/09/2023 08:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1384392.html\" >Орловец взял второе место на Кубке России по пулевой стрельбе </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1384652.html\"> 26/09/2023 22:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1384652.html\" >Юные ливенские футболисты выступили на крупном турнире </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1383645.html\"> 25/09/2023 09:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1383645.html\" >В Спасском-Лутовинове прошел забег «Тургеневский» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1383616.html\"> 24/09/2023 19:22</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1383616.html\" >В орловском Велодне приняли участие две тысячи человек </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1383378.html\"> 23/09/2023 20:01</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1383378.html\"  style=\"color:red;\" >Орловские футболисты разгромили соперников из Тамбова </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1382809.html\"> 22/09/2023 13:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1382809.html\" >«Орловский Бриллиант» выиграл Чемпионат России по кикбоксингу </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1382366.html\"> 21/09/2023 20:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1382366.html\" >Молодой орловский боксер выиграл всероссийский турнир </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1382359.html\"> 21/09/2023 16:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1382359.html\" >Футболистки ОГУ выиграли домашний межрегиональный турнир </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1381742.html\"> 20/09/2023 23:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1381742.html\" >Орловский каратист выиграл международный турнир в Армении </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1382055.html\"> 20/09/2023 20:29</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1382055.html\"  style=\"color:red;\" >ФК «Орел» вышел в финал кубка любительской лиги </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1381320.html\"> 19/09/2023 16:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1381320.html\" >Орловские велосипедисты отличились в гонке  «Дружба народов Северного Кавказа» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1380243.html\"> 16/09/2023 17:42</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1380243.html\"  style=\"color:red;\" >Туйнов нокаутировал китайского «Большого Дьявола» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1379715.html\"> 15/09/2023 14:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1379715.html\" >Юные орловские хоккеисты выиграли межрегиональный турнир </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1378329.html\"> 12/09/2023 13:30</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1378329.html\"  style=\"color:red;\" >Нападающий ФК «Орел» оказался на первой строчке среди бомбардиров СФФ «Центр» </a></h2></div><div class=\"big-news-list-item big-news-list-no-image\" >\n\t\t\t<a href=\"fn_1378182.html\"> 12/09/2023 11:00</a>\n\t\t\t<a href=\"cat_sport.html\">Спорт</a>\n\t\t\t<h2> <a href=\"fn_1378182.html\" >Орловский велогонщик завоевал «бронзу» международных соревнований </a></h2></div>\n</div>\n</div>\n\n\n<div class=\"advertisement-block\">\n\t\t  <div class=\"advertisement-block__in\"><h2 style=\"font-size:20px;\">Подписывайтесь, чтобы первыми узнавать о важном: </h2>\n\t\t\t <div class=\"advertisement-buttons\">\n\t\t\t <a href=\"https://dzen.ru/newsorel\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#000000; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/8440e5ad85d46fe229041d08b9a648c2.svg\" alt=\"Дзен общий\">\n\t\t\t\t</a><a href=\"https://t.me/newsorel\" class=\"button-vk\"  style=\"padding: 12px 24px 12px 24px!important;margin:5px;background:#27a6e5; \">\n\t\t\t\t<img style=\"margin-right: 0px;width:26px;\" src=\"https://region.center/data/modulesreadmore/102ea7d0bb60fd34fcdeda2eb0a11858.svg\" alt=\"Telegram общий + комментировать\">\n\t\t\t\t</a></div></div>\n\t   </div>\n\n\n\n\n<div class=\"main-news-block\">\n   <div class=\"main-news-block__in\">\n      <h2>Главные новости</h2><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425853.html\"><span> 28/12/2023 16:03</span></a>\n \t\t\t\t<a href=\"fn_1425853.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Локоть пошел. Стоит ли ждать ухода Клычкова?</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1425101.html\"><span> 27/12/2023 11:45</span></a>\n \t\t\t\t<a href=\"fn_1425101.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Политологи оценили достижения Клычкова за год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424196.html\"><span> 25/12/2023 13:30</span></a>\n \t\t\t\t<a href=\"fn_1424196.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">«Вандалом», испортившим бюсты героев на Бульваре Победы в Орле, оказалась патина</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1424081.html\"><span> 25/12/2023 11:00</span></a>\n \t\t\t\t<a href=\"fn_1424081.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Орловский стилист посоветовала запоминающиеся образы на Новый год</h2>\n\t\t\t\t</a>\n\t\t\t </div><div class=\"big-news-list-with-image\" >\n\t\t\t\t<a href=\"fn_1423596.html\"><span> 23/12/2023 13:35</span></a>\n \t\t\t\t<a href=\"fn_1423596.html\">\n\t\t\t\t   <h2 class=\"big-news-list-with-image__text\">Клычков стал кандидатом политических наук</h2>\n\t\t\t\t</a>\n\t\t\t </div></div>\n</div>\n</div>\n</main><aside class=\"right-block\">\n         <div class=\"right-container sticky_block\">\n            <div class=\"social-network-block\">\n                <a target=\"_blank\" href=\"https://vk.com/newsorel\"><img src=\"img/vk.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://ok.ru/newsorel\"><img src=\"img/ok.svg\" alt=\"icon\"></a>\n               <a target=\"_blank\" href=\"https://t.me/newsorel\"><img src=\"img/tg.svg\" alt=\"icon\"></a>\n            </div>\n            <br>\n            <!--AdFox START-->\n<!--yandex_info.regnews-->\n<!--Площадка: newsorel.ru / * / *-->\n<!--Тип баннера: 300*600 правый или 240*400 левый-->\n<!--Расположение: середина страницы-->\n<div id=\"adfox_16975238906454607\"></div>\n<script>\n    window.yaContextCb.push(()=>{\n        Ya.adfoxCode.create({\n            ownerId: 691714,\n            containerId: 'adfox_16975238906454607',\n            params: {\n                pp: 'h',\n                ps: 'fusg',\n                p2: 'hryf'\n            }\n        })\n    })\n</script>\n            <br>\n\n             <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Новости экономики</a>\n               <div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">21:21</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425964.html\">\n                    <p>Альфа-Банк победил в номинации «Динамично развивающаяся компания» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">20:36</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425956.html\">\n                    <p>Коллегия адвокатов «Де-Юре» стала лауреатом в номинации «Юридическая компания года» премии «Тульский БИЗНЕС»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">20:20</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425951.html\">\n                    <p>Лауреат премии в номинации «Премиальный сегмент услуг» — «Кирпичный завод БРАЕР»</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">20:04</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425924.html\">\n                    <p>Абрамович решил засудить банк из-за 8 млн шекелей</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">28/12</a></span><span><a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">19:10</a></span>\n                    <a target=\"_blank\"  href=\"https://center.business-magazine.online/fn_1425915.html\">\n                    <p>Россиянам рассказали, когда подорожает водка</p>\n                    </a>\n                </div> \n            </div>\n\n\n            \n\n            <div class=\"calendar-block\">\n               <div class=\"calendar\"></div>\n\n\n               <div class=\"calendar-events\">\n\n                <div class=\"calendar-events-item\">\n                    <picture>\n                       <source srcset=\"img/calendar.webp\" type=\"image/webp\">\n                       <img src=\"img/calendar.png\" alt=\"icon\">\n                    </picture>\n                    <span>28 декабря была образована Орловская таможня</span>\n                       <p>\n                           <p style=\"text-align: justify;\">Ее образовали на базе Орловского поста Приокской региональной таможни 28 декабря 1991 года. На нее возложили функции нетарифного регулирования, валютного контроля и таможенной очистки товаров. География экспортных поставок включает 67 стран мира. В работу Орловского таможенного поста успешно внедряются современные информационные технологии и новейшие технические средства таможенного контроля. Активно применяется технология автоматического выпуска деклараций на товары.</p>\n                       </p>                  \n                 </div>\n               </div>\n             </div>\n\n            <div class=\"top-five-block\">\n            <a href=\"#\" class=\"right-column-title\">Топ 5</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425853.html\">28/12</a></span><span><a href=\"fn_1425853.html\">16:03</a></span>\n                    <a href=\"fn_1425853.html\">\n                    <p>Локоть пошел. Стоит ли ждать ухода Клычкова?</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425742.html\">28/12</a></span><span><a href=\"fn_1425742.html\">14:15</a></span>\n                    <a href=\"fn_1425742.html\">\n                    <p>«Ребята наши воюют за проституток этих голубых?» Депутат Устинов прокомментировал «голую» вечеринку Ивлеевой</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425737.html\">28/12</a></span><span><a href=\"fn_1425737.html\">13:30</a></span>\n                    <a href=\"fn_1425737.html\">\n                    <p>Первая леди Орловщины поделилась своей личной новогодней традицией</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425662.html\">28/12</a></span><span><a href=\"fn_1425662.html\">12:00</a></span>\n                    <a href=\"fn_1425662.html\">\n                    <p>Стало известно, куда орловцы смогут обратиться на новогодних праздниках за медпомощью</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1425382.html\">27/12</a></span><span><a href=\"fn_1425382.html\">19:00</a></span>\n                    <a href=\"fn_1425382.html\">\n                    <p>Сестре бойца СВО из Орла вручили монокуляр</p>\n                    </a>\n                </div> \n            </div>\n\n            <div class=\"top-five-block analitics\">\n               <a href=\"cat_analytics.html\" class=\"right-column-title\">Аналитика</a>\n                \n                    <a href=\"fn_1421170.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/vika5/factory-workers-working-together-industrial-production-hall_342744-228.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1421170.html\">18/12</a></span><span><a href=\"fn_1421170.html\">17:45</a></span>\n                        <a href=\"fn_1421170.html\">\n                           <p>Названо число простаивающих орловских работников</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1413018.html\">30/11</a></span><span><a href=\"fn_1413018.html\">14:30</a></span>\n                        <a href=\"fn_1413018.html\">\n                           <p>Орловцы резко увеличили траты на кафе и рестораны</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1400728.html\">01/11</a></span><span><a href=\"fn_1400728.html\">12:00</a></span>\n                        <a href=\"fn_1400728.html\">\n                           <p>От орловской промышленности стало больше мусора</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1304394.html\">21/03</a></span><span><a href=\"fn_1304394.html\">16:00</a></span>\n                        <a href=\"fn_1304394.html\">\n                           <p>Клычков много говорит об увеличении бюджета за время своего губернаторства. Мы сравнили его с соседями</p>\n                        </a>\n                     </div>\n        \n            </div>\n\n            <div class=\"top-five-block rassledovaniya\">\n               <a href=\"cat_investigation.html\" class=\"right-column-title\">Расследования</a>\n                \n                    <a href=\"fn_1351488.html\">\n                        <picture>\n                            <img class=\"news-aside-block__image\" src=\"https://region.center/source/Orel/2023/july/_ekrana_2023-07-11_v_20-24-18.jpg\" alt=\"image\">\n                        </picture>\n                     </a><div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1351488.html\">12/07</a></span><span><a href=\"fn_1351488.html\">08:10</a></span>\n                        <a href=\"fn_1351488.html\">\n                           <p>Бизнес в стиле евро. Шмыгалев где-то рядом</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1224399.html\">28/10</a></span><span><a href=\"fn_1224399.html\">19:13</a></span>\n                        <a href=\"fn_1224399.html\">\n                           <p>Помните Genesis у губернатора Орловской области? Мы нашли еще один, и он тоже своего рода подарок</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1212997.html\">20/10</a></span><span><a href=\"fn_1212997.html\">15:49</a></span>\n                        <a href=\"fn_1212997.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть вторая</p>\n                        </a>\n                     </div>\n<div class=\"news-aside-block__item\">\n                        <span><a href=\"fn_1211101.html\">19/10</a></span><span><a href=\"fn_1211101.html\">15:45</a></span>\n                        <a href=\"fn_1211101.html\">\n                           <p>«Орелстрой» - трест, который лопнет. Часть первая</p>\n                        </a>\n                     </div>\n \n            </div>\n\n            <div class=\"top-five-block\">\n               <a href=\"cat_interview.html\" class=\"right-column-title\">Интервью</a>\n               <div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1410786.html\">25/11</a></span><span><a href=\"fn_1410786.html\">12:00</a></span>\n                    <a href=\"fn_1410786.html\">\n                    <p>«Конвейер смерти»: орловский священник рассказал об отношении к репрессиям и бюсту Сталина</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1406738.html\">16/11</a></span><span><a href=\"fn_1406738.html\">10:00</a></span>\n                    <a href=\"fn_1406738.html\">\n                    <p>«Мы пошли по пути жизни в эфире». Интервью с программным директором «Нового Радио» Дмитрием Харитоновым</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1382268.html\">21/09</a></span><span><a href=\"fn_1382268.html\">14:05</a></span>\n                    <a href=\"fn_1382268.html\">\n                    <p>«Кризис – время возможностей»: Павел Бабохов о развитии бизнеса с трех сотрудников до федерального уровня</p>\n                    </a>\n                </div><div class=\"top-five-block__item\">\n                    <span><a href=\"fn_1381005.html\">19/09</a></span><span><a href=\"fn_1381005.html\">09:00</a></span>\n                    <a href=\"fn_1381005.html\">\n                    <p>«Они не видят меня бездельником, и от этого мне хорошо». Отец Василий, дающий концерты в зоне СВО, рассказал о себе</p>\n                    </a>\n                </div>            </div>\n\n            \n\n            <div class=\"helper_for_sticky\"></div>\n      </aside>\n      </div>\n      <footer>\n         <div class=\"footer-container\">\n            <div class=\"footer\">\n               <div class=\"footer-logo-flex\">\n                  <a href=\"\" class=\"footer-logo-flex__logo\">\n                     <picture>\n                         <img class=\"footer-logo-flex__image\" src=\"img/icon.png\"  style=\"width:70px !important;\">\n                     </picture>\n                     <div class=\"footer-logo-flex__name\">\n                        <span>Орловские новости</span>\n                     </div>\n                  </a>\n                  <div class=\"footer-logo-flex__menu\">\n                     <ul class=\"footer-logo-flex__menu-list\">\n                        <li><a target=\"_blank\"  href=\"page_37.html\">Этическая политика изданий</a></li>\n                        <li><a target=\"_blank\"  href=\"page_35.html\">Редакция</a></li>\n                        <li><a target=\"_blank\"  href=\"page_36.html\">Реклама</a></li>\n                        <li><a target=\"_blank\"  href=\"https://mazov.ru/regionnews\">О холдинге</a></li>\n                        <li><a target=\"_blank\"  href=\"page_99.html\">Дежурный по новостям</a></li>\n\n                     </ul>\n                  </div>\n                  <div class=\"footer-logo-flex__years\">\n                     <span class=\"footer-year\">16+</span>\n                     <span class=\"coopy-mobile\">2014 © NEWSOREL.RU | <br> СИ «Орловские новости»</span>\n                  </div>\n               </div>\n               <div class=\"footer-info-flex\">\n                  <div class=\"footer-info-flex__left\">\n                     <p>2014 © NEWSOREL.RU | СИ «Орловские новости»</p>\n                                                                <p>Написать директору в телеграм <a target=\"_blank\"  style=\"color:white;\" href=\"https://t.me/mazov\">@mazov</a> </p>\n\n                     <div class=\"footer-info-flex__item\">\n                         \n                     </div>\n                  </div>\n                  <style>\n                     .footer-info-flex__right a {\n                        color:#ffffff !important;\n\n                     }\n                  </style>\n                  <div class=\"footer-info-flex__right\">\n                    <p>Учредитель (соучредители): Общество с ограниченной ответственностью &laquo;РЕГИОНАЛЬНЫЕ НОВОСТИ&raquo; (ОГРН 1107154017354)</p>\n<p>Главный редактор:&nbsp;Леднева Е.Н.</p>\n<p>Телефон редакции:<a href=\"tel:+7-486-225-2423\">+7 (4862) 25-24-23</a> <br /> Электронная почта редакции: <a href=\"mailto:info@newsorel.ru\">info@newsorel.ru</a></p>\n<p>Регистрационный номер: серия Эл&nbsp; № ФС77-82721 от 27 января 2022г. согласно выписке из реестра зарегистрированных средств массовой информации выдана Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций</p>\n<p>&nbsp;</p>                  </div>\n               </div>\n               <div class=\"footer-bottom-block\">\n                  <div class=\"footer-bottom-block__left\">\n                      <p>При использовании любого материала с данного сайта гипер-ссылка на Сетевое издание «Орловские новости» обязательна.</p>\n                         <p>Сообщения на сером фоне размещены на правах рекламы</p>\n                  </div>\n                  <div class=\"footer-bottom-block__right\">\n                     <div class=\"footer-links\">\n                        <!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click\"\ntarget=\"_blank\"><img id=\"licnt5FD6\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5FD6\").src=\n\"https://counter.yadro.ru/hit?t11.6;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Yandex.Metrika informer -->\n<a href=\"https://metrika.yandex.ru/stat/?id=27310931&from=informer\"\ntarget=\"_blank\" rel=\"nofollow\"><img src=\"https://informer.yandex.ru/informer/27310931/3_1_FFFFFFFF_FFFFFFFF_0_pageviews\"\nstyle=\"width:88px; height:31px; border:0;\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\" class=\"ym-advanced-informer\" data-cid=\"27310931\" data-lang=\"ru\" /></a>\n<!-- /Yandex.Metrika informer -->\n\n<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(27310931, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/27310931\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter --><!--LiveInternet counter--><a href=\"https://www.liveinternet.ru/click;regnews\"\ntarget=\"_blank\"><img id=\"licnt5DAA\" width=\"88\" height=\"31\" style=\"border:0\" \ntitle=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\"\nsrc=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7\"\nalt=\"\"/></a><script>(function(d,s){d.getElementById(\"licnt5DAA\").src=\n\"https://counter.yadro.ru/hit;regnews?t11.2;r\"+escape(d.referrer)+\n((typeof(s)==\"undefined\")?\"\":\";s\"+s.width+\"*\"+s.height+\"*\"+\n(s.colorDepth?s.colorDepth:s.pixelDepth))+\";u\"+escape(d.URL)+\n\";h\"+escape(d.title.substring(0,150))+\";\"+Math.random()})\n(document,screen)</script><!--/LiveInternet-->\n<!-- Top.Mail.Ru counter -->\n<script type=\"text/javascript\">\nvar _tmr = window._tmr || (window._tmr = []);\n_tmr.push({id: \"3088503\", type: \"pageView\", start: (new Date()).getTime()});\n(function (d, w, id) {\n  if (d.getElementById(id)) return;\n  var ts = d.createElement(\"script\"); ts.type = \"text/javascript\"; ts.async = true; ts.id = id;\n  ts.src = \"https://top-fwz1.mail.ru/js/code.js\";\n  var f = function () {var s = d.getElementsByTagName(\"script\")[0]; s.parentNode.insertBefore(ts, s);};\n  if (w.opera == \"[object Opera]\") { d.addEventListener(\"DOMContentLoaded\", f, false); } else { f(); }\n})(document, window, \"tmr-code\");\n</script>\n<noscript><div><img src=\"https://top-fwz1.mail.ru/counter?id=3088503;js=na\" style=\"position:absolute;left:-9999px;\" alt=\"Top.Mail.Ru\" /></div></noscript>\n<!-- /Top.Mail.Ru counter -->\n                     </div>\n                  </div>\n               </div>\n            </div>\n         </div>\n      </footer>\n    <script src=\"js2/app.min.js?_v=20230206170908\"></script>\n         \n               <script src=\"https://region.center/jquery.js\"></script>\n         <script>\n    $(document).ready(function(){\n         \n           $('#show_more').click(function(){\n           var btn_more = $(this);\n           var count_show = parseInt($(this).attr('count_show'));\n           var cats = parseInt($(this).attr('cats'));\n           btn_more.val('Подождите...');\n    \n           $.ajax({\n                       url: \"loadnews.php\", \n                       type: \"post\", \n                       dataType: \"json\", \n                       data: {\n                           \"count_show\":   count_show,\n                            \"cats\":   cats\n                       },\n                        success: function(data){\n               if(data.result == \"success\"){\n                   $('#newscontent').append(data.html);\n                       btn_more.val('Показать еще новости');\n                       btn_more.attr('count_show', (count_show+1));\n               }else{\n                   btn_more.val('Больше нечего показывать');\n               }\n                       }\n                   });\n               });  });\n               </script>\n   </body>\n</html>",
+    "info": [
+        {
+            "block": "ФК «Орел» сыграл вничью с молодежкой «Ростова» ",
+            "date": " 24/02/2024 14:06",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В ФК «Орел» пришел бывший игрок юношеской сборной России ",
+            "date": " 24/02/2024 12:40",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские ветераны СВО борются за Кубок защитников Отечества ",
+            "date": " 23/02/2024 18:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец Эдуард Трояновский учил боксу луганских спортсменов ",
+            "date": " 23/02/2024 15:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Каратистка из Орла победила на Кубке Кубани ",
+            "date": " 22/02/2024 21:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел сыграл на сборах результативную ничью ",
+            "date": " 21/02/2024 13:58",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские каратисты вернулись из ОАЭ с семью медалями ",
+            "date": " 19/02/2024 22:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские стрелки отличились меткостью на чемпионате России ",
+            "date": " 17/02/2024 21:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел разгромил вторую команду хабаровского СКА ",
+            "date": " 17/02/2024 18:07",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел получил профессиональную лицензию ",
+            "date": " 17/02/2024 17:01",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле начался чемпионат ЦФО по кикбоксингу ",
+            "date": " 16/02/2024 21:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские дзюдоисты завоевали медали на межрегиональном турнире ",
+            "date": " 15/02/2024 19:15",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Поляков рассказал, как ФК «Орел» принял нового защитника ",
+            "date": " 15/02/2024 14:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Евгений Поляков признался, что готов выступать за ФК «Орел» ",
+            "date": " 15/02/2024 13:25",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Главное выступить хорошо в первой части чемпионата: Поляков о задачах во Второй лиге ",
+            "date": " 15/02/2024 11:50",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Это, конечно, Клопп, Гвардиола в идеале: Поляков признался, у кого хотел бы поучиться для получения лицензии Второй лиги ",
+            "date": " 15/02/2024 11:20",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловский легкоатлет выиграл турнир для глухих спортсменов ",
+            "date": " 14/02/2024 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Гости выставки «Россия» смогли пообщаться с орловским боксером Эдуардом Трояновским ",
+            "date": " 14/02/2024 17:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские футболисты проиграли соперникам из Севастополя ",
+            "date": " 14/02/2024 15:20",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Клычков поручил прививать нулевую терпимость к допингу у орловских спортсменов ",
+            "date": " 09/02/2024 10:47",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК «Орел» определился с соперниками по первому крымскому сбору ",
+            "date": " 08/02/2024 15:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские каратисты посоревновались за Первенство города ",
+            "date": " 06/02/2024 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Власти пока не определились с бюджетом ФК «Орел» на сезон ",
+            "date": " 05/02/2024 18:15",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК «Орел» в контрольном матче обыграл «Салют» из Белгорода со счетом 2:3 ",
+            "date": " 03/02/2024 15:03",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Министр спорта РФ открыл в Орле футбольный манеж. Видео ",
+            "date": " 02/02/2024 17:17",
+            "tag": "Спорт"
+        },
+        {
+            "block": "«Физкульт-привет!». Министр спорта прогулялся по Орлу и зашел в манеж. Видео ",
+            "date": " 02/02/2024 15:44",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские спортсмены собрали главные призы Всероссийских соревнований по рукопашному бою ",
+            "date": " 01/02/2024 21:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец Александр Никишин в пятый раз признан лучшим защитником Континентальной хоккейной лиги ",
+            "date": " 01/02/2024 14:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле хоккейным турниром отметят годовщину сочинской Олимпиады ",
+            "date": " 01/02/2024 12:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "«Министр приезжает»: Клычков надеется на большее при приезде главы Минспорта ",
+            "date": " 01/02/2024 12:01",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле представители разных стран посоревновались в стрельбе из лука ",
+            "date": " 31/01/2024 18:15",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские каратисты взяли «бронзу» на всероссийских соревнованиях ",
+            "date": " 31/01/2024 09:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Трехкратная олимпийская чемпионка Мария Киселева приехала в Орел ",
+            "date": " 30/01/2024 17:15",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Известный орловский футболист Александр Ставпец находится в поисках новой команды ",
+            "date": " 30/01/2024 11:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В ФК «Орел» пришел новый игрок ",
+            "date": " 28/01/2024 09:44",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Китайцы и мексиканцы покажут, на что они способны на турнире по стрельбе из лука в Орле ",
+            "date": " 27/01/2024 22:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК «Орел» разгромил белгородский «Салют» в контрольном матче ",
+            "date": " 27/01/2024 16:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловцы завоевали золото, серебро и бронзу на всероссийских соревнованиях по боксу ",
+            "date": " 23/01/2024 22:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские спортсмены завоевали три медали на Первенстве России по пулевой стрельбе в Ижевске ",
+            "date": " 23/01/2024 20:45",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Евгений Поляков назвал позиции в ФК «Орел», которые планируется укрепить ",
+            "date": " 23/01/2024 17:43",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле стартовали всероссийские соревнования лучников ",
+            "date": " 21/01/2024 13:16",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Футболист Егор Ручкин трогательно попрощался с ФК Орел ",
+            "date": " 20/01/2024 13:50",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Стало известно, как попасть в Орле на «Лыжню России-2024» ",
+            "date": " 16/01/2024 18:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Фанаты рассказали историю Orel Butchers ",
+            "date": " 15/01/2024 14:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловский полузащитник Евгений Ушаков покинул липецкий «Металлург» ",
+            "date": " 12/01/2024 16:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Известны победители и призеры Кубка Орловской области по легкой атлетике ",
+            "date": " 11/01/2024 18:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Юрий Семин поделился мнением о развитии спорта в Орле ",
+            "date": " 11/01/2024 15:49",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел вышел из отпуска и готовится к профессиональной лиге. Видео ",
+            "date": " 11/01/2024 14:20",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец Влад Туйнов взлетел в рейтинге лучших боксеров мира ",
+            "date": " 11/01/2024 13:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловцы сыграют в футбол на снегу ",
+            "date": " 10/01/2024 17:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Тимофей Голоктионов занял второе место в забеге на 3000 метров на «Рождественских стартах» в Екатеринбурге ",
+            "date": " 09/01/2024 19:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Топ-3 спортивных событий Орла в 2023 году: Первое место – перезагрузка ФК «Орел» ",
+            "date": " 05/01/2024 13:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В центре Орла появился баннер с историческим матчем ФК «Орел» ",
+            "date": " 05/01/2024 10:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец стал лучшим рефери России по армрестлингу ",
+            "date": " 04/01/2024 11:01",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Топ-3 спортивных событий Орла в 2023: Второе место – победа Туйнова на чемпионате ШОС ",
+            "date": " 03/01/2024 16:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ТОП событий года. Спорт ",
+            "date": " 02/01/2024 08:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Топ-3 спортивных событий Орла в 2023: Третье место – Выступление Александра Никишина в КХЛ ",
+            "date": " 01/01/2024 21:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле появился первый баннер с игроком ФК Орел ",
+            "date": " 01/01/2024 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские спортсмены привезли три медали с представительного турнира по киокусинкай ",
+            "date": " 27/12/2023 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец Владислав Туйнов отправил в глубокий нокаут противника из США ",
+            "date": " 23/12/2023 09:48",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Завершено уголовное дело о договорных матчах по итогам которого орловский арбитр пожизненно отстранен от футбола ",
+            "date": " 15/12/2023 15:40",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Путин высказался о политике МОК по отношению к российским спортсменам ",
+            "date": " 14/12/2023 16:20",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец Лаврент Оганнесян блеснул на первенстве ЦФО по джиу-джитцу ",
+            "date": " 11/12/2023 19:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловцы успешно выступили на домашнем юниорском турнире по армрестлингу ",
+            "date": " 11/12/2023 15:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Легенде орловского футбола Николаю Долгову исполнилось 77 лет ",
+            "date": " 09/12/2023 14:45",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Американский боксер Кевин Джонсон 15 декабря проведет поединок в Орле ",
+            "date": " 08/12/2023 13:33",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Рагулькин из ФК «Орел» официально признан лучшим бомбардиром Первенства СФФ «Центр» ",
+            "date": " 07/12/2023 09:25",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские боксеры вернулись с международного турнира с золотом и серебром ",
+            "date": " 06/12/2023 21:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "«Куда летит «Орел»?»: о «переворотах», баннерах и туманном будущем футбольного клуба ",
+            "date": " 06/12/2023 19:18",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле определили лучшего спортсмена года ",
+            "date": " 06/12/2023 18:10",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловчанка приедет из Казахстана с «бронзой» ",
+            "date": " 06/12/2023 09:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "«Бог его знает»: дата официального открытия манежа на стадионе Ленина в Орле до сих пор неизвестна ",
+            "date": " 05/12/2023 18:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловский боксер Кирилл Лукьянов победил в турнире на берегу Балтийского моря ",
+            "date": " 04/12/2023 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Манеж на стадионе Ленина в Орле откроют завтра ",
+            "date": " 04/12/2023 16:38",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловский боксер взял «золото» первенства мира ",
+            "date": " 03/12/2023 19:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец Влад Туйнов в седьмой раз стал чемпионом России по кикбоксингу ",
+            "date": " 01/12/2023 15:56",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловский росгвардеец отличился на чемпионате по самбо ",
+            "date": " 29/11/2023 23:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Манеж на стадионе Ленина в Орле могут открыть досрочно ",
+            "date": " 29/11/2023 15:15",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Юный орловец победил зимбабвийца на первенстве мира по боксу ",
+            "date": " 29/11/2023 11:56",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Зимой орловцев будут развлекать лыжными гонками и хоккеем ",
+            "date": " 28/11/2023 16:05",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Стало известно, когда могут пройти первые игры ФК «Орел» во второй лиге ",
+            "date": " 28/11/2023 14:57",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Болельщикам ФК «Орел» придется платить за билеты на матчи клуба ",
+            "date": " 28/11/2023 14:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "На стадионе им. Ленина в Орле начали менять табло ",
+            "date": " 22/11/2023 08:49",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Семин и Клычков чествовали футболистов ФК Орел. Видео ",
+            "date": " 21/11/2023 17:40",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Стало известно, когда ФК «Орёл» начнёт лицензироваться для выхода во вторую лигу ",
+            "date": " 21/11/2023 11:33",
+            "tag": "Спорт"
+        },
+        {
+            "block": "«Локо» Юрия Семина победил ЦСКА Валерия Газаева в ретро-матче ",
+            "date": " 19/11/2023 21:49",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Анатолий Якунин приехал в Орел ",
+            "date": " 18/11/2023 13:45",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловец поведет Локомотив на матч Лиги Легенд против ЦСКА ",
+            "date": " 16/11/2023 19:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Четыре сотни гостей приедут в Орел поиграть в бадминтон ",
+            "date": " 13/11/2023 23:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловцы триумфально выступили на домашнем чемпионате России по шашкам ",
+            "date": " 13/11/2023 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК «Орел» не удалось взять Кубок среди любительских команд 2023 ",
+            "date": " 11/11/2023 16:30",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел упустил возможность досрочно завоевать Кубок любительских команд РФС ",
+            "date": " 09/11/2023 12:53",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловские спортсмены вернулись из Сибири с россыпью наград ",
+            "date": " 07/11/2023 21:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел уверенно движется к победе в Кубке любительских команд ",
+            "date": " 07/11/2023 12:48",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Семин предложил провести матч сборной России в Орле ",
+            "date": " 06/11/2023 13:17",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Орловчанка стала лучшей на чемпионате мира по универсальному бою ",
+            "date": " 05/11/2023 20:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "В Орле участника хоккейного матча увезли в больницу на реанимамобиле ",
+            "date": " 05/11/2023 15:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел продолжил победную серию в Кубке любительских команд ",
+            "date": " 05/11/2023 12:50",
+            "tag": "Спорт"
+        },
+        {
+            "block": "Девушка из Орла выиграла международную парусную регату ",
+            "date": " 05/11/2023 11:00",
+            "tag": "Спорт"
+        },
+        {
+            "block": "ФК Орел с крупной победы начал Кубок любительских команд в Сочи ",
+            "date": " 03/11/2023 16:00",
+            "tag": "Спорт"
+        }
+    ],
+    "timestamp": 1708782988869,
+    "domain": "newsorel.ru"
+}

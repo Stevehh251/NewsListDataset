@@ -1,0 +1,65 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "city-n",
+  "startUrls": [
+    "https://www.city-n.ru/div/5.html",
+    "https://www.city-n.ru/div/14.html",
+    "https://www.city-n.ru/div/15.html",
+    "https://www.city-n.ru/div/7.html",
+    "https://www.city-n.ru/div/4.html",
+    "https://www.city-n.ru/div/6.html"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.left_column div.warm_news",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "p a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.news_date a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.news_lide",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "time",
+      "selector": "div.news_time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

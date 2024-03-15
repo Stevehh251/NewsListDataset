@@ -63,6 +63,30 @@ if __name__ == "__main__":
         print(f"Was filtered (BS checker): {before - after}")
         print(f"After filtration (BS checker) : {after}")
     
+    # Page number restriction
+    
+    if (True):
+        max_number_of_page = 16
+        
+        filename_groups = defaultdict(list)
+        new_filenames = set()
+        before = len(good_filenames)
+        
+        for filename in good_filenames:
+            group_name = re.search(r'.*(?=_)', filename)
+            filename_groups[group_name[0]].append(filename)
+            
+        for group_name in filename_groups.keys():
+            filename_groups[group_name] = filename_groups[group_name][:max_number_of_page]
+            for filename in filename_groups[group_name]:
+                new_filenames.add(filename)
+        
+        good_filenames = new_filenames
+        after = len(good_filenames)
+        print(f"Was filtered (Page number restriction): {before - after}")
+        print(f"After filtration (Page number restriction) : {after}")
+    
+    
     # Train / Test split
     if (True):
         similar_data = []
@@ -89,16 +113,17 @@ if __name__ == "__main__":
         similar_data = list(filter(lambda x : 1.0 > x[0] > max_similar, similar_data))
         similar_data = sorted(similar_data)[::2]
         
-        print(*similar_data, sep='\n')
-        print(len(similar_data))
+        # print(*similar_data, sep='\n')
+        # print(len(similar_data))
 
         
     
     
     
-    # os.mkdir("dataset")
+    os.mkdir("dataset")
     
-    # for filename in good_filenames:
-    #     shutil.copyfile(filename, "dataset/" + filename)
+    for filename in good_filenames:
+        file = os.path.basename(filename)
+        shutil.copyfile(filename, "dataset/" + file)
         
     

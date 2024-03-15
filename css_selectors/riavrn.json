@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "riavrn",
+  "startUrls": [
+    "https://riavrn.ru/gov/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.large-4 a.pic-link",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.seo-h3",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "3",
+      "id": "tag",
+      "selector": ".tag"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "4",
+      "id": "date",
+      "selector": ".time"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

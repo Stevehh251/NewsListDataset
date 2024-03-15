@@ -1,0 +1,33 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "yaomtv",
+  "startUrls": [
+    "https://www.yaomtv.ru/kinonews/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div div div div td",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

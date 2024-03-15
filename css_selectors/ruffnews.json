@@ -1,0 +1,44 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ruffnews",
+  "startUrls": [
+    "https://www.ruffnews.ru/obrazovanie/",
+    "https://www.ruffnews.ru/pogoda/",
+    "https://www.ruffnews.ru/telekommunikatsii/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.container-xxl div.col-lg-4",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "strong",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "p:nth-of-type(2)",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

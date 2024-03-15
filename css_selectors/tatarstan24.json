@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tatarstan24",
+  "startUrls": [
+    "https://tatarstan24.tv/news/rubric/list/programmy-telekanala1"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.media-list",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.media-list__head",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.media-list__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "4",
+      "id": "short_text",
+      "selector": "div.media-list__text"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

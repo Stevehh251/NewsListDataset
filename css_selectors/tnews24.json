@@ -1,0 +1,66 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tnews24",
+  "startUrls": [
+    "https://24tnews.ru/c/novosti/",
+    "https://24tnews.ru/c/politic/",
+    "https://24tnews.ru/c/society/",
+    "https://24tnews.ru/c/accidents/",
+    "https://24tnews.ru/c/war/",
+    "https://24tnews.ru/c/economy/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.entry-text",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.entry-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "a time.entry-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.entry-content",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "tag",
+      "selector": "span.penci-cat-links a",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,10 +1,9 @@
 [tool.poetry]
-name = "my-dataset"
+name = "newslistdataset"
 version = "0.1.0"
 description = ""
 authors = ["Alexander Kustenkov <kustaa@ispras.ru>"]
 readme = "README.md"
-packages = [{include = "my_dataset"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -12,6 +11,8 @@ beautifulsoup4 = "^4.12.3"
 tqdm = "^4.66.2"
 numpy = "^1.26.4"
 tldextract = "^5.1.1"
+lxml = "^5.1.0"
+argostranslate = "^1.9.2"
 
 
 [build-system]

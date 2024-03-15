@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kstati",
+  "startUrls": [
+    "https://kstati.news/news/society/",
+    "https://kstati.news/news/obrazovanie/",
+    "https://kstati.news/news/o_lyudyakh/",
+    "https://kstati.news/news/politics/",
+    "https://kstati.news/news/Kriminal/",
+    "https://kstati.news/news/novosti-medetsini/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-list_item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2 a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.news-list_item_text",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "div.news-list_item_datatime",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

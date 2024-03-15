@@ -1,0 +1,60 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "russian_rt_com_news",
+  "startUrls": [
+    "https://russian.rt.com/news"
+  ],
+  "selectors": [
+    {
+      "id": "title",
+      "selector": "div.card.card_not-cover div.card__heading a.link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "1"
+    },
+    {
+      "id": "block",
+      "selector": "div.rows__column.rows__column_all-news_left div.listing__card",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.card.card_not-cover div.card__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div.card.card_not-cover div.card__category a.link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.card.card_not-cover div.card__summary a.link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

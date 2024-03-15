@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "gubdaily_ru",
+  "startUrls": [
+    "https://gubdaily.ru/category/news/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "li.infinite-post",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "h2",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "time",
+      "selector": "span.archive-pub-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "2"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

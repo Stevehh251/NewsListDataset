@@ -1,0 +1,47 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "a1prime",
+  "startUrls": [
+    "https://1prime.ru/state_regulation/",
+    "https://1prime.ru/Financial_market/",
+    "https://1prime.ru/energy/",
+    "https://1prime.ru/business/",
+    "https://1prime.ru/telecommunications_and_technologies/",
+    "https://1prime.ru/News/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.rubric-list__article",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.rubric-list__article-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "time.rubric-list__article-time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

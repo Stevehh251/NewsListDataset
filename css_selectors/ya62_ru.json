@@ -1,0 +1,66 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ya62_ru",
+  "startUrls": [
+    "https://ya62.ru/news/",
+    "https://ya62.ru/news/ryazan/",
+    "https://ya62.ru/news/auto/",
+    "https://ya62.ru/news/health/",
+    "https://ya62.ru/news/raisins/",
+    "https://ya62.ru/news/culture/",
+    "https://ya62.ru/news/realty/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-list__item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.news-card__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.news-list__desc",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "tag",
+      "selector": "a.news-list__tag",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

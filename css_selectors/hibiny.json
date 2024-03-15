@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "hibiny",
+  "startUrls": [
+    "https://www.hibiny.ru/murmanskaya-oblast/news/",
+    "https://www.hibiny.ru/murmanskaya-oblast/news/politics/",
+    "https://www.hibiny.ru/murmanskaya-oblast/news/economy/",
+    "https://www.hibiny.ru/murmanskaya-oblast/news/incidents/",
+    "https://www.hibiny.ru/murmanskaya-oblast/news/society/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news_list:nth-of-type(n+7)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2 a.subtitle20",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.p14l",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "a.p3",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

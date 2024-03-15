@@ -1,0 +1,53 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "pnz",
+  "startUrls": [
+    "https://pnz.ru/pens/",
+    "https://pnz.ru/family/",
+    "https://pnz.ru/health/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.post-card:nth-of-type(n+2)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "5"
+    },
+    {
+      "id": "title",
+      "selector": "span a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "5"
+      ],
+      "uuid": "6"
+    },
+    {
+      "id": "tag",
+      "selector": "span.post-card__category",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "5"
+      ],
+      "uuid": "7"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.post-card__description",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "5"
+      ],
+      "uuid": "8"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}
