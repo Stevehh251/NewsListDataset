@@ -10,7 +10,7 @@ import unicodedata
 import lxml
 import os
 import sys
-import time
+import time 
 
 from lxml import etree
 from lxml.html.clean import Cleaner
@@ -61,9 +61,21 @@ def translate_html(html_str, translator, need_clean=True, from_code='auto', to_c
     return lxml.html.tostring(tree, doctype="<!DOCTYPE html>", encoding='unicode')
 
 
-def translate_file(file_path, out_path, translator):
-    print(file_path)
+async def translate_file(file_path, out_path):
     start = time.time()
+    from_code = "ru"
+    to_code = "en"
+    argostranslate.package.update_package_index()
+    available_packages = argostranslate.package.get_available_packages()
+    package_to_install = next(
+        filter(
+            lambda x: x.from_code == from_code and x.to_code == to_code, available_packages
+        )
+    )
+    argostranslate.package.install_from_path(package_to_install.download())
+   
+    ru, en = get_installed_languages()
+    translator = en.get_translation(ru)
     # try:
     translated_node = {}
     with open(file_path) as file:
@@ -98,12 +110,14 @@ def translate_file(file_path, out_path, translator):
     filename = os.path.basename(file_path)
     with open(os.path.join(out_path, filename), "w", encoding="utf-8") as file:
         json.dump(translated_node, file, ensure_ascii=False, indent=4)
-    print(time.time() - start)
+        print("Complete")
+    
+    print("Time : ", time.time() - start)
         
         
 
-def main():
-    # python3 model_test/test_corpus_translate.py model_test/test_corpus model_test/translated_text_corpus/
+async def main():
+    # python3 test_corpus_translate.py html htmls_en
     '''
         This script translate dataset into english language
         First param: initial folder
@@ -118,35 +132,20 @@ def main():
     
     # BEGIN OF INITIALIZE
     
-    from_code = "ru"
-    to_code = "en"
-    argostranslate.package.update_package_index()
-    available_packages = argostranslate.package.get_available_packages()
-    package_to_install = next(
-        filter(
-            lambda x: x.from_code == from_code and x.to_code == to_code, available_packages
-        )
-    )
-    argostranslate.package.install_from_path(package_to_install.download())
-   
-    ru, en = get_installed_languages()
-    translator = en.get_translation(ru)
+
 
     # END OF INITIALIZE
     
     tasks = []
-    print(translated_files)
+    print(out_path)
     for file_path in tqdm(file_to_translate):
-        filename = os.path.basename(file_path)
-        if os.path.join(out_path, filename) in translated_files:
+        if file_path in translated_files:
             continue
-        # task = asyncio.create_task(translate_file(file_path, out_path, translator))
-        # tasks.append(task)        
-        # break
-        translate_file(file_path, out_path, translator)
-    # await asyncio.gather(*tasks)
+        task = asyncio.create_task(translate_file(file_path, out_path))
+        tasks.append(task)
+        
+    await asyncio.gather(*tasks)
     
     
 if __name__ == "__main__":
-    # asyncio.run(main())
-    main()
+    asyncio.run(main())
