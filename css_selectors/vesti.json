@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "vesti",
+  "startUrls": [
+    "https://www.vesti.ru/news",
+    "https://www.vesti.ru/tag/общество",
+    "https://www.vesti.ru/tag/спорт",
+    "https://www.vesti.ru/nauka",
+    "https://www.vesti.ru/tag/происшествия",
+    "https://www.vesti.ru/tag/политика"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.list__item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3.list__title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.list__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "time",
+      "selector": "div.list__time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

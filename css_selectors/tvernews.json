@@ -1,0 +1,60 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tvernews",
+  "startUrls": [
+    "https://tvernews.ru/news/cat_10/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.category-items > a",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "date",
+      "selector": "div.article_time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "div.article_hh",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div.article_cat",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "5",
+      "id": "short_text",
+      "selector": "p"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

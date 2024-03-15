@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "gazeta_a42",
+  "startUrls": [
+    "https://gazeta.a42.ru/lenta/news"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "li.item-3-row article.card",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3.card__title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "p.card__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "p.card__category",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

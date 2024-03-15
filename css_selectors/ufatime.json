@@ -1,0 +1,64 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ufatime",
+  "startUrls": [
+    "https://ufatime.ru/news/news/",
+    "https://ufatime.ru/news/world/",
+    "https://ufatime.ru/news/finance/",
+    "https://ufatime.ru/news/opinions/",
+    "https://ufatime.ru/news/finance/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-item.news-item--lg, div.col-sm1 div.news-block, div.news-block:nth-of-type(n+4) div.news-item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3.news-item-title a.link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "time",
+      "selector": "span.time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.news-item-text",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,61 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "newsomsk",
+  "startUrls": [
+    "https://newsomsk.ru/categories/games/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.col2",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "p.title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "a.type",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.text p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

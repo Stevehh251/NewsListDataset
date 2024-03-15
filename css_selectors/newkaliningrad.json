@@ -1,0 +1,42 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "newkaliningrad",
+  "startUrls": [
+    "https://www.newkaliningrad.ru/news/briefs/#page1"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "ul.brief-full-list > li:nth-of-type(n+2)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

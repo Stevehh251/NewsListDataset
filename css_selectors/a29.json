@@ -1,0 +1,52 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "a29",
+  "startUrls": [
+    "https://29.ru/text/business/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.L9YKY.ovHGK",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "tag",
+      "selector": "div.uVAq1 p",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "a._56x-K span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "a.RBXfY span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

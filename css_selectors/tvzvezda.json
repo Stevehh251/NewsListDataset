@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tvzvezda",
+  "startUrls": [
+    "https://tvzvezda.ru/news"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.js-ajax-receiver a.news_one",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "date",
+      "selector": "span.date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "span.name_rubric",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "title",
+      "selector": "div.name",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

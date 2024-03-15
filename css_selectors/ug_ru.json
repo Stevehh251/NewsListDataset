@@ -1,0 +1,42 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ug_ru",
+  "startUrls": [
+    "https://ug.ru/category/ostraya-tema/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.col-12.col-md-8",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "time.category-post-card__info__post-time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,53 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "okt-neft",
+  "startUrls": [
+    "https://okt-neft.ru/articles/common_material",
+    "https://okt-neft.ru/news/sobytiya-i-fakty",
+    "https://okt-neft.ru/news/sport"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "a.item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "div.cm-rubric",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "div.cm-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,60 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "opennov",
+  "startUrls": [
+    "https://opennov.ru/?q=news/road-accidents"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.flex-list__item article.node",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.teaser__link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.teaser__content",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "a.teaser__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "tag",
+      "selector": "a.teaser__category",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

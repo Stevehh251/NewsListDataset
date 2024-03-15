@@ -1,0 +1,61 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "glagolpress",
+  "startUrls": [
+    "https://glagol.press/category/pro"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.mg-sec-top-post",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "p.entry-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "a.newsup-categories",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "span.mg-blog-date a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.mg-content p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

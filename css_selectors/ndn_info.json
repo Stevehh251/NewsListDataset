@@ -1,0 +1,57 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ndn_info",
+  "startUrls": [
+    "https://ndn.info/rubric/biznes/",
+    "https://ndn.info/rubric/avto/",
+    "https://ndn.info/rubric/proisshestviya/",
+    "https://ndn.info/rubric/obshchestvo/",
+    "https://ndn.info/rubric/kultura/",
+    "https://ndn.info/rubric/nauka/",
+    "https://ndn.info/rubric/rabota/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.jeg_posts div.jeg_posts article.jeg_post",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3.jeg_post_title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.jeg_meta_date a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

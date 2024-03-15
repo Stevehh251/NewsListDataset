@@ -1,0 +1,47 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "amic",
+  "startUrls": [
+    "https://www.amic.ru/news",
+    "https://www.amic.ru/news/economics",
+    "https://www.amic.ru/news/society",
+    "https://www.amic.ru/news/business",
+    "https://www.amic.ru/news/realty",
+    "https://www.amic.ru/news/auto"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.archive-news-item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.published_at",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

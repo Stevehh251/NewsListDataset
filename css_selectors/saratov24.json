@@ -1,0 +1,48 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "saratov24",
+  "startUrls": [
+    "https://saratov24.tv/newstag/здоровье/",
+    "https://saratov24.tv/newstag/образование/",
+    "https://saratov24.tv/newstag/экономика/",
+    "https://saratov24.tv/newstags/dorogi/",
+    "https://saratov24.tv/newstags/rassledovaniya/",
+    "https://saratov24.tv/newstags/proisshestviya/",
+    "https://saratov24.tv/newstags/sport/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "a.post-block",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3.post-block--title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.post-block--date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

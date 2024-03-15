@@ -1,0 +1,42 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "newsbash",
+  "startUrls": [
+    "https://newsbash.ru/economy/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "a.short",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.short-thumb-title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.short-thumb-cat",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

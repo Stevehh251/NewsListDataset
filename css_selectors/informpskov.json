@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "informpskov",
+  "startUrls": [
+    "https://informpskov.ru/topics/799",
+    "https://informpskov.ru/allnews",
+    "https://informpskov.ru/society",
+    "https://informpskov.ru/politics",
+    "https://informpskov.ru/business",
+    "https://informpskov.ru/culture"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.pad30hor:nth-of-type(n+2)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.stronglink",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "a.lightp",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "div.time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

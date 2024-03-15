@@ -1,0 +1,52 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kommersant",
+  "startUrls": [
+    "https://www.kommersant.ru/rubric/3?from=burger"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.rubric_lenta:nth-of-type(n+3) article.uho",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.uho__link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "p.uho__tag.hide_desktop",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "a.tag_list__link",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

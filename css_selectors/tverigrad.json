@@ -1,0 +1,64 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tverigrad",
+  "startUrls": [
+    "https://tverigrad.ru/publication/",
+    "https://tverigrad.ru/category/obshhestvo/main-040/",
+    "https://tverigrad.ru/category/obshhestvo/zakon-i-poryadok/",
+    "https://tverigrad.ru/category/main-090/kriminal/",
+    "https://tverigrad.ru/category/avto/dorogi/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.row.block:nth-of-type(n+4)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3 a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span:nth-of-type(1)",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "a.ni_catlink",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,56 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "runews24",
+  "startUrls": [
+    "https://runews24.ru/world",
+    "https://runews24.ru/economy",
+    "https://runews24.ru/finance",
+    "https://runews24.ru/politics",
+    "https://runews24.ru/incidents",
+    "https://runews24.ru/culture"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.category, div.b-all-news article.b-main-new",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "date",
+      "selector": "time.date, time.b-main-new-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "h2.title, h2.b-main-new-title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p.desc, p.b-main-new-desc",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

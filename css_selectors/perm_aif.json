@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "perm_aif",
+  "startUrls": [
+    "https://perm.aif.ru/economic",
+    "https://perm.aif.ru/politic",
+    "https://perm.aif.ru/society",
+    "https://perm.aif.ru/gorod",
+    "https://perm.aif.ru/culture"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.list_item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "tag",
+      "selector": "a.rubric_link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.text_box__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "title",
+      "selector": "span.item_text__title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

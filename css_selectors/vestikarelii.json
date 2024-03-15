@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "vestikarelii",
+  "startUrls": [
+    "https://vestikarelii.ru/lenta/pro-bjudzhet/",
+    "https://vestikarelii.ru/lenta/pro-tseny/",
+    "https://vestikarelii.ru/lenta/pro-puteshestvija/",
+    "https://vestikarelii.ru/lenta/pro-vakansii/",
+    "https://vestikarelii.ru/lenta/pro-shtrafy/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.main-lenta__wrapper-article div.sc-allnews__block-article",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3 a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.block-article__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "4",
+      "id": "short_text",
+      "selector": "div >a"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

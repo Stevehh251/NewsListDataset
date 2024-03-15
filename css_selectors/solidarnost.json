@@ -1,0 +1,42 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "solidarnost",
+  "startUrls": [
+    "https://solidarnost.org/news"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-descr",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.news-title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

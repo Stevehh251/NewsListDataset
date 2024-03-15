@@ -1,0 +1,61 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tverlife",
+  "startUrls": [
+    "https://tverlife.ru/category/blogs/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.inner-blog",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "tag",
+      "selector": "li a",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "h3.blog-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "ul.btm-cate li:nth-of-type(1)",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

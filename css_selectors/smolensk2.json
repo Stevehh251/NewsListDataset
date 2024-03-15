@@ -1,0 +1,65 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "smolensk2",
+  "startUrls": [
+    "https://www.smolensk2.ru/?category=health",
+    "https://www.smolensk2.ru/?category=history",
+    "https://www.smolensk2.ru/?category=culture",
+    "https://www.smolensk2.ru/?category=scienceandeducation",
+    "https://www.smolensk2.ru/?category=society",
+    "https://www.smolensk2.ru/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "article.xfolkentry",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.xfolkentryTitleGL a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "span.xfolkentryCats a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "time.xfolkentryTime",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.description",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

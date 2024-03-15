@@ -1,0 +1,65 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kp40",
+  "startUrls": [
+    "https://www.kp40.ru/news/auto/",
+    "https://www.kp40.ru/news/crime/",
+    "https://www.kp40.ru/news/culture/",
+    "https://www.kp40.ru/news/society/",
+    "https://www.kp40.ru/news/world/",
+    "https://www.kp40.ru/news/sport/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-rub-list-item:nth-of-type(n+2)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.nrli-title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.nrli-descr",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div.nrli-rublink a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "date",
+      "selector": "span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

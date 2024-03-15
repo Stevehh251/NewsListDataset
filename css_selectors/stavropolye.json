@@ -1,0 +1,57 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "stavropolye",
+  "startUrls": [
+    "https://stavropolye.tv/news",
+    "https://stavropolye.tv/news/economy",
+    "https://stavropolye.tv/news/society",
+    "https://stavropolye.tv/news/events",
+    "https://stavropolye.tv/news/sport",
+    "https://stavropolye.tv/news/sfdnews",
+    "https://stavropolye.tv/news/state"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.item div.wrap",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "p.title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "p.description",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "p.date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

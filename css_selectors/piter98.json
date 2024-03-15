@@ -1,0 +1,64 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "piter98",
+  "startUrls": [
+    "https://piter98.ru/topnews/politika/",
+    "https://piter98.ru/topnews/society/",
+    "https://piter98.ru/topnews/economika/",
+    "https://piter98.ru/topnews/world/",
+    "https://piter98.ru/topnews/incident/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.jeg_posts article.jeg_post",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h3.jeg_post_title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "a.category-politika",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "date",
+      "selector": "div.jeg_meta_date a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

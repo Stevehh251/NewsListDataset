@@ -1,0 +1,64 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "freedom-news",
+  "startUrls": [
+    "https://freedom-news.ru/category/voenny-j-arhiv/",
+    "https://freedom-news.ru/category/e-konomika/",
+    "https://freedom-news.ru/category/politika/",
+    "https://freedom-news.ru/category/obshhestvo/",
+    "https://freedom-news.ru/category/mneniya/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.post-row div.post-inner",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.post-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.entry p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "p.post-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "tag",
+      "selector": "p.post-category",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

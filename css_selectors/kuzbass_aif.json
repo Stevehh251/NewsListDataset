@@ -1,0 +1,51 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kuzbass_aif",
+  "startUrls": [
+    "https://kuzbass.aif.ru/politic"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "section.size2, div.list_item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.item_text a, div.text_box > span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "a.rubric_link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "parentSelectors": [
+        "1"
+      ],
+      "type": "SelectorText",
+      "uuid": "4",
+      "id": "date",
+      "selector": "span.text_box__date"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,65 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "vrn",
+  "startUrls": [
+    "https://vrn.aif.ru/society",
+    "https://vrn.aif.ru/sport",
+    "https://vrn.aif.ru/health",
+    "https://vrn.aif.ru/culture",
+    "https://vrn.aif.ru/politic",
+    "https://vrn.aif.ru/edu"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.list_item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "span.item_text__title",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.text_box__date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.text_box > span",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "tag",
+      "selector": "a.rubric_link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

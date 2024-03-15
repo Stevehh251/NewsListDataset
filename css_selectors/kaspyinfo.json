@@ -1,0 +1,48 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kaspyinfo",
+  "startUrls": [
+    "https://kaspyinfo.ru/news/biznes",
+    "https://kaspyinfo.ru/news",
+    "https://kaspyinfo.ru/news/ekonomika",
+    "https://kaspyinfo.ru/news/sport",
+    "https://kaspyinfo.ru/news/politika",
+    "https://kaspyinfo.ru/news/proisshestviya",
+    "https://kaspyinfo.ru/news/zdorove"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.col-lg-4",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "date",
+      "selector": "span.time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "a.plitka_text",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

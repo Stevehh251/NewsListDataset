@@ -1,0 +1,58 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tkgorod",
+  "startUrls": [
+    "https://tkgorod.ru/rubrics/dtp/",
+    "https://tkgorod.ru/rubrics/zhkkh/",
+    "https://tkgorod.ru/rubrics/internet-i-smi15/",
+    "https://tkgorod.ru/rubrics/kultura13/",
+    "https://tkgorod.ru/rubrics/liudi7/",
+    "https://tkgorod.ru/rubrics/meditsina12/",
+    "https://tkgorod.ru/rubrics/obshchestvo/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-card",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h4.news-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.news-date-published",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "tag",
+      "selector": "div > a",
+      "type": "SelectorText",
+      "multiple": true,
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

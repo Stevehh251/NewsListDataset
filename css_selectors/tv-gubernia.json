@@ -1,0 +1,46 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "tv-gubernia",
+  "startUrls": [
+    "https://tv-gubernia.ru/themes/transport/",
+    "https://tv-gubernia.ru/themes/gubernator/",
+    "https://tv-gubernia.ru/themes/svo/",
+    "https://tv-gubernia.ru/themes/garden/",
+    "https://tv-gubernia.ru/themes/vodosnabzhenie-v-voronezhe/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news__item-wrap div.news__item",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.news__item-title-link",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.news__item-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

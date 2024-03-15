@@ -1,0 +1,67 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "karelia",
+  "startUrls": [
+    "https://rk.karelia.ru/category/zhenskaya-tema/",
+    "https://rk.karelia.ru/category/special-projects/petroglifyi/",
+    "https://rk.karelia.ru/category/special-projects/delaem-v-karelii/",
+    "https://rk.karelia.ru/category/special-projects/semya/",
+    "https://rk.karelia.ru/category/special-projects/persona/",
+    "https://rk.karelia.ru/category/special-projects/realnye-dela/",
+    "https://rk.karelia.ru/category/special-projects/lyudi-pobedy/",
+    "https://rk.karelia.ru/category/special-projects/na-lektsii/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.text-holder",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "h2.entry-title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "div.entry-cat a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "time",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    },
+    {
+      "id": "short_text",
+      "selector": "p",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "5"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

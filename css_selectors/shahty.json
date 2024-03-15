@@ -1,0 +1,47 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "shahty",
+  "startUrls": [
+    "https://shahty.ru/society/",
+    "https://shahty.ru/economy/",
+    "https://shahty.ru/avto/",
+    "https://shahty.ru/event/",
+    "https://shahty.ru/culture/",
+    "https://shahty.ru/sport/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news_list_block",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.news_list_block_text a.visit",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "tag",
+      "selector": "a.red",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

@@ -1,0 +1,47 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "kaluga-poisk",
+  "startUrls": [
+    "https://www.kaluga-poisk.ru/news/proisshestviya",
+    "https://www.kaluga-poisk.ru/news/blagoustroystvo",
+    "https://www.kaluga-poisk.ru/news/sport",
+    "https://www.kaluga-poisk.ru/news/ekonomika",
+    "https://www.kaluga-poisk.ru/news/zakon",
+    "https://www.kaluga-poisk.ru/news/zdravoohranenie"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.row:nth-of-type(n+5)",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "a.newstitle",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "span.separate.information",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

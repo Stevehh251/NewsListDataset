@@ -1,0 +1,54 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "ufa-town",
+  "startUrls": [
+    "https://ufa-town.ru/chp",
+    "https://ufa-town.ru/interesnoe",
+    "https://ufa-town.ru/sport",
+    "https://ufa-town.ru/corona"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-list-section div.other-news",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "tag",
+      "selector": "p.sections-name a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "title",
+      "selector": "h3.other-news-name",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "date",
+      "selector": "p.news-date",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}

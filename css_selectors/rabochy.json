@@ -1,0 +1,55 @@
+{
+  "rootSelector": {
+    "id": "_root",
+    "uuid": "0"
+  },
+  "_id": "rabochy",
+  "startUrls": [
+    "https://rabochy-put.ru/news/",
+    "https://rabochy-put.ru/world_and_country/",
+    "https://rabochy-put.ru/society/",
+    "https://rabochy-put.ru/sport/",
+    "https://rabochy-put.ru/reklama/"
+  ],
+  "selectors": [
+    {
+      "id": "block",
+      "selector": "div.news-list div.block",
+      "type": "SelectorElement",
+      "multiple": true,
+      "parentSelectors": [
+        "0"
+      ],
+      "mergeIntoList": true,
+      "uuid": "1"
+    },
+    {
+      "id": "title",
+      "selector": "div.title a",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "2"
+    },
+    {
+      "id": "date",
+      "selector": "div.info",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "3"
+    },
+    {
+      "id": "short_text",
+      "selector": "div.description div:nth-of-type(2)",
+      "type": "SelectorText",
+      "parentSelectors": [
+        "1"
+      ],
+      "uuid": "4"
+    }
+  ],
+  "sitemapSpecificationVersion": 1
+}
