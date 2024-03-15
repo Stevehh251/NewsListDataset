@@ -61,7 +61,7 @@ def translate_html(html_str, translator, need_clean=True, from_code='auto', to_c
     return lxml.html.tostring(tree, doctype="<!DOCTYPE html>", encoding='unicode')
 
 
-async def translate_file(file_path, out_path):
+def translate_file(file_path, out_path):
     start = time.time()
     from_code = "ru"
     to_code = "en"
@@ -76,36 +76,29 @@ async def translate_file(file_path, out_path):
    
     ru, en = get_installed_languages()
     translator = en.get_translation(ru)
-    # try:
-    translated_node = {}
-    with open(file_path) as file:
-        info = json.load(file)
-    for label, value in info.items():
-        if label == "html":
-            translated_node["html"] = translate_html(value, translator)
-        elif label == "info":
-            result = []
-            for entity in value:
-                translated_entity = {}
-                for key, text in entity.items():
-                    if isinstance(text, Iterable):
-                        answer = []
-                        for i in text:
-                            trans = ru2en(i, translator)
-                            answer.append(trans)
-                        translated_entity[key] = answer
-                    else:
+    try:
+        translated_node = {}
+        with open(file_path) as file:
+            info = json.load(file)
+        for label, value in info.items():
+            if label == "html":
+                translated_node["html"] = translate_html(value, translator)
+            elif label == "info":
+                result = []
+                for entity in value:
+                    translated_entity = {}
+                    for key, text in entity.items():
                         translated_entity[key] = ru2en(text, translator)
-                    
-                    
-                result.append(translated_entity)
-            translated_node[label] = result
-        else:
-            translated_node[label] = value
+                        
+                        
+                    result.append(translated_entity)
+                translated_node[label] = result
+            else:
+                translated_node[label] = value
                 
-    # except Exception:
-    #     print("Cant translate\n")
-    #     return
+    except Exception:
+        print("Cant translate\n")
+        return
     
     filename = os.path.basename(file_path)
     with open(os.path.join(out_path, filename), "w", encoding="utf-8") as file:
@@ -138,10 +131,12 @@ async def main():
     
     tasks = []
     print(out_path)
+    
     for file_path in tqdm(file_to_translate):
         if file_path in translated_files:
             continue
-        task = asyncio.create_task(translate_file(file_path, out_path))
+        task = asyncio.to_thread(translate_file, file_path, out_path)
+        # task = asyncio.to_thread(translate_file(file_path, out_path))
         tasks.append(task)
         
     await asyncio.gather(*tasks)
