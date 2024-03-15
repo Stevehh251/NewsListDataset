@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "newslistdataset"
+version = "0.1.0"
+description = ""
+authors = ["Alexander Kustenkov <kustaa@ispras.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+lxml = "^5.1.0"
+tqdm = "^4.66.2"
+argostranslate = "^1.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
