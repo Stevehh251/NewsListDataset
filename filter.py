@@ -1,11 +1,19 @@
 import re
 import sys
+import os
+import shutil
+
+import numpy as np
 
 from tqdm import tqdm
 from glob import glob
 from collections import defaultdict
 from filter_intersection import filter_intersection
 from checkers import bs_checker
+from difflib import SequenceMatcher
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
 
 if __name__ == "__main__":
     # folder_path = sys.argv[1]
@@ -16,41 +24,81 @@ if __name__ == "__main__":
     good_filenames = set()
     
     # For app_example.com_86.json group name is app_example.com
-    filename_groups = defaultdict(list)
-    
-    for filename in filenames:
-        group_name = re.search(r'.*(?=_)', filename)
-        filename_groups[group_name[0]].append(filename)
-    
-    # Intersection filtration stage
-    before = 0
-    after = 0
-    for group_name in filename_groups.keys():
+    if (True):
+        filename_groups = defaultdict(list)
         
-        before += len(filename_groups[group_name])
-        try:
-            a = filter_intersection(filename_groups[group_name])
-            good_filenames = good_filenames.union(a)
-            after += len(a)
-        except Exception:
-            print(group_name)
+        for filename in filenames:
+            group_name = re.search(r'.*(?=_)', filename)
+            filename_groups[group_name[0]].append(filename)
         
+        # Intersection filtration stage
+        before = 0
+        after = 0
+        for group_name in filename_groups.keys():
+            
+            before += len(filename_groups[group_name])
+            try:
+                a = filter_intersection(filename_groups[group_name])
+                good_filenames = good_filenames.union(a)
+                after += len(a)
+            except Exception:
+                print(group_name)
         
-    
-    print(f"Was filtered (intersection): {before - after}")
-    print(f"After filtration (intersection) : {after}")
+        print(f"Was filtered (intersection): {before - after}")
+        print(f"After filtration (intersection) : {after}")
 
     # BS soup checker stage
-    before = 0
-    after = 0
-    to_filter = good_filenames.copy()
-    for filename in tqdm(to_filter):
-        before += 1
-        after += 1
-        if not bs_checker(filename) :
-            good_filenames.remove(filename)
-            after -= 1
+    if (False) :
+        before = 0
+        after = 0
+        to_filter = good_filenames.copy()
+        for filename in tqdm(to_filter):
+            before += 1
+            after += 1
+            if not bs_checker(filename) :
+                good_filenames.remove(filename)
+                after -= 1
+            
+        
+        print(f"Was filtered (BS checker): {before - after}")
+        print(f"After filtration (BS checker) : {after}")
+    
+    # Train / Test split
+    if (True):
+        similar_data = []
+        filename_groups = defaultdict(list)
+        
+        for filename in good_filenames:
+            group_name = re.search(r'.*(?=_)', filename)
+            filename_groups[group_name[0]].append(filename)
+        
+        all_pages = 0
+        
+        for first_domain in filename_groups.keys():
+            for second_domain in filename_groups.keys():
+            
+                first_domain_len = len(filename_groups[first_domain])
+                all_pages += first_domain_len
+                second_domain_len = len(filename_groups[second_domain])
+            
+                similar_data.append((similar(first_domain, second_domain),
+                                    first_domain_len + second_domain_len,
+                                    first_domain, second_domain))
+        
+        max_similar = 0.8
+        similar_data = list(filter(lambda x : 1.0 > x[0] > max_similar, similar_data))
+        similar_data = sorted(similar_data)[::2]
+        
+        print(*similar_data, sep='\n')
+        print(len(similar_data))
+
         
     
-    print(f"Was filtered (BS checker): {before - after}")
-    print(f"After filtration (BS checker) : {after}")
+    
+    
+    # os.mkdir("dataset")
+    
+    # for filename in good_filenames:
+    #     shutil.copyfile(filename, "dataset/" + filename)
+        
+    
