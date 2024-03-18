@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon clouds\"></div><div class=\"text\">-8 °C<br>Cool.</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-02-01/my-iz-belebeya-stalingrad-vragu-ne-sdadim-3626536\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 17:02</div></div><div class=\"title\">We're from Belbeya! Stalingrad will not surrender!</div></div></div></a><a href=\"/news/novosti/2024-02-01/prodleny-dopvyplaty-uchastnikam-svo-3626516\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February 16:50</div></div><div class=\"title\">SBS participants extended</div></div></div></a><a href=\"/news/novosti/2024-02-01/ezhednevno-zhiteli-respubliki-peredayut-moshennikam-po-10-18-millionov-rubley-3626505\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 16:48</div></div><div class=\"title\">Every day, the inhabitants of the Republic hand over 10 to 18 million rubles to fraudsters!</div></div></div></a><a href=\"/news/novosti/2024-02-01/v-odin-golos-sozdaetsya-ob-edinennyy-mediaholding-rossii-i-belorussii-3626497\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 16:41</div></div><div class=\"title\">One voice! Joint Russian and Belarusian media industry</div></div></div></a><a href=\"/news/novosti/2024-02-01/izvestno-zhiteli-kakih-gorodov-i-rayonov-bashkirii-chasche-usynovlyayut-detey-3625422\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February 11:12</div></div><div class=\"title\">The inhabitants of which towns and areas of Bashkiria are known to adopt children more often</div></div></div></a><a href=\"/news/novosti/2024-02-01/vsegda-pridut-na-pomosch-transportnye-politseyskie-pomogli-zhenschine-okazavsheysya-nochyu-v-lesu-3625395\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February 11:01</div></div><div class=\"title\">They'll always come to help: transport police helped a woman who went to the forest at night.</div></div></div></a><a href=\"/news/novosti/2024-02-01/pervyy-shag-k-trudoustroystvu-3625207\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 09:46</div></div><div class=\"title\">First step towards employment</div></div></div></a><a href=\"/news/novosti/2024-02-01/v-efire-prima-tv-3625164\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 09:43</div></div><div class=\"title\">On the Prima TV!</div></div></div></a><a href=\"/news/novosti/2024-02-01/poboryutsya-za-titul-pedagog-goda-doshkolnoy-obrazovatelnoy-organizatsii-respubliki-bashkortostan-3625156\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 09:41</div></div><div class=\"title\">Aimed for the title &amp;quot; Pre-school Education Organization of the Republic of Bashkortostan &amp;quot;</div></div></div></a><a href=\"/news/novosti/2024-01-31/chto-v-bashkirii-polozheno-semyam-s-detmi-v-2024-godu-3625019\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 22:57</div></div><div class=\"title\">What's in Bashkiria for families with children in 2024?</div></div></div></a><a href=\"/news/novosti/2024-01-31/ochen-koloritno-gosti-dnya-bashkirskogo-televideniya-v-moskve-ostalis-v-vostorge-ot-vystavki-3625982\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 5:00</div></div><div class=\"title\">&amp;quot; Very colorful &amp;quot; : The guests of the Day of Baskir Television in Moscow remained in love with the exhibition.</div></div></div></a><a href=\"/news/novosti/2024-01-31/na-trasse-m-5-ural-v-bashkirii-vvedeny-ogranicheniya-dvizheniya-3624655\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 4:00.</div></div><div class=\"title\">Traffic restrictions imposed on the M-5 route Ural in Bashkiria</div></div></div></a><a href=\"/news/novosti/2024-01-31/v-mezhvuzovskom-studencheskom-kampuse-gotovyatsya-k-otkrytiyu-laboratorii-bgmu-3624257\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 13:52</div></div><div class=\"title\">In the Inter-Vusian Student Campus, they are preparing for the opening of the BGMU laboratory.</div></div></div></a><a href=\"/news/novosti/2024-01-31/ekspert-rasskazal-kakim-dolzhen-byt-dohod-chtoby-vzyat-ipoteku-v-bashkirii-3624096\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 12:28</div></div><div class=\"title\">The expert told me what the income should be to take a mortgage in Bashkiria.</div></div></div></a><a href=\"/news/novosti/2024-01-31/biznesmen-iz-bashkirii-kupil-zabroshennye-fermy-i-sozdal-protsvetayuschee-hozyaystvo-3624089\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 12:24</div></div><div class=\"title\">Businessman from Bashkiria bought abandoned farms and created a prosperous economy</div></div></div></a><a href=\"/news/novosti/2024-01-31/kakie-zakony-vstupayut-v-silu-v-rossii-s-1-fevralya-2024-goda-3623938\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 11:00.</div></div><div class=\"title\">What laws have entered into force in Russia since 1 February 2024</div></div></div></a><a href=\"/news/novosti/2024-01-31/v-pyati-munitsipalitetah-bashkirii-zafiksirovali-ochen-nizkiy-uroven-rozhdaemosti-3623735\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">31 January, 9:30</div></div><div class=\"title\">In the five municipalities of Bashkiria, very low birth rates were recorded</div></div></div></a><a href=\"/news/novosti/2024-01-30/urfu-v-dvenadtsatyy-raz-priglashaet-shkolnikov-belebeya-pogruzitsya-v-studencheskuyu-zhizn-na-proekte-test-drayv-v-uralskom-federalnom-3623338\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">30 January 16:49</div></div><div class=\"title\">UrFU has been inviting the schoolchildren of Belébey to go to school for the 12th time on the West Drive Project in the Ural Federal.</div></div></div></a><a href=\"/news/novosti/2024-01-30/iskusstvom-pobezhdat-3623324\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">30 January 16:46</div></div><div class=\"title\">The Belebea artist received federal support for winning the Rosmodyz.Granta competition.</div></div></div></a><a href=\"/news/novosti/2024-01-30/patrioticheskiy-klassnyy-chas-v-shkole-2-g-belebeya-3623301\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">30 January 16:27</div></div><div class=\"title\">Patriotic class hour at Belbeya School No. 2.</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "We're from Belbeya! Stalingrad will not surrender!",
+            "date": "1 February, 17:02",
+            "tag": "News"
+        },
+        {
+            "title": "SBS participants extended",
+            "date": "1 February 16:50",
+            "tag": "News"
+        },
+        {
+            "title": "Every day, the inhabitants of the Republic hand over 10 to 18 million rubles to fraudsters!",
+            "date": "1 February, 16:48",
+            "tag": "News"
+        },
+        {
+            "title": "One voice! Joint Russian and Belarusian media industry",
+            "date": "1 February, 16:41",
+            "tag": "News"
+        },
+        {
+            "title": "The inhabitants of which towns and areas of Bashkiria are known to adopt children more often",
+            "date": "1 February 11:12",
+            "tag": "News"
+        },
+        {
+            "title": "They'll always come to help: transport police helped a woman who went to the forest at night.",
+            "date": "1 February 11:01",
+            "tag": "News"
+        },
+        {
+            "title": "First step towards employment",
+            "date": "1 February, 09:46",
+            "tag": "News"
+        },
+        {
+            "title": "On the Prima TV!",
+            "date": "1 February, 09:43",
+            "tag": "News"
+        },
+        {
+            "title": "Aimed for the title &quot; Pre-school Education Organization of the Republic of Bashkortostan &quot;",
+            "date": "1 February, 09:41",
+            "tag": "News"
+        },
+        {
+            "title": "What's in Bashkiria for families with children in 2024?",
+            "date": "31 January, 22:57",
+            "tag": "News"
+        },
+        {
+            "title": "&quot; Very colorful &quot; : The guests of the Day of Baskir Television in Moscow remained in love with the exhibition.",
+            "date": "31 January, 5:00",
+            "tag": "News"
+        },
+        {
+            "title": "Traffic restrictions imposed on the M-5 route Ural in Bashkiria",
+            "date": "31 January, 4:00.",
+            "tag": "News"
+        },
+        {
+            "title": "In the Inter-Vusian Student Campus, they are preparing for the opening of the BGMU laboratory.",
+            "date": "31 January, 13:52",
+            "tag": "News"
+        },
+        {
+            "title": "The expert told me what the income should be to take a mortgage in Bashkiria.",
+            "date": "31 January, 12:28",
+            "tag": "News"
+        },
+        {
+            "title": "Businessman from Bashkiria bought abandoned farms and created a prosperous economy",
+            "date": "31 January, 12:24",
+            "tag": "News"
+        },
+        {
+            "title": "What laws have entered into force in Russia since 1 February 2024",
+            "date": "31 January, 11:00.",
+            "tag": "News"
+        },
+        {
+            "title": "In the five municipalities of Bashkiria, very low birth rates were recorded",
+            "date": "31 January, 9:30",
+            "tag": "News"
+        },
+        {
+            "title": "UrFU has been inviting the schoolchildren of Belébey to go to school for the 12th time on the West Drive Project in the Ural Federal.",
+            "date": "30 January 16:49",
+            "tag": "News"
+        },
+        {
+            "title": "The Belebea artist received federal support for winning the Rosmodyz.Granta competition.",
+            "date": "30 January 16:46",
+            "tag": "News"
+        },
+        {
+            "title": "Patriotic class hour at Belbeya School No. 2.",
+            "date": "30 January 16:27",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1706819045006,
+    "domain": "belizvest.ru"
+}

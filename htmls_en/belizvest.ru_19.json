@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon snow\"></div><div class=\"text\">-4 °C<br>Snow</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-02-04/v-bashkirii-poyavilsya-besplatnyy-portal-dlya-pristroya-bezdomnyh-zhivotnyh-3629753\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">4 February, 21:38</div></div><div class=\"title\">Bashkiria has a free portal to build homeless animals.</div></div></div></a><a href=\"/news/novosti/2024-02-04/vnimanie-mchs-po-bashkirii-preduprezhdaet-o-neblagopriyatnoy-pogode-v-ponedelnik-5-fevralya-3629478\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">4 February, 15:44</div></div><div class=\"title\">Attention! MES Bashkiria warning of adverse weather on Monday 5 February</div></div></div></a><a href=\"/news/novosti/2024-02-04/chuvashskaya-gimnaziya-g-belebeya-prinimaet-uchastie-v-proekte-osnovannom-na-initsiativah-shkolnikov-3629439\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">4 February, 14:44</div></div><div class=\"title\">The Chuvash Himnasia of Bélebeya participates in a project based on school children &amp;apos; s initiatives</div></div></div></a><a href=\"/news/novosti/2024-02-04/zhitel-bashkirii-na-sebe-ispytal-simulyator-rodov-video-3629340\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">4 February, 12:06</div></div><div class=\"title\">Bashkiria suffered from the birth simulator (video)</div></div></div></a><a href=\"/news/novosti/2024-02-03/v-bashkirii-u-pozharnyh-poyavilsya-pushistyy-sosluzhivets-3629150\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">3 February, 20:53</div></div><div class=\"title\">In Bashkiria, the firemen had a furious co-worker.</div></div></div></a><a href=\"/news/novosti/2024-02-03/i-perezhival-vseh-li-upomyanul-3629098\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">3 February 18:19</div></div><div class=\"title\">... ♪ I was worried, \"Have you all mentioned it?\"</div></div></div></a><a href=\"/news/novosti/2024-02-03/lyzhnye-progulki-3629087\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">3 February 17:58</div></div><div class=\"title\">Liver walks</div></div></div></a><a href=\"/news/novosti/2024-02-03/v-bashkirii-goryaschaya-fura-zablokirovala-dvizhenie-na-trasse-3628820\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">3 February, 11:58</div></div><div class=\"title\">In Bashkiria, the burning fura blocked traffic on the track.</div></div></div></a><a href=\"/news/novosti/2024-02-02/retropoezd-parovoz-pobedy-priedet-v-bashkiriyu-s-tankami-t-34-3628565\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 2200</div></div><div class=\"title\">The Parovoz Luba retroroad will arrive in Bashkiria with T-34 tanks</div></div></div></a><a href=\"/news/novosti/2024-02-02/v-bashkortostane-dali-start-godu-semi-3628340\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 4:30</div></div><div class=\"title\">In Bashkortstan, they gave birth to the Year of the Family.</div></div></div></a><a href=\"/news/novosti/2024-02-02/s-1-sentyabrya-v-shkolah-bashkirii-vvedut-dva-novyh-predmeta-3628261\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 16:06</div></div><div class=\"title\">Since 1 September, two new subjects will be introduced in Bashkiria schools</div></div></div></a><a href=\"/news/novosti/2024-02-02/godu-semi-posvyaschaetsya-3628187\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February 14:13</div></div><div class=\"title\">A year of family is devoted!</div></div></div></a><a href=\"/news/novosti/2024-02-02/tsentr-prityazheniya-serdtse-shkoly-3627906\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 13:38</div></div><div class=\"title\">The attraction centre is the heart of the school</div></div></div></a><a href=\"/news/novosti/2024-02-02/pretenduyut-na-gospodderzhku-3627829\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 12:42</div></div><div class=\"title\">They're claiming dominance.</div></div></div></a><a href=\"/news/novosti/2024-02-02/ay-da-valenki-vesely-udalenki-3627477\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 10:52</div></div><div class=\"title\">\"Hey, vaginas, fun, distances!\"</div></div></div></a><a href=\"/news/novosti/2024-02-02/polezno-dlya-ekologii-i-semeynogo-byudzheta-3627191\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 09:55</div></div><div class=\"title\">Ecological and family budget useful</div></div></div></a><a href=\"/news/novosti/2024-02-02/nadezhdy-na-urozhay-horoshie-3627174\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 09:52</div></div><div class=\"title\">Hope for the harvest is good.</div></div></div></a><a href=\"/news/novosti/2024-02-02/v-bashkirii-moshenniki-ukrali-dengi-obmanuv-rebenka-3627128\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">2 February, 09:37</div></div><div class=\"title\">In Bashkiria, the fraudsters stole the money by lying the child.</div></div></div></a><a href=\"/news/novosti/2024-02-01/my-iz-belebeya-stalingrad-vragu-ne-sdadim-3626536\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February, 17:02</div></div><div class=\"title\">We're from Belbeya! Stalingrad will not surrender!</div></div></div></a><a href=\"/news/novosti/2024-02-01/prodleny-dopvyplaty-uchastnikam-svo-3626516\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">1 February 16:50</div></div><div class=\"title\">SBS participants extended</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "Bashkiria has a free portal to build homeless animals.",
+            "date": "4 February, 21:38",
+            "tag": "News"
+        },
+        {
+            "title": "Attention! MES Bashkiria warning of adverse weather on Monday 5 February",
+            "date": "4 February, 15:44",
+            "tag": "News"
+        },
+        {
+            "title": "The Chuvash Himnasia of Bélebeya participates in a project based on school children &apos; s initiatives",
+            "date": "4 February, 14:44",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiria suffered from the birth simulator (video)",
+            "date": "4 February, 12:06",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, the firemen had a furious co-worker.",
+            "date": "3 February, 20:53",
+            "tag": "News"
+        },
+        {
+            "title": "I was worried, \"Have you mentioned everything?\"",
+            "date": "3 February 18:19",
+            "tag": "News"
+        },
+        {
+            "title": "Liver walks",
+            "date": "3 February 17:58",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, the burning fura blocked traffic on the track.",
+            "date": "3 February, 11:58",
+            "tag": "News"
+        },
+        {
+            "title": "The Parovoz Luba retroroad will arrive in Bashkiria with T-34 tanks",
+            "date": "2 February, 2200",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkortstan, they gave birth to the Year of the Family.",
+            "date": "2 February, 4:30",
+            "tag": "News"
+        },
+        {
+            "title": "Since 1 September, two new subjects will be introduced in Bashkiria schools",
+            "date": "2 February, 16:06",
+            "tag": "News"
+        },
+        {
+            "title": "A year of family is devoted!",
+            "date": "2 February 14:13",
+            "tag": "News"
+        },
+        {
+            "title": "The attraction centre is the heart of the school",
+            "date": "2 February, 13:38",
+            "tag": "News"
+        },
+        {
+            "title": "They're claiming dominance.",
+            "date": "2 February, 12:42",
+            "tag": "News"
+        },
+        {
+            "title": "\"Hey, vaginas, fun, distances!\"",
+            "date": "2 February, 10:52",
+            "tag": "News"
+        },
+        {
+            "title": "Ecological and family budget useful",
+            "date": "2 February, 09:55",
+            "tag": "News"
+        },
+        {
+            "title": "Hope for the harvest is good.",
+            "date": "2 February, 09:52",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, the fraudsters stole the money by lying the child.",
+            "date": "2 February, 09:37",
+            "tag": "News"
+        },
+        {
+            "title": "We're from Belbeya! Stalingrad will not surrender!",
+            "date": "1 February, 17:02",
+            "tag": "News"
+        },
+        {
+            "title": "SBS participants extended",
+            "date": "1 February 16:50",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1707087681952,
+    "domain": "belizvest.ru"
+}

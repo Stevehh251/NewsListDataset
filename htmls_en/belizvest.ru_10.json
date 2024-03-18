@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon clouds\"></div><div class=\"text\">-10 °C<br>Cool.</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-01-26/v-edinom-poryve-3619328\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January 17:53</div></div><div class=\"title\">In Bashkiria, anyone who violates the law will be punished in full compliance with the law.</div></div></div></a><a href=\"/news/novosti/2024-01-26/yanvarskiy-grom-vozvestil-o-snyatii-blokady-3619167\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January 16:33</div></div><div class=\"title\">The Yanwar Grom has lifted the blockade</div></div></div></a><a href=\"/news/novosti/2024-01-26/domofony-ne-budut-zamenyatsya-3618836\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 14:34</div></div><div class=\"title\">Domphones won't be replaced!</div></div></div></a><a href=\"/news/novosti/2024-01-26/moshenniki-ne-dremlyut-3618649\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 13:31</div></div><div class=\"title\">The Russian Ministry of Internal Affairs staff of the Belébeyev region conducts interviews with employees of the city &amp;apos; s fraud prevention industry</div></div></div></a><a href=\"/news/novosti/2024-01-26/zhelanie-zarabotat-privelo-nesovershennoletnego-na-skamyu-podsudimyh-3618636\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 13:07</div></div><div class=\"title\">The wish to make money has led a minor to the bench of defendants.</div></div></div></a><a href=\"/news/novosti/2024-01-26/27-yanvarya-2024-goda-vsya-rossiya-otmetit-80-letie-so-dnya-polnogo-osvobozhdeniya-leningrada-ot-fashistskoy-blokady-3618595\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 12:49</div></div><div class=\"title\">27 January 2024 marks the fiftieth anniversary of the complete release of Leningrad from the fascist blockade.</div></div></div></a><a href=\"/news/novosti/2024-01-26/v-bashkirii-zhenschina-pohitila-lyubovnitsu-ottsa-3618581\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 12:42</div></div><div class=\"title\">In Bashkiria, a woman abducted her father's mistress</div></div></div></a><a href=\"/news/novosti/2024-01-26/preparaty-ot-raka-nachnut-razrabatyvat-v-bashkirii-3618558\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 12:29</div></div><div class=\"title\">Cancer prefects will start to develop in Bashkiria</div></div></div></a><a href=\"/news/novosti/2024-01-26/o-prieme-na-sluzhbu-v-otdel-mvd-rossii-po-belebeevskomu-rayonu-3618370\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January 11:15</div></div><div class=\"title\">Recruited to the Ministry of Internal Affairs Division for the Belébeyev region</div></div></div></a><a href=\"/news/novosti/2024-01-26/sinoptiki-bashkirii-soobschili-prognoz-pogody-na-vyhodnye-3618022\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January , 08:26</div></div><div class=\"title\">Bashkiri Synoptics reported weather forecasts for the weekend</div></div></div></a><a href=\"/news/novosti/2024-01-25/forum-upravdom-3617996\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January 23:36</div></div><div class=\"title\">&amp;quot; The rule of law &amp;quot; is a human friend</div></div></div></a><a href=\"/news/novosti/2024-01-25/duet-parafraz-poradoval-zriteley-3617993\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January 23:13</div></div><div class=\"title\">Paraphras was pleased by the viewers.</div></div></div></a><a href=\"/news/novosti/2024-01-25/ispolnili-detskuyu-mechtu-3617761\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 17:14</div></div><div class=\"title\">Fixed a childhood dream.</div></div></div></a><a href=\"/news/novosti/2024-01-25/segodnya-v-11-53-sotrudniki-gosavtoinspektsii-vsegda-pomogut-3617736\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 16:54</div></div><div class=\"title\">The staff of the State Inspectorate will always help!</div></div></div></a><a href=\"/news/novosti/2024-01-25/pomosch-ptitsam-zimoy-dobroe-delo-kazhdogo-3617432\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 14:54</div></div><div class=\"title\">Winter birds are good for everyone.</div></div></div></a><a href=\"/news/novosti/2024-01-25/v-moskve-na-forume-rodnye-lyubimye-prezident-poobschalsya-s-semyami-iz-raznyh-regionov-strany-3617239\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 13:23</div></div><div class=\"title\">In Moscow, at the Forum &amp;quot; Rodov-Love &amp;quot; , the President contacted families from different regions of the country.</div></div></div></a><a href=\"/news/novosti/2024-01-25/v-bashkirii-podrostok-brosilsya-pod-kolesa-avtomobilya-na-zebre-video-3617588\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">January 25, 12:30</div></div><div class=\"title\">In Bashkiria, a teenager fell under the wheels of a car on zebra (video)</div></div></div></a><a href=\"/news/novosti/2024-01-25/ezdit-bez-riska-3616830\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 11:03</div></div><div class=\"title\">Without risk</div></div></div></a><a href=\"/news/novosti/2024-01-25/vnimanie-moshenniki-3616734\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 10:28</div></div><div class=\"title\">Attention: frauds!</div></div></div></a><a href=\"/news/novosti/2024-01-25/ya-konechno-vernus-3616587\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January 09:44</div></div><div class=\"title\">“I will, of course, be back...”</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "In Bashkiria, anyone who violates the law will be punished in full compliance with the law.",
+            "date": "26 January 17:53",
+            "tag": "News"
+        },
+        {
+            "title": "The Yanwar Grom has lifted the blockade",
+            "date": "26 January 16:33",
+            "tag": "News"
+        },
+        {
+            "title": "Domphones won't be replaced!",
+            "date": "26 January, 14:34",
+            "tag": "News"
+        },
+        {
+            "title": "The Russian Ministry of Internal Affairs staff of the Belébeyev region conducts interviews with employees of the city &apos; s fraud prevention industry",
+            "date": "26 January, 13:31",
+            "tag": "News"
+        },
+        {
+            "title": "The wish to make money has led a minor to the bench of defendants.",
+            "date": "26 January, 13:07",
+            "tag": "News"
+        },
+        {
+            "title": "27 January 2024 marks the fiftieth anniversary of the complete release of Leningrad from the fascist blockade.",
+            "date": "26 January, 12:49",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, a woman abducted her father's mistress",
+            "date": "26 January, 12:42",
+            "tag": "News"
+        },
+        {
+            "title": "Cancer prefects will start to develop in Bashkiria",
+            "date": "26 January, 12:29",
+            "tag": "News"
+        },
+        {
+            "title": "Recruited to the Ministry of Internal Affairs Division for the Belébeyev region",
+            "date": "26 January 11:15",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiri Synoptics reported weather forecasts for the weekend",
+            "date": "26 January , 08:26",
+            "tag": "News"
+        },
+        {
+            "title": "&quot; The rule of law &quot; is a human friend",
+            "date": "25 January 23:36",
+            "tag": "News"
+        },
+        {
+            "title": "Paraphras was pleased by the viewers.",
+            "date": "25 January 23:13",
+            "tag": "News"
+        },
+        {
+            "title": "Fixed a childhood dream.",
+            "date": "25 January, 17:14",
+            "tag": "News"
+        },
+        {
+            "title": "The staff of the State Inspectorate will always help!",
+            "date": "25 January, 16:54",
+            "tag": "News"
+        },
+        {
+            "title": "Winter birds are good for everyone.",
+            "date": "25 January, 14:54",
+            "tag": "News"
+        },
+        {
+            "title": "In Moscow, at the Forum &quot; Rodov-Love &quot; , the President contacted families from different regions of the country.",
+            "date": "25 January, 13:23",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, a teenager fell under the wheels of a car on zebra (video)",
+            "date": "January 25, 12:30",
+            "tag": "News"
+        },
+        {
+            "title": "Without risk",
+            "date": "25 January, 11:03",
+            "tag": "News"
+        },
+        {
+            "title": "Attention: frauds!",
+            "date": "25 January, 10:28",
+            "tag": "News"
+        },
+        {
+            "title": "“I will, of course, be back...”",
+            "date": "25 January 09:44",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1706283036576,
+    "domain": "belizvest.ru"
+}

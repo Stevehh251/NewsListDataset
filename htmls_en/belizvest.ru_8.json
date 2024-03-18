@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon clear\"></div><div class=\"text\">-17 °C<br>Okay.</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-01-24/kto-ne-byl-studentom-tomu-ne-ponyat-3615974\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January 16:21</div></div><div class=\"title\">25 January - Russian student day</div></div></div></a><a href=\"/news/novosti/2024-01-24/i-vnov-yanvar-i-snova-den-tatyany-3615959\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January 16:15</div></div><div class=\"title\">&amp;quot; Again January and again Tatiana Day &amp;quot;</div></div></div></a><a href=\"/news/novosti/2024-01-24/emir-paydem-predstavit-bashkiriyu-na-proekte-luchshe-vseh-3615761\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 14:56</div></div><div class=\"title\">Emir Paimet introduced Bashkiria to the &amp;quot; Best of All &amp;quot; project</div></div></div></a><a href=\"/news/novosti/2024-01-24/belebeevets-izbil-montirovkoy-druga-3615691\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 14:33</div></div><div class=\"title\">Belébeyevez beat a friend</div></div></div></a><a href=\"/news/novosti/2024-01-24/rabotu-dvigatelya-vnutrennego-sgoraniya-modeliruyut-v-mezhvuzovskom-kampuse-ufy-3615662\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 14:26</div></div><div class=\"title\">The internal combustion engine is modelled in the Inter-UfA cluster</div></div></div></a><a href=\"/news/novosti/2024-01-24/v-bashkirii-provoditsya-massovaya-proverka-schyotchikov-gvs-3615601\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 13:43</div></div><div class=\"title\">In Bashkiria, a mass inspection of the EMU counters is carried out</div></div></div></a><a href=\"/news/novosti/2024-01-24/pokormite-ptits-zimoy-3615242\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January 11:05</div></div><div class=\"title\">Feed the birds in winter.</div></div></div></a><a href=\"/news/novosti/2024-01-24/prezident-rossii-vladimir-putin-teplo-otozvalsya-o-semie-iz-bashkirii-i-samoy-respublike-3615197\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 10:45</div></div><div class=\"title\">The President of Russia, Vladimir Putin, warmly withdrew the family from Bashkiria and the republic itself.</div></div></div></a><a href=\"/news/novosti/2024-01-24/kor-koklyush-parakoklyush-v-minzdrave-bashkirii-rasskazali-chem-opasny-detskie-infektsii-kak-ih-vyyavit-i-kak-izbezhat-zarazheniya-3615108\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 10:09</div></div><div class=\"title\">Kory, Coke, Paraklusch: In the Minds of Bashkiria, the dangerous &amp;quot; childhood &amp;quot; infections were described as identifying them and how to avoid contamination.</div></div></div></a><a href=\"/news/novosti/2024-01-24/eksperty-rasskazali-na-kakie-kvartiry-seychas-upali-tseny-v-bashkirii-3615103\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 10:06</div></div><div class=\"title\">The experts told me which apartments were now falling in Bashkiria.</div></div></div></a><a href=\"/news/novosti/2024-01-24/v-bashkirii-proizoshel-neschastnyy-sluchay-so-stroitelyami-3615225\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 09:55</div></div><div class=\"title\">There was an accident in Bashkiria with construction workers.</div></div></div></a><a href=\"/news/novosti/2024-01-24/sinoptiki-bashkirii-rasskazali-kakoy-budet-pogoda-v-blizhayshie-dni-3614918\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January 08:27</div></div><div class=\"title\">Bashkiria's synoptics have told me what the weather will be in the coming days.</div></div></div></a><a href=\"/news/novosti/2024-01-23/mnogodetnaya-semya-novye-mery-podderzhki-3614719\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January 18:27</div></div><div class=\"title\">Multi-child family: new support measures</div></div></div></a><a href=\"/news/novosti/2024-01-23/idei-shkolnikov-dostoyny-podderzhki-3614682\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January 17:53</div></div><div class=\"title\">Schoolchildren &amp;apos; s ideas are worthy of support</div></div></div></a><a href=\"/news/novosti/2024-01-23/moshenniki-poluchili-dostup-k-gosuslugam-ufimtsa-pod-vidom-pochtalonov-3614543\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January 16:11</div></div><div class=\"title\">The fraudsters have access to the Gusszlogs of the postman.</div></div></div></a><a href=\"/news/novosti/2024-01-23/stend-bashkirii-v-moskve-ukrasil-art-ob-ekt-v-vide-natsionalnogo-golovnogo-ubora-3614420\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January, 15:26</div></div><div class=\"title\">Stand Bashkiria in Moscow painted an art object as a national head cleaner.</div></div></div></a><a href=\"/news/novosti/2024-01-23/andrey-nazarov-proveril-gotovnost-mezhvuzovskogo-kampusa-k-priemu-rezidentov-3614411\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January, 15:24</div></div><div class=\"title\">Andrei Nazarov checked the readiness of the Inter-Uzov campus to receive the resident</div></div></div></a><a href=\"/news/novosti/2024-01-23/v-bashkirii-za-dva-proshlyh-goda-otremontirovali-140-shkol-3614377\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January, 15:08</div></div><div class=\"title\">In Bashkiria, 140 schools have been rehabilitated in the past two years</div></div></div></a><a href=\"/news/novosti/2024-01-23/v-bashkirii-voditel-lihach-pogubil-suprugu-3614153\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January, 13:35</div></div><div class=\"title\">In Bashkiria, the driver killed his wife.</div></div></div></a><a href=\"/news/novosti/2024-01-23/v-bashkirii-u-semeynoy-pary-s-ovz-rodilsya-zdorovyy-rebyonok-3614143\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January, 13:25</div></div><div class=\"title\">In Bashkiria, a healthy child was born to a family couple with an OVC.</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "25 January - Russian student day",
+            "date": "24 January 16:21",
+            "tag": "News"
+        },
+        {
+            "title": "&quot; Again January and again Tatiana Day &quot;",
+            "date": "24 January 16:15",
+            "tag": "News"
+        },
+        {
+            "title": "Emir Paimet introduced Bashkiria to the &quot; Best of All &quot; project",
+            "date": "24 January, 14:56",
+            "tag": "News"
+        },
+        {
+            "title": "Belébeyevez beat a friend",
+            "date": "24 January, 14:33",
+            "tag": "News"
+        },
+        {
+            "title": "The internal combustion engine is modelled in the Inter-UfA cluster",
+            "date": "24 January, 14:26",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, a mass inspection of the EMU counters is carried out",
+            "date": "24 January, 13:43",
+            "tag": "News"
+        },
+        {
+            "title": "Feed the birds in winter.",
+            "date": "24 January 11:05",
+            "tag": "News"
+        },
+        {
+            "title": "The President of Russia, Vladimir Putin, warmly withdrew the family from Bashkiria and the republic itself.",
+            "date": "24 January, 10:45",
+            "tag": "News"
+        },
+        {
+            "title": "Kory, Coke, Paraklusch: In the Minds of Bashkiria, the dangerous &quot; childhood &quot; infections were described as identifying them and how to avoid contamination.",
+            "date": "24 January, 10:09",
+            "tag": "News"
+        },
+        {
+            "title": "The experts told me which apartments were now falling in Bashkiria.",
+            "date": "24 January, 10:06",
+            "tag": "News"
+        },
+        {
+            "title": "There was an accident in Bashkiria with construction workers.",
+            "date": "24 January, 09:55",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiria's synoptics have told me what the weather will be in the coming days.",
+            "date": "24 January 08:27",
+            "tag": "News"
+        },
+        {
+            "title": "Multi-child family: new support measures",
+            "date": "23 January 18:27",
+            "tag": "News"
+        },
+        {
+            "title": "Schoolchildren &apos; s ideas are worthy of support",
+            "date": "23 January 17:53",
+            "tag": "News"
+        },
+        {
+            "title": "The fraudsters have access to the Gusszlogs of the postman.",
+            "date": "23 January 16:11",
+            "tag": "News"
+        },
+        {
+            "title": "Stand Bashkiria in Moscow painted an art object as a national head cleaner.",
+            "date": "23 January, 15:26",
+            "tag": "News"
+        },
+        {
+            "title": "Andrei Nazarov checked the readiness of the Inter-Uzov campus to receive the resident",
+            "date": "23 January, 15:24",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, 140 schools have been rehabilitated in the past two years",
+            "date": "23 January, 15:08",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, the driver killed his wife.",
+            "date": "23 January, 13:35",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, a healthy child was born to a family couple with an OVC.",
+            "date": "23 January, 13:25",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1706104478422,
+    "domain": "belizvest.ru"
+}

@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon clear\"></div><div class=\"text\">-15 °C<br>Okay.</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-02-21/moshenniki-ispolzuyut-videosvyaz-3653035\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 15:37</div></div><div class=\"title\">The fraudsters use videos</div></div></div></a><a href=\"/news/novosti/2024-02-21/dva-nezabyvaemyh-dnya-v-stolitse-3653028\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 15:28</div></div><div class=\"title\">Two unforgettable days in the capital</div></div></div></a><a href=\"/news/novosti/2024-02-21/sobirali-vsem-kollektivom-3653005\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 15:26</div></div><div class=\"title\">Gathered to the whole team.</div></div></div></a><a href=\"/news/novosti/2024-02-21/s-lyubovyu-k-rodnomu-yazyku-3652999\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 15:20</div></div><div class=\"title\">Love to your mother tongue</div></div></div></a><a href=\"/news/novosti/2024-02-21/sinoptiktar-byyyl-ya-bash-ortostanda-by-asa-bulma-an-tash-yn-ha-ynda-i-k-rt-3652612\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 12:52</div></div><div class=\"title\">“Every guy's a bell warrior.\"</div></div></div></a><a href=\"/news/novosti/2024-02-21/v-bashkirii-ustanovlena-novaya-edinovremennaya-vyplata-3652219\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 10:29</div></div><div class=\"title\">A new lump-sum payment has been established in Bashkiria</div></div></div></a><a href=\"/news/novosti/2024-02-21/v-2023-godu-v-bashkortostane-proizveli-2-mln-tonn-pischevoy-produktsii-3652117\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 09:41</div></div><div class=\"title\">In 2023, 2 million tons of food were produced in Bashkortstan</div></div></div></a><a href=\"/news/novosti/2024-02-21/poslanie-budet-ozvucheno-3652089\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 09:29</div></div><div class=\"title\">The message will be delivered.</div></div></div></a><a href=\"/news/novosti/2024-02-21/teoriya-pyati-rukopozhatiy-pomogla-spasti-dedushku-otshelnika-iz-bashkirii-3652064\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">21 February, 09:18</div></div><div class=\"title\">Theory of the five handshakes helped save the Baskiri's grandfather.</div></div></div></a><a href=\"/news/novosti/2024-02-20/v-bashkirskom-vuze-sozdayut-kultury-s-tsennymi-bioaktivnymi-veschestvami-3651799\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February 20:04</div></div><div class=\"title\">In the Bashkiru, crops with valuable bioactive substances are being created</div></div></div></a><a href=\"/news/novosti/2024-02-20/bashkirskiy-disko-v-respublike-sdelali-kaver-na-superhit-iz-interneta-video-3651701\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 18:23</div></div><div class=\"title\">Bashir disco: in Belbeit, they made a superhero on the Internet (video)</div></div></div></a><a href=\"/news/novosti/2024-02-20/tak-i-dolzhny-stroitsya-nashi-otnosheniya-s-bratyami-belorusami-3651467\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 16:29</div></div><div class=\"title\">&amp;quot; That is what our relationship with the Belarusian brothers should be. &amp;quot;</div></div></div></a><a href=\"/news/novosti/2024-02-20/malym-po-bolshe-3651417\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 16:05</div></div><div class=\"title\">Small, more.</div></div></div></a><a href=\"/news/novosti/2024-02-20/podderzhat-rossiyskie-semi-3651393\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 4:00.</div></div><div class=\"title\">Support Russian families</div></div></div></a><a href=\"/news/novosti/2024-02-20/o-pape-s-lyubovyu-3652140\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 4:00.</div></div><div class=\"title\">My dad is with love.</div></div></div></a><a href=\"/news/novosti/2024-02-20/zdravstvuy-soldat-zhdem-tebya-s-pobedoy-3651357\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 15:46</div></div><div class=\"title\">Hello, soldier! We're waiting for you to win!</div></div></div></a><a href=\"/news/novosti/2024-02-20/zhiteley-bashkirii-zhdet-ochen-zharkoe-leto-3651012\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February 13:05</div></div><div class=\"title\">The people of Bashkiria are waiting for a very hot summer.</div></div></div></a><a href=\"/news/novosti/2024-02-20/v-bashkirii-pozharnyy-spas-zhenschinu-sluchayno-okazavshis-ryadom-3650999\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 12:56</div></div><div class=\"title\">In Bashkiria, a firefighter rescued a woman by accident.</div></div></div></a><a href=\"/news/novosti/2024-02-20/obespechit-rost-dohodov-grazhdan-3650851\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 12:00</div></div><div class=\"title\">Raising income of citizens</div></div></div></a><a href=\"/news/novosti/2024-02-20/belebeevskim-bokseram-net-ravnyh-3650702\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 February, 10:42</div></div><div class=\"title\">Belebeev boxers are not equal.</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "The fraudsters use videos",
+            "date": "21 February, 15:37",
+            "tag": "News"
+        },
+        {
+            "title": "Two unforgettable days in the capital",
+            "date": "21 February, 15:28",
+            "tag": "News"
+        },
+        {
+            "title": "Gathered to the whole team.",
+            "date": "21 February, 15:26",
+            "tag": "News"
+        },
+        {
+            "title": "Love to your mother tongue",
+            "date": "21 February, 15:20",
+            "tag": "News"
+        },
+        {
+            "title": "“Every guy's a bell warrior.\"",
+            "date": "21 February, 12:52",
+            "tag": "News"
+        },
+        {
+            "title": "A new lump-sum payment has been established in Bashkiria",
+            "date": "21 February, 10:29",
+            "tag": "News"
+        },
+        {
+            "title": "In 2023, 2 million tons of food were produced in Bashkortstan",
+            "date": "21 February, 09:41",
+            "tag": "News"
+        },
+        {
+            "title": "The message will be delivered.",
+            "date": "21 February, 09:29",
+            "tag": "News"
+        },
+        {
+            "title": "Theory of the five handshakes helped save the Baskiri's grandfather.",
+            "date": "21 February, 09:18",
+            "tag": "News"
+        },
+        {
+            "title": "In the Bashkiru, crops with valuable bioactive substances are being created",
+            "date": "20 February 20:04",
+            "tag": "News"
+        },
+        {
+            "title": "Bashir disco: in Belbeit, they made a superhero on the Internet (video)",
+            "date": "20 February, 18:23",
+            "tag": "News"
+        },
+        {
+            "title": "&quot; That is what our relationship with the Belarusian brothers should be. &quot;",
+            "date": "20 February, 16:29",
+            "tag": "News"
+        },
+        {
+            "title": "Small, more.",
+            "date": "20 February, 16:05",
+            "tag": "News"
+        },
+        {
+            "title": "Support Russian families",
+            "date": "20 February, 4:00.",
+            "tag": "News"
+        },
+        {
+            "title": "My dad is with love.",
+            "date": "20 February, 4:00.",
+            "tag": "News"
+        },
+        {
+            "title": "Hello, soldier! We're waiting for you to win!",
+            "date": "20 February, 15:46",
+            "tag": "News"
+        },
+        {
+            "title": "The people of Bashkiria are waiting for a very hot summer.",
+            "date": "20 February 13:05",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, a firefighter rescued a woman by accident.",
+            "date": "20 February, 12:56",
+            "tag": "News"
+        },
+        {
+            "title": "Raising income of citizens",
+            "date": "20 February, 12:00",
+            "tag": "News"
+        },
+        {
+            "title": "Belebeev boxers are not equal.",
+            "date": "20 February, 10:42",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1708515640032,
+    "domain": "belizvest.ru"
+}

@@ -1,0 +1,108 @@
+{
+    "url": "https://svetput.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>Light</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div><div class=\"bnr-container mb-0\"><div title=\"fullscreen\" class=\"html-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">Light</a><div class=\"weather ml-auto mr-3\"><div class=\"icon snow\"></div><div class=\"text\">-10 °C<br>Snow</div></div><a href=\"https://svetput.ru/articles/antiterror/2021-11-25/antiterror-2596612\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-01-29/kakie-zakony-vstupayut-v-silu-v-fevrale-2024-goda-3620564\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">29 January, 09:16</div></div><div class=\"title\">Which laws enter into force in February 2024</div></div></div></a><a href=\"/news/novosti/2024-01-29/putin-i-lukashenko-obsudyat-razvitie-soyuznogo-gosudarstva-3620552\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">29 January 09:08</div></div><div class=\"title\">Putin and Lukashenko will discuss the development of the Federal State</div></div></div></a><a href=\"/news/novosti/2024-01-26/v-mezhvuzovskom-kampuse-ufy-uchenye-bgmu-nachnut-razrabatyvat-preparaty-ot-raka-3618697\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 13:58</div></div><div class=\"title\">In the Inter-Ufa Campus, Scholars will begin to develop cancer drugs</div></div></div></a><a href=\"/news/novosti/2024-01-26/nakanune-v-gosavtoinspektsii-bashkortostana-podveli-itogi-deyatelnosti-za-2023god-3618084\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 09:15</div></div><div class=\"title\">On the eve of the Bashkortostan State Inspectorate summarized the 2023 year performance.</div></div></div></a><a href=\"/news/novosti/2024-01-26/putin-anonsiroval-povyshenie-mrot-v-2024-godu-3618074\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 January, 09:07</div></div><div class=\"title\">Putin denounced the increase of the ITL in 2024</div></div></div></a><a href=\"/news/novosti/2024-01-25/v-nebe-nad-bashkiriey-proizoydyot-soedinenie-dvuh-planet-3617418\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 14:52</div></div><div class=\"title\">In the sky, two planets will be connected over Bashkiri</div></div></div></a><a href=\"/news/novosti/2024-01-25/bashkiriya-voshla-v-chislo-finalistov-premii-russian-travel-awards-3617413\" class=\"item item\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 14:51</div></div><div class=\"title\">Bashkiria became the finalists of the Travel Awards Prize.</div></div></a><a href=\"/news/novosti/2024-01-25/bashkiriyu-zhdet-nebolshoe-poteplenie-i-sneg-3616506\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 09:16</div></div><div class=\"title\">Bashkiri is waiting for a little warming and snow.</div></div></div></a><a href=\"/news/novosti/2024-01-25/putin-otkryl-god-semi-v-rossii-3616505\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">25 January, 09:13</div></div><div class=\"title\">Putin opened the Year of the Family in Russia</div></div></div></a><a href=\"/news/novosti/2024-01-24/vladimir-putin-podpisal-ukaz-o-merah-sotsialnoy-podderzhki-mnogodetnyh-semey-3615790\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 15:12</div></div><div class=\"title\">Vladimir Putin signed a decree on social support for large families</div></div></div></a><a href=\"/news/novosti/2024-01-24/v-rossii-uprostili-poluchenie-vycheta-za-fizkulturnye-uslugi-3614966\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January, 09:12</div></div><div class=\"title\">In Russia, it has been easier to obtain deductions for physical education services</div></div></div></a><a href=\"/news/novosti/2024-01-24/prezident-rossii-priznalsya-v-lyubvi-k-bashkirii-3614956\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">24 January 09:09</div></div><div class=\"title\">The President of Russia admitted to love for Bashkiria.</div></div></div></a><a href=\"/news/novosti/2024-01-23/bizhbulyakskiy-rayon-posetil-sovetnik-glavy-respubliki-bashkortostan-alik-kamaletdinov-3613569\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January 09:36</div></div><div class=\"title\">The Bijbulayak district was visited by an adviser to the Head of the Republic of Bashkortostan Alik Kamaletdinov</div></div></div></a><a href=\"/news/novosti/2024-01-23/v-bashkirii-skorrektirovali-ukaz-o-grantah-molodym-selskim-uchitelyam-3613560\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January, 09:31</div></div><div class=\"title\">In Bashkiria, the decree on grants to young rural teachers was amended</div></div></div></a><a href=\"/news/novosti/2024-01-23/prezident-rf-pozdravit-59-zhiteley-bashkirii-s-80-letiem-snyatiya-blokady-leningrada-3613485\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">23 January 09:05</div></div><div class=\"title\">The President of the Russian Federation will congratulate the 59 residents of Bashiriyah on the 80th anniversary of the lifting of the Leningrad blockade.</div></div></div></a><a href=\"/news/novosti/2024-01-22/putin-23-yanvarya-primet-uchastie-v-meropriyatii-na-aes-el-dabaa-3611726\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">22 January, 09:07</div></div><div class=\"title\">Putin will take part in an event at Al-Dabaa EPP on 23 January.</div></div></div></a><a href=\"/news/novosti/2024-01-20/molodogvardeytsy-s-bizhbulyak-sovmestno-s-semyami-izgotovili-blindazhnye-svechi-3610726\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 January, 15:12</div></div><div class=\"title\">The young guards with Bijbuljak together with their families, made pancake candles</div></div></div></a><a href=\"/news/novosti/2024-01-20/na-trasse-m-5-ural-v-bashkirii-snyali-ogranicheniya-dvizheniya-avtomobiley-3610722\" class=\"item item\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 January 15:05</div></div><div class=\"title\">On the M-5 track, Ural in Bashkiria lifted the vehicle traffic restrictions</div></div></a><a href=\"/news/novosti/2024-01-20/putin-zayavil-o-podderzhke-dvizheniya-neprisoedineniya-3610721\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">20 January, 3:00.</div></div><div class=\"title\">Putin expressed support for the Non-Aligned Movement</div></div></div></a><a href=\"/news/novosti/2024-01-19/v-s-kenger-meneuz-proshla-ekologicheska-aktsiya-nakormi-ptits-zimoy-3609727\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">19 January, 14:06</div></div><div class=\"title\">In Kenger Menesus, there was a green action by the Zim birds.</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div><div class=\"mb-8\"><div class=\"block-title\">Selection of wording</div><div class=\"matter-grid\"><a href=\"/articles/common_material/2022-12-09/kak-pravilno-vstretit-god-krolika-kota-3063949\" class=\"item item __see-also\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">General articles</div><div class=\"cm-date\">9 December 2022, 10:00</div></div><div class=\"title\">It's a good year for Crawlic.</div></div></div></a><a href=\"/articles/common_material/2022-12-09/moloda-dushoy-3063815\" class=\"item item __see-also\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">General articles</div><div class=\"cm-date\">9 December 2022, 09:21</div></div><div class=\"title\">Young soul</div></div></div></a><a href=\"/articles/common_material/2022-12-08/pervaya-lyubov-dlitsya-polveka-3062393\" class=\"item item __see-also\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">General articles</div><div class=\"cm-date\">8 December 2022, 11:03</div></div><div class=\"title\">The first love lasts half a century.</div></div></div></a></div></div></div></div></div><div class=\"footer\"><div><div class=\"container __2\"><div>2020 Light Route Copies of the site are only authorized with the written consent of the Administration.</div><div class=\"contacts\"><div><b>Telephone</b><div>8(34743) 2-11-92</div></div><div><b>Address</b><div>452040, RB, Bijbulayak district, S. Bijbulak, Ula Soviet, 31</div></div><div><b>Advertising service</b><div>8(34743) 2-12-83</div></div><div><b>Editorial</b><div>8(34743) 2-11-92</div></div><div><b>Receivable</b><div>8(34743) 2-12-82</div></div><div><b>Personnel Division</b><div>8(34743) 2-12-83</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44932975\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44932975/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "Which laws enter into force in February 2024",
+            "date": "29 January, 09:16",
+            "tag": "News"
+        },
+        {
+            "title": "Putin and Lukashenko will discuss the development of the Federal State",
+            "date": "29 January 09:08",
+            "tag": "News"
+        },
+        {
+            "title": "In the Inter-Ufa Campus, Scholars will begin to develop cancer drugs",
+            "date": "26 January, 13:58",
+            "tag": "News"
+        },
+        {
+            "title": "On the eve of the Bashkortostan State Inspectorate summarized the 2023 year performance.",
+            "date": "26 January, 09:15",
+            "tag": "News"
+        },
+        {
+            "title": "Putin denounced the increase of the ITL in 2024",
+            "date": "26 January, 09:07",
+            "tag": "News"
+        },
+        {
+            "title": "In the sky, two planets will be connected over Bashkiri",
+            "date": "25 January, 14:52",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiria became the finalists of the Travel Awards Prize.",
+            "date": "25 January, 14:51",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiri is waiting for a little warming and snow.",
+            "date": "25 January, 09:16",
+            "tag": "News"
+        },
+        {
+            "title": "Putin opened the Year of the Family in Russia",
+            "date": "25 January, 09:13",
+            "tag": "News"
+        },
+        {
+            "title": "Vladimir Putin signed a decree on social support for large families",
+            "date": "24 January, 15:12",
+            "tag": "News"
+        },
+        {
+            "title": "In Russia, it has been easier to obtain deductions for physical education services",
+            "date": "24 January, 09:12",
+            "tag": "News"
+        },
+        {
+            "title": "The President of Russia admitted to love for Bashkiria.",
+            "date": "24 January 09:09",
+            "tag": "News"
+        },
+        {
+            "title": "The Bijbulayak district was visited by an adviser to the Head of the Republic of Bashkortostan Alik Kamaletdinov",
+            "date": "23 January 09:36",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, the decree on grants to young rural teachers was amended",
+            "date": "23 January, 09:31",
+            "tag": "News"
+        },
+        {
+            "title": "The President of the Russian Federation will congratulate the 59 residents of Bashiriyah on the 80th anniversary of the lifting of the Leningrad blockade.",
+            "date": "23 January 09:05",
+            "tag": "News"
+        },
+        {
+            "title": "Putin will take part in an event at Al-Dabaa EPP on 23 January.",
+            "date": "22 January, 09:07",
+            "tag": "News"
+        },
+        {
+            "title": "The young guards with Bijbuljak together with their families, made pancake candles",
+            "date": "20 January, 15:12",
+            "tag": "News"
+        },
+        {
+            "title": "On the M-5 track, Ural in Bashkiria lifted the vehicle traffic restrictions",
+            "date": "20 January 15:05",
+            "tag": "News"
+        },
+        {
+            "title": "Putin expressed support for the Non-Aligned Movement",
+            "date": "20 January, 3:00.",
+            "tag": "News"
+        },
+        {
+            "title": "In Kenger Menesus, there was a green action by the Zim birds.",
+            "date": "19 January, 14:06",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1706550674200,
+    "domain": "svetput.ru"
+}

@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon clear\"></div><div class=\"text\">-26 °C<br>Okay.</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2024-02-15/k-pobede-vmeste-3644459\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">15 February, 10:30</div></div><div class=\"title\">To victory together!</div></div></div></a><a href=\"/news/novosti/2024-02-14/daryaschie-nadezhdu-na-istselenie-3643724\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February 16:13</div></div><div class=\"title\">Enduring hope</div></div></div></a><a href=\"/news/novosti/2024-02-14/kak-uznat-o-tom-chto-tvoyu-nedvizhimost-vzyali-v-oborot-3643159\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February 12:45</div></div><div class=\"title\">How do you know that your real estate has been in circulation?</div></div></div></a><a href=\"/news/novosti/2024-02-14/desyatiletnyaya-voyna-vstrecha-gimnazistov-i-veteranov-afganistana-3643110\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February, 12:18</div></div><div class=\"title\">Ten-Year War: Meeting of Afghan Himnasists and Veterans</div></div></div></a><a href=\"/news/novosti/2024-02-14/ne-professiya-vybiraet-cheloveka-a-chelovek-professiyu-3643058\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February, 11:48</div></div><div class=\"title\">&amp;quot; A person is chosen without profession and a person is a profession &amp;quot;</div></div></div></a><a href=\"/news/novosti/2024-02-14/s-lopatoy-v-rukah-protiv-stihii-3642820\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February 10:44</div></div><div class=\"title\">With a shovel in hand against the poem</div></div></div></a><a href=\"/news/novosti/2024-02-14/sretenie-eto-vstrecha-3642715\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February 10:04</div></div><div class=\"title\">The dream is a meeting.</div></div></div></a><a href=\"/news/novosti/2024-02-14/48-letney-zhenschine-moshenniki-nagadali-na-kartah-pochti-na-900-tysyach-rubley-3642681\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February, 09:53</div></div><div class=\"title\">48-year-old female fraudsters, known for almost 900,000 roubles</div></div></div></a><a href=\"/news/novosti/2024-02-14/v-rossii-hotyat-zamenit-14-fevralya-na-drugoy-prazdnik-3644016\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">14 February 09:05</div></div><div class=\"title\">Russia wants to replace 14 February with another holiday</div></div></div></a><a href=\"/news/novosti/2024-02-13/v-bashkirii-17-fevralya-startuyut-podomovye-i-pokvartirnye-obhody-naseleniya-3642405\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 20:33</div></div><div class=\"title\">In Bashkiria, on 17 February, submarine and residential rounds began</div></div></div></a><a href=\"/news/novosti/2024-02-13/za-god-v-bashkirii-otmechen-znachitelnyy-rost-proizvodstva-rastitelnyh-masel-3642245\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 17:23</div></div><div class=\"title\">In Bashkiria, production of vegetable oils increased significantly over the year</div></div></div></a><a href=\"/news/novosti/2024-02-13/v-bashkirii-robot-zamenil-patsientu-kolennyy-sustav-3642220\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 17:05</div></div><div class=\"title\">In Bashkiria, the robot replaced the patient with a knee joint</div></div></div></a><a href=\"/news/novosti/2024-02-13/vybory-2024-otkroyte-dver-obhodchiku-3641665\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 12:27</div></div><div class=\"title\">Election 2024: open the door to the door.</div></div></div></a><a href=\"/news/novosti/2024-02-13/v-bashkirii-zhenschina-vsyu-noch-provela-v-zimnem-lesu-v-noch-na-13-fevralya-3641592\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 11:57</div></div><div class=\"title\">In Bashkiria, a woman spent the night in the winter forest. On the night of 13 February</div></div></div></a><a href=\"/news/novosti/2024-02-13/v-2024-godu-v-bashkirii-blagoustroyat-123-obschestvennye-territorii-3641511\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February 11:31</div></div><div class=\"title\">In 2024, 123 public territories will benefit in Bashkiria.</div></div></div></a><a href=\"/news/novosti/2024-02-13/student-zabral-u-belebeevskoy-pensionerki-krupnuyu-summu-deneg-3641400\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 10:41</div></div><div class=\"title\">The student took a large amount of money from the Belebei pensioner.</div></div></div></a><a href=\"/news/novosti/2024-02-13/ogon-ne-schadit-bezotvetstvennyh-3641257\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">13 February, 09:43</div></div><div class=\"title\">Fire does not spare irresponsible</div></div></div></a><a href=\"/news/novosti/2024-02-12/vazhen-lichnyy-vklad-kazhdogo-3640826\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">12 February</div></div><div class=\"title\">Everyone's personal contribution is important!</div></div></div></a><a href=\"/news/novosti/2024-02-12/tolko-vpered-3640797\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">12 February, 17:34</div></div><div class=\"title\">Just the front.</div></div></div></a><a href=\"/news/novosti/2024-02-12/v-mezhvuzovskom-kampuse-ufy-uchenye-uunit-sprognoziruyut-geneticheskie-riski-3640686\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">12 February 16:41</div></div><div class=\"title\">In the Inter-UfA camp, Ufah scientists predict genetic risks</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "To victory together!",
+            "date": "15 February, 10:30",
+            "tag": "News"
+        },
+        {
+            "title": "Enduring hope",
+            "date": "14 February 16:13",
+            "tag": "News"
+        },
+        {
+            "title": "How do you know that your real estate has been in circulation?",
+            "date": "14 February 12:45",
+            "tag": "News"
+        },
+        {
+            "title": "Ten-Year War: Meeting of Afghan Himnasists and Veterans",
+            "date": "14 February, 12:18",
+            "tag": "News"
+        },
+        {
+            "title": "&quot; A person is chosen without profession and a person is a profession &quot;",
+            "date": "14 February, 11:48",
+            "tag": "News"
+        },
+        {
+            "title": "With a shovel in hand against the poem",
+            "date": "14 February 10:44",
+            "tag": "News"
+        },
+        {
+            "title": "The dream is a meeting.",
+            "date": "14 February 10:04",
+            "tag": "News"
+        },
+        {
+            "title": "48-year-old female fraudsters, known for almost 900,000 roubles",
+            "date": "14 February, 09:53",
+            "tag": "News"
+        },
+        {
+            "title": "Russia wants to replace 14 February with another holiday",
+            "date": "14 February 09:05",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, on 17 February, submarine and residential rounds began",
+            "date": "13 February, 20:33",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, production of vegetable oils increased significantly over the year",
+            "date": "13 February, 17:23",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, the robot replaced the patient with a knee joint",
+            "date": "13 February, 17:05",
+            "tag": "News"
+        },
+        {
+            "title": "Election 2024: open the door to the door.",
+            "date": "13 February, 12:27",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, a woman spent the night in the winter forest. On the night of 13 February",
+            "date": "13 February, 11:57",
+            "tag": "News"
+        },
+        {
+            "title": "In 2024, 123 public territories will benefit in Bashkiria.",
+            "date": "13 February 11:31",
+            "tag": "News"
+        },
+        {
+            "title": "The student took a large amount of money from the Belebei pensioner.",
+            "date": "13 February, 10:41",
+            "tag": "News"
+        },
+        {
+            "title": "Fire does not spare irresponsible",
+            "date": "13 February, 09:43",
+            "tag": "News"
+        },
+        {
+            "title": "Everyone's personal contribution is important!",
+            "date": "12 February",
+            "tag": "News"
+        },
+        {
+            "title": "Just the front.",
+            "date": "12 February, 17:34",
+            "tag": "News"
+        },
+        {
+            "title": "In the Inter-UfA camp, Ufah scientists predict genetic risks",
+            "date": "12 February 16:41",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1707979275942,
+    "domain": "belizvest.ru"
+}

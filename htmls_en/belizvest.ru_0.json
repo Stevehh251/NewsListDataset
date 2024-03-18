@@ -1,0 +1,108 @@
+{
+    "url": "https://belizvest.ru/news/novosti",
+    "html": "<!DOCTYPE html>\n<html lang=\"ru\"><head><title>White news</title></head><body class=\"desktop \"><div id=\"__nuxt\"><div id=\"__layout\"><div><div class=\"bg-white\"><div class=\"bnr-container top-banner mb-0\"><div title=\"banner_1\" class=\"adfox-bnr bnr\"></div></div></div><div class=\"topline-container\"><div><div class=\"topline\"><div class=\"container\"><a href=\"/\" class=\"logo-text nuxt-link-active\">White news</a><div class=\"weather ml-auto mr-3\"><div class=\"icon clouds\"></div><div class=\"text\">-5 °C<br>Cool.</div></div><a href=\"https://t.me/belizvest\" target=\"_blank\" class=\"topline-item blue\">Telegrama</a><a href=\"https://belizvest.ru/news/pozdravleniya/2022-02-22/antiterror-2702481\" target=\"_blank\" class=\"topline-item red\">Anti-terrorism</a><a href=\"https://belizvest.ru/news/novosti/2022-11-01/net-narkotikam-3043797\" target=\"_self\" class=\"topline-item default\">No drugs!</a><div class=\"menu-trigger\"></div></div></div></div></div><div><div class=\"container page\"><section class=\"list-cols\"><div class=\"top\"><h1 class=\"h1\">News</h1></div></section><section class=\"list-cols\"><div><div class=\"matter-grid\"><a href=\"/news/novosti/2023-12-28/podarili-chastichku-prazdnika-3585813\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">28 December 15:16</div></div><div class=\"title\">Got a part of the party.</div></div></div></a><a href=\"/news/novosti/2023-12-28/po-dostizheniyam-i-nagrady-3585637\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">28 December, 13:31</div></div><div class=\"title\">Achievements and awards!</div></div></div></a><a href=\"/news/novosti/2023-12-27/muzyku-pavla-krylova-igrayut-v-ulyanovske-3584443\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December 17:08</div></div><div class=\"title\">Paula Krylova's music plays in Ulianovsk</div></div></div></a><a href=\"/news/novosti/2023-12-27/analitiki-sravnili-tarify-na-otoplenie-v-bashkirii-i-drugih-sub-ektah-strany-3584138\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December 14:40</div></div><div class=\"title\">Analysts compared tariffs on heating in Bashkiria and other country entities</div></div></div></a><a href=\"/news/novosti/2023-12-27/ufimskaya-kompaniya-zaklyuchila-dogovor-postavki-s-uzbekistanom-na-160-mln-rubley-3584043\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December, 13:45</div></div><div class=\"title\">The company had entered into a 160 million roubles contract with Uzbekistan</div></div></div></a><a href=\"/news/novosti/2023-12-27/ufa-samyy-zharkiy-gorod-rossii-3583881\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December 11:24</div></div><div class=\"title\">Ufa is the hottest city of Russia</div></div></div></a><a href=\"/news/novosti/2023-12-27/top-5-zakusok-k-novogodnemu-stolu-3583844\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December 11:06</div></div><div class=\"title\">Top-5 snack for the new day table.</div></div></div></a><a href=\"/news/novosti/2023-12-27/v-bashkirii-zametili-spuskayuschihsya-s-kryshi-deda-moroza-i-snegurochku-3583816\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December 10:53</div></div><div class=\"title\">In Bashkiria, they noticed the deda Moroza and Snegurka coming down from the roof.</div></div></div></a><a href=\"/news/novosti/2023-12-27/zabeg-obeschaniy-2024-3583600\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December, 10:09</div></div><div class=\"title\">End of promise 2024</div></div></div></a><a href=\"/news/novosti/2023-12-27/103-goda-ispolnilos-veteranu-velikoy-otechestvennoy-voyny-petru-streltsovu-3583519\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December, 09:41</div></div><div class=\"title\">103 years old, the veteran of the Great Father's War, Petra Strelsov!</div></div></div></a><a href=\"/news/novosti/2023-12-27/pochtovye-otdeleniya-bashkirii-izmenyat-grafik-raboty-v-novogodnie-kanikuly-3583484\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">27 December, 09:23</div></div><div class=\"title\">Bashkiri Post Offices will change the schedule of work for the new year holiday</div></div></div></a><a href=\"/news/novosti/2023-12-26/na-bashkiriyu-nadvigaetsya-moschnaya-magnitnaya-burya-3583074\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December, 17:07</div></div><div class=\"title\">Bashkiri's on a powerful magnetic storm.</div></div></div></a><a href=\"/news/novosti/2023-12-26/27-dekabrya-den-spasatelya-rossiyskoy-federatsii-3582958\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December, 16:11</div></div><div class=\"title\">27 December - Day of Rescue of the Russian Federation</div></div></div></a><a href=\"/news/novosti/2023-12-26/na-remont-fonyaschih-dorog-v-2024-godu-napravyat-do-5-mlrd-rubley-3582898\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December 15:42</div></div><div class=\"title\">Up to 5 billion roubles will be sent in 2024 to repair the &amp;quot; fund-raising &amp;quot; roads</div></div></div></a><a href=\"/news/novosti/2023-12-26/blagodarnost-ot-prezidenta-strany-3582734\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December, 14:41</div></div><div class=\"title\">Tribute from the President</div></div></div></a><a href=\"/news/novosti/2023-12-26/v-mezhvuzovskiy-kampus-ufy-nachali-zaezzhat-pervye-laboratorii-3582595\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December 14:24</div></div><div class=\"title\">In the Inter-Vusian Campus of Ufa, the first labs started to run.</div></div></div></a><a href=\"/news/novosti/2023-12-26/maksim-zabelin-podarit-malchiku-iz-bashkirii-teleskop-3582356\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December, 11:57</div></div><div class=\"title\">Maxim Zabelin will give the boy from Bashkiria a telescope.</div></div></div></a><a href=\"/news/novosti/2023-12-26/v-bashkirii-izdan-kalendar-znamenatelnyh-i-pamyatnyh-dat-na-2024-god-3582236\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December 11:15</div></div><div class=\"title\">Bashkiria issued a 2024 Degree and commemoration calendar</div></div></div></a><a href=\"/news/novosti/2023-12-26/uchastvuyte-v-proekte-vsey-semiey-3582225\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December, 10:58</div></div><div class=\"title\">Participate in the whole family project</div></div></div></a><a href=\"/news/novosti/2023-12-26/v-pyati-rayonah-bashkirii-zafiksirovali-kriticheskiy-uroven-smertnosti-3582120\" class=\"item item\"><div><div class=\"blur-img-container\"><div class=\"blur-img-blur\"></div><img class=\"blur-img-img\"></div></div><div class=\"text\"><div><div class=\"rubric-date\"><div class=\"cm-rubric\">News</div><div class=\"cm-date\">26 December, 10:26</div></div><div class=\"title\">In five Baskiria regions, high mortality rates were recorded</div></div></div></a></div><div class=\"component\"><span></span></div><div class=\"no-results\">At your request, nothing has been found, try to make a new request.</div><div class=\"all-matters\">All materials</div></div><div><div class=\"bnr-container top-sticky local_ext\"><div title=\"banner_6\" class=\"adfox-bnr bnr\"></div></div></div></section><div></div></div></div><div class=\"footer\"><div><div class=\"container __2 __3 __4\"><div><p>2023 Site of the Belebeev news Copies of the site are only authorized with the written consent of the Administration.</p></div><div><p>Registered by the Office of the Federal Service for the Supervision of Communication, Information Technology and Mass Communication Legislation in the Republic of Bashkortostan. Media Registration Certificate: IP No.02-01476 of 05 November 2015</p></div><div><p>Chief Editor, Shirin Svetlan Vildanovna</p></div><div class=\"contacts\"><div><b>E-mail</b><div><a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\">[email protected]</a></div></div><div><b>Address</b><div>452000, Republic of Bashkortostan, Belebey, Mulo Lugoya, 53A</div></div><div><b>Advertising service</b><div>(34786) 3-25-44</div></div><div><b>Editorial</b><div>(34786) 3-23-02</div></div><div><b>Cooperation</b><div>(34786) 3-08-47</div></div><div><b>Personnel Division</b><div>(34786) 4-14-73</div></div></div></div><div class=\"container\"><div class=\"flex mt-4\"><a href=\"https://metrika.yandex.ru/stat/?id=44920621\" target=\"_blank\" rel=\"nofollow\" class=\"mr-4\"><img src=\"https://informer.yandex.ru/informer/44920621/3_0_FFFFFFFF_EFEFEFFF_0_pageviews\" alt=\"Яндекс.Метрика\" title=\"Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)\"></a><a href=\"https://www.liveinternet.ru/click\" target=\"_blank\" class=\"mr-4\"><img src=\"https://counter.yadro.ru/logo?11.6\" title=\"LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня\" alt width=\"88\" height=\"31\"></a></div></div></div></div></div></div></div></body></html>",
+    "info": [
+        {
+            "title": "Got a part of the party.",
+            "date": "28 December 15:16",
+            "tag": "News"
+        },
+        {
+            "title": "Achievements and awards!",
+            "date": "28 December, 13:31",
+            "tag": "News"
+        },
+        {
+            "title": "Paula Krylova's music plays in Ulianovsk",
+            "date": "27 December 17:08",
+            "tag": "News"
+        },
+        {
+            "title": "Analysts compared tariffs on heating in Bashkiria and other country entities",
+            "date": "27 December 14:40",
+            "tag": "News"
+        },
+        {
+            "title": "The company had entered into a 160 million roubles contract with Uzbekistan",
+            "date": "27 December, 13:45",
+            "tag": "News"
+        },
+        {
+            "title": "Ufa is the hottest city of Russia",
+            "date": "27 December 11:24",
+            "tag": "News"
+        },
+        {
+            "title": "Top-5 snack for the new day table.",
+            "date": "27 December 11:06",
+            "tag": "News"
+        },
+        {
+            "title": "In Bashkiria, they noticed the deda Moroza and Snegurka coming down from the roof.",
+            "date": "27 December 10:53",
+            "tag": "News"
+        },
+        {
+            "title": "End of promise 2024",
+            "date": "27 December, 10:09",
+            "tag": "News"
+        },
+        {
+            "title": "103 years old, the veteran of the Great Father's War, Petra Strelsov!",
+            "date": "27 December, 09:41",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiri Post Offices will change the schedule of work for the new year holiday",
+            "date": "27 December, 09:23",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiri's on a powerful magnetic storm.",
+            "date": "26 December, 17:07",
+            "tag": "News"
+        },
+        {
+            "title": "27 December - Day of Rescue of the Russian Federation",
+            "date": "26 December, 16:11",
+            "tag": "News"
+        },
+        {
+            "title": "Up to 5 billion roubles will be sent in 2024 to repair the &quot; fund-raising &quot; roads",
+            "date": "26 December 15:42",
+            "tag": "News"
+        },
+        {
+            "title": "Tribute from the President",
+            "date": "26 December, 14:41",
+            "tag": "News"
+        },
+        {
+            "title": "In the Inter-Vusian Campus of Ufa, the first labs started to run.",
+            "date": "26 December 14:24",
+            "tag": "News"
+        },
+        {
+            "title": "Maxim Zabelin will give the boy from Bashkiria a telescope.",
+            "date": "26 December, 11:57",
+            "tag": "News"
+        },
+        {
+            "title": "Bashkiria issued a 2024 Degree and commemoration calendar",
+            "date": "26 December 11:15",
+            "tag": "News"
+        },
+        {
+            "title": "Participate in the whole family project",
+            "date": "26 December, 10:58",
+            "tag": "News"
+        },
+        {
+            "title": "In five Baskiria regions, high mortality rates were recorded",
+            "date": "26 December, 10:26",
+            "tag": "News"
+        }
+    ],
+    "timestamp": 1703790457234,
+    "domain": "belizvest.ru"
+}
