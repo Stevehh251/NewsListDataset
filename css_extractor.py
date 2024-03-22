@@ -8,7 +8,7 @@ import sys
 from glob import glob
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-
+from tqdm import tqdm
 
 def xpath_soup(element):
     '''
@@ -31,7 +31,7 @@ def xpath_soup(element):
     return '/%s' % '/'.join(components)
 
 
-def generate_xpaths(html: str, block_selector: str) -> list:
+def generate_block_xpaths(html: str, block_selector: str) -> list:
     '''
         This function generate list of xpaths for first node with text into each block
     '''
@@ -48,11 +48,30 @@ def generate_xpaths(html: str, block_selector: str) -> list:
 
     return xpaths
 
+def generate_labeled_xpaths(html: str, selector: str, label: str) -> dict:
+    
+    '''
+        return 
+        xpath -> label
+    '''
+
+    soup = BeautifulSoup(html, 'html.parser')
+    elements = soup.select(selector)
+
+    result = {}
+
+    for entity in elements:
+        text_node = entity.find(text=True)
+        if text_node:
+            result[xpath_soup(text_node)] = label
+
+    return result
+
 
 def load_selectors(selectors_folder: str) -> dict:
     '''
         This function returns dict of css_selectors
-        netloc:str -> selector:str
+        netloc:str -> selectors:dict
     '''
     if not os.path.exists(selectors_folder):
         raise Exception("Invalid css selectors directory")
@@ -73,11 +92,9 @@ def load_selectors(selectors_folder: str) -> dict:
         if url.startswith("www."):
             url = url[4:]
 
-        for selector in record["selectors"]:
-            if selector["id"] == "block":
-                block_selector = selector["selector"]
-                selectors[url] = block_selector
-                break
+            
+        selectors[url] = {selector["id"]: selector["selector"] for selector in record["selectors"]}
+            
 
         
     return selectors
@@ -94,6 +111,7 @@ if __name__ == "__main__":
         os.mkdir(sys.argv[3])
     else:
         print("Directory already exists")
+        raise Exception("Directory already exists")
         
     
     in_path = os.path.abspath(sys.argv[1])
@@ -104,7 +122,7 @@ if __name__ == "__main__":
 
     files_path = glob(os.path.join(in_path, "*.json"))
 
-    for file_path in files_path:
+    for file_path in tqdm(files_path):
         with open(file_path) as file:
             info = json.load(file)
 
@@ -112,9 +130,20 @@ if __name__ == "__main__":
         if netloc.startswith("www."):
             netloc = netloc[4:]
 
-        xpaths = generate_xpaths(info["html"], selectors[netloc])
-        info["xpaths"] = xpaths
-
+        block_xpaths = generate_block_xpaths(info["html"], selectors[netloc]["block"])
+        info["xpaths"] = block_xpaths
+        
+        allowed_labels = ["block", "title", "short_text", "date", "time", "tag", "short_title", "author"]
+        labeled_xpaths = {}
+        for name in selectors[netloc].keys():
+            if not (name in allowed_labels):
+                raise Exception(f"Label {name} doesnt allowed in {file_path}")
+            
+            if name != "block":      
+                labeled_xpaths |= generate_labeled_xpaths(info["html"], selectors[netloc][name], name)
+        info["labeled_xpaths"] = labeled_xpaths
+        
+        
         filename = os.path.basename(file_path)
 
         with open(os.path.join(out_path, filename), "w", encoding="utf-8") as file:

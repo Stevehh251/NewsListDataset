@@ -16,8 +16,24 @@ def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 if __name__ == "__main__":
-    # folder_path = sys.argv[1]
-    folder_path = "html/"
+    
+    '''
+        Folder_path - path to folder with jsons with data
+        
+        Out_path -> path to three folders:
+            Out_path -> full dataset
+            Out_path_train -> train_part
+            Out_path_test -> test_part
+        
+    '''
+    
+    folder_path = sys.argv[1]
+    out_path = sys.argv[2]
+    
+    
+    
+    
+    # folder_path = "html/"
     filenames = glob(folder_path + "*.json")
     
     # Set for ended filenames in dataset 
@@ -153,23 +169,23 @@ if __name__ == "__main__":
                 test += filename_groups[domain]
         
         
-    prefix = "dataset_big"
+    # prefix = "test_marking"
     
-    os.mkdir(prefix)
+    os.mkdir(out_path)
     
     for filename in good_filenames:
         file = os.path.basename(filename)
-        shutil.copyfile(filename, prefix + "/" + file)
+        shutil.copyfile(filename, out_path + "/" + file)
         
-    os.mkdir(prefix + "_train")
+    os.mkdir(out_path + "_train")
     
     for filename in train:
         file = os.path.basename(filename)
-        shutil.copyfile(filename, prefix + "_train" + "/" + file)
+        shutil.copyfile(filename, out_path + "_train" + "/" + file)
         
-    os.mkdir(prefix + "_test")
+    os.mkdir(out_path + "_test")
     
     for filename in test:
         file = os.path.basename(filename)
-        shutil.copyfile(filename, prefix + "_test" + "/" + file)
+        shutil.copyfile(filename, out_path + "_test" + "/" + file)
         
