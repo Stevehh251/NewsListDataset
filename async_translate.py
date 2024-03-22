@@ -3,6 +3,7 @@ import argostranslate.translate
 from argostranslate.translate import get_installed_languages
 from collections.abc import Iterable
 
+import random
 import asyncio
 import json
 import re
@@ -62,6 +63,9 @@ def translate_html(html_str, translator, need_clean=True, from_code='auto', to_c
 
 
 def translate_file(file_path, out_path):
+    time.sleep(random.choice([1, 2, 3, 4]))
+    time.sleep(random.choice([1, 2, 3, 4]))
+
     start = time.time()
     from_code = "ru"
     to_code = "en"
@@ -83,21 +87,12 @@ def translate_file(file_path, out_path):
         for label, value in info.items():
             if label == "html":
                 translated_node["html"] = translate_html(value, translator)
-            elif label == "info":
-                result = []
-                for entity in value:
-                    translated_entity = {}
-                    for key, text in entity.items():
-                        translated_entity[key] = ru2en(text, translator)
-                        
-                        
-                    result.append(translated_entity)
-                translated_node[label] = result
-            else:
+            elif not (label == "info"):
                 translated_node[label] = value
                 
-    except Exception:
-        print("Cant translate\n")
+    except Exception as e:
+        print(f"Cant translate {file_path}")
+        print(str(e))
         return
     
     filename = os.path.basename(file_path)
@@ -110,7 +105,7 @@ def translate_file(file_path, out_path):
         
 
 async def main():
-    # python3 test_corpus_translate.py html htmls_en
+    # python3 async_translate.py dataset_big/ html_en_big
     '''
         This script translate dataset into english language
         First param: initial folder
@@ -122,7 +117,8 @@ async def main():
     
     file_to_translate = glob(os.path.join(in_path, "*.json"))
     translated_files = glob(os.path.join(out_path, "*.json"))
-    
+    translated_files = [os.path.basename(file_path) for file_path in translated_files]
+    print(translated_files)
     # BEGIN OF INITIALIZE
     
 
@@ -133,7 +129,11 @@ async def main():
     print(out_path)
     
     for file_path in tqdm(file_to_translate):
-        if file_path in translated_files:
+        
+        filename = os.path.basename(file_path)
+        
+        if filename in translated_files:
+            print(f"Already translated {filename}")
             continue
         task = asyncio.to_thread(translate_file, file_path, out_path)
         # task = asyncio.to_thread(translate_file(file_path, out_path))

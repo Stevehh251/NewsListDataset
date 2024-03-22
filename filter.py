@@ -66,7 +66,7 @@ if __name__ == "__main__":
     # Page number restriction
     
     if (True):
-        max_number_of_page = 16
+        max_number_of_page = 30
         
         filename_groups = defaultdict(list)
         new_filenames = set()
@@ -88,7 +88,7 @@ if __name__ == "__main__":
     
     
     # Train / Test split
-    if (True):
+    if (False):
         similar_data = []
         filename_groups = defaultdict(list)
         
@@ -116,14 +116,60 @@ if __name__ == "__main__":
         # print(*similar_data, sep='\n')
         # print(len(similar_data))
 
+    if (True):
+        similar_data = []
+        filename_groups = defaultdict(list)
         
+        for filename in good_filenames:
+            group_name = re.search(r'.*(?=_)', filename)
+            filename_groups[group_name[0]].append(filename)
+        
+        all_pages = 0
+        
+        # for first_domain in filename_groups.keys():
+        #     for second_domain in filename_groups.keys():
+            
+        #         first_domain_len = len(filename_groups[first_domain])
+        #         all_pages += first_domain_len
+        #         second_domain_len = len(filename_groups[second_domain])
+            
+        #         similar_data.append((similar(first_domain, second_domain),
+        #                             first_domain_len + second_domain_len,
+        #                             first_domain, second_domain))
+        
+        # max_similar = 0.8
+        # similar_data = list(filter(lambda x : 1.0 > x[0] > max_similar, similar_data))
+        # similar_data = sorted(similar_data)[::2]
+
+        train_part = 0.7
+        total_len = len(good_filenames)
+
+        train = []
+        test = []
+        for domain in filename_groups.keys():
+            if (len(train) + len(filename_groups[domain]) < train_part * total_len):
+                train += filename_groups[domain]
+            else:
+                test += filename_groups[domain]
+        
+        
+    prefix = "dataset_big"
     
-    
-    
-    os.mkdir("dataset")
+    os.mkdir(prefix)
     
     for filename in good_filenames:
         file = os.path.basename(filename)
-        shutil.copyfile(filename, "dataset/" + file)
+        shutil.copyfile(filename, prefix + "/" + file)
         
+    os.mkdir(prefix + "_train")
     
+    for filename in train:
+        file = os.path.basename(filename)
+        shutil.copyfile(filename, prefix + "_train" + "/" + file)
+        
+    os.mkdir(prefix + "_test")
+    
+    for filename in test:
+        file = os.path.basename(filename)
+        shutil.copyfile(filename, prefix + "_test" + "/" + file)
+        

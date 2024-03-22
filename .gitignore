@@ -1,2 +1,13 @@
 /__pycache__/
 /html/
+test_*.json
+
+.gitignore
+css
+css_selectors
+dataset_big
+html
+html_en_big
+htmls_en/*
+xpaths/*
+test_out*
